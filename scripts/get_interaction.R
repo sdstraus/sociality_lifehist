@@ -10,11 +10,7 @@ rm(list=ls())
 library(tidyverse)
 library("dplyr")
 library("tibble")
-library("readr") 
-library("ggplot2")
-library("magrittr")
 library('rglobi')
-library(progress)
 library(googlesheets4)
 # 
 # # # FUNCTIONS # #
