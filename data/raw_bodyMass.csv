@@ -1,0 +1,2111 @@
+scientific_name.x,Mass_kg,Mass_source
+Falcipennis canadensis,0.456,Zammuto_1986
+Rana clamitans,0.028,Wikipedia
+Rana sylvatica,0.0144,Trochet_etal_2014
+Pelobates fuscus,0.0216,Trochet_etal_2014
+Bombina variegata,0.00632,Trochet_etal_2014
+Salamandra salamandra,0.03523,Trochet_etal_2014
+Bombina bombina,0.00307,Trochet_etal_2014
+Bufo bufo,0.07654,Trochet_etal_2014
+Epidalea calamita,0.05022,Trochet_etal_2014
+Hyla arborea,0.00604,Trochet_etal_2014
+Rana arvalis,0.0108,Trochet_etal_2014
+Rana dalmatina,0.02099,Trochet_etal_2014
+Rana temporaria,0.04224,Trochet_etal_2014
+Anaxyrus americanus,0.06,Trochet_etal_2014
+Alytes obstetricans,0.0117,Trochet_etal_2014
+Triturus carnifex,0.00884,Trochet_etal
+NA,0.0013,Trochet_etal
+NA,0.00177,Trochet_etal
+NA,0.002,Trochet_etal
+NA,0.00268,Trochet_etal
+NA,0.00296,Trochet_etal
+NA,0.00318,Trochet_etal
+Rana iberica,0.00603,Trochet_etal
+NA,0.00628,Trochet_etal
+NA,0.00662,Trochet_etal
+NA,0.00734,Trochet_etal
+Salamandra atra aurorae,0.0082,Trochet_etal
+NA,8.91E-03,Trochet_etal
+NA,0.03318,Trochet_etal
+NA,0.0369,Trochet_etal
+NA,0.07621,Trochet_etal
+NA,0.30723,Trochet_etal
+Glaucomys sabrinus,0.14884,Tamburello_etal_2015
+Heterodon platirhinos,0.14732,Tamburello_etal_2015
+Pantherophis obsoletus,0.6428,Tamburello_etal_2015
+Bubo virginianus,1.51,Tamburello_etal_2015
+Deirochelys reticularia,0.588,Tamburello_etal_2015
+Chrysemys picta,0.3545,Tamburello_etal_2015
+Sylvilagus palustris,1.34999,Tamburello_etal_2015
+Vulpes rueppellii,3.24997,Tamburello_etal_2015
+Glaucomys volans,0.0645,Tamburello_etal_2015
+Emydoidea blandingii,1.294,Tamburello_etal_2015
+Aepyceros melampus,63.50384,Tamburello_etal_2015
+Sciurus aberti,0.7938,Tamburello_etal_2015
+Macropus rufogriseus,16.85,Tamburello_etal_2015
+Scalopus aquaticus,0.1035,Tamburello_etal_2015
+Acinonyx jubatus,50,Tamburello_etal_2015
+Lemmus sibiricus,0.09214,Tamburello_etal_2015
+Alces alces,307.22744,Tamburello_etal_2015
+Antilocapra americana,46.0999,Tamburello_etal_2015
+Apodemus sylvaticus,0.0212,Tamburello_etal_2015
+Capreolus capreolus,24.05027,Tamburello_etal_2015
+Cervus elaphus,234.75778,Tamburello_etal_2015
+Cervus nippon,29.45032,Tamburello_etal_2015
+Coracias garrulus,0.103,Tamburello_etal_2015
+Dipodomys merriami,0.04182,Tamburello_etal_2015
+Dipodomys spectabilis,0.14458,Tamburello_etal_2015
+Dipodomys stephensi,0.0762,Tamburello_etal_2015
+Fringilla coelebs,0.02325,Tamburello_etal_2015
+Gulo gulo,21.54567,Tamburello_etal_2015
+Helogale parvula,0.28184,Tamburello_etal_2015
+Lanius collurio,0.03,Tamburello_etal_2015
+Lepus americanus,1.36079,Tamburello_etal_2015
+Lepus californicus,2.26798,Tamburello_etal_2015
+Lepus europaeus,5.25001,Tamburello_etal_2015
+Lepus timidus,2.82501,Tamburello_etal_2015
+Lynx canadensis,10.20587,Tamburello_etal_2015
+Lynx lynx,29.99991,Tamburello_etal_2015
+Lynx rufus,11.33992,Tamburello_etal_2015
+Macropus fuliginosus,22.12483,Tamburello_etal_2015
+Marmota flaviventris,3.40197,Tamburello_etal_2015
+Marmota monax,3.40197,Tamburello_etal_2015
+Martes americana,0.88349,Tamburello_etal_2015
+Martes pennanti,3.17519,Tamburello_etal_2015
+Microtus agrestis,0.038,Tamburello_etal_2015
+Microtus ochrogaster,0.03544,Tamburello_etal_2015
+Microtus pennsylvanicus,0.04961,Tamburello_etal_2015
+Motacilla flava,0.0175,Tamburello_etal_2015
+Muscicapa striata,0.0128,Tamburello_etal_2015
+Mustela erminea,0.27054,Tamburello_etal_2015
+Neotoma cinerea,0.39548,Tamburello_etal_2015
+Ochotona princeps,0.1465,Tamburello_etal_2015
+Odocoileus hemionus,53.86417,Tamburello_etal_2015
+Odocoileus virginianus,87.88404,Tamburello_etal_2015
+Oenanthe oenanthe,0.0252,Tamburello_etal_2015
+Onychomys torridus,0.022,Tamburello_etal_2015
+Oryctolagus cuniculus,1.6,Tamburello_etal_2015
+Otospermophilus beecheyi,0.72575,Tamburello_etal_2015
+Ovis canadensis,90.71936,Tamburello_etal_2015
+Phoenicurus phoenicurus,0.01521,Tamburello_etal_2015
+Puma concolor,89.99948,Tamburello_etal_2015
+Rangifer tarandus,102.05869,Tamburello_etal_2015
+Sciurus niger,0.95299,Tamburello_etal_2015
+Sciurus vulgaris,0.3275,Tamburello_etal_2015
+Streptopelia turtur,0.14033,Tamburello_etal_2015
+Sylvilagus floridanus,1.36079,Tamburello_etal_2015
+Tamiasciurus hudsonicus,0.22396,Tamburello_etal_2015
+Taxidea taxus,8.61827,Tamburello_etal_2015
+Trichosurus vulpecula,2.87501,Tamburello_etal_2015
+Upupa epops,0.067,Tamburello_etal_2015
+Urocitellus columbianus,0.57834,Tamburello_etal_2015
+Vulpes velox,2.0893,Tamburello_etal_2015
+Lanius ludovicianus,0.0481,Tamburello_etal_2015
+Leopardus pardalis,9.98964,Tamburello_etal_2015
+Caracal caracal,12.9999,Tamburello_etal_2015
+Mustela nivalis,0.0881,Tamburello_etal_2015
+Aegithalos caudatus,0.008,Tamburello_etal_2015
+Lampropeltis triangulum,0.165,Tamburello_etal_2015
+Picus viridis,0.18667,Tamburello_etal_2015
+Coluber constrictor,0.55615,Tamburello_etal_2015
+Thomomys bottae,0.16018,Tamburello_etal_2015
+Sternotherus odoratus,0.19,Tamburello_etal_2015
+Nerodia erythrogaster,0.31324,Tamburello_etal_2015
+Nerodia sipeodon,0.19055,Tamburello_etal_2015
+Falco peregrinus,0.7815,Tamburello_etal_2015
+Asio otus,0.252,Tamburello_etal_2015
+Accipiter gentilis,0.978,Tamburello_etal_2015
+Accipiter striatus,0.141,Tamburello_etal_2015
+Vireo olivaceus,0.0176,Tamburello_etal_2015
+Antechinus stuartii,0.0275,Tamburello_etal_2015
+Crotalus horridus,1.02,Tamburello_etal_2015
+Natrix natrix,0.0785,Tamburello_etal_2015
+Gopherus polyphemus,0.335,Tamburello_etal_2015
+Motacilla alba,0.02122,Tamburello_etal_2015
+Saxicola rubetra,0.01648,Tamburello_etal_2015
+Sitta europaea,0.0183,Tamburello_etal_2015
+Brachylagus idahoensis,0.3402,Tamburello_etal_2015
+Microtus montanus,0.0567,Tamburello_etal_2015
+Sorex cinereus,0.00417,Tamburello_etal_2015
+Strix aluco,0.519,Tamburello_etal_2015
+Aegolius funereus,0.119,Tamburello_etal_2015
+Accipiter nisus,0.807,Tamburello_etal_2015
+Chelydra serpentina,4.25,Tamburello_etal_2015
+Athene noctua,0.1565,Tamburello_etal_2015
+Neotoma micropus,0.25515,Tamburello_etal_2015
+Tyto alba,0.285,Tamburello_etal_2015
+Linaria cannabina,0.0155,Tamburello_etal_2015
+Pituophis melanoleucus,1.004,Tamburello_etal_2015
+Genetta genetta,1.75001,Tamburello_etal_2015
+Gloydius shedaoensis,0.19681,Tamburello_etal_2015
+Buteo buteo,0.846,Tamburello_etal_2015
+Bison bison,629.9992,Tamburello_etal_2015
+Tragelaphus oryx,635.03842,Tamburello_etal_2015
+Hoplocephalus bungaroides,0.04879,Tamburello_etal_2015
+Capra hircus,50.99998,Tamburello_etal_2015
+Mareca strepera,0.719,Tamburello_etal
+Buteo jamaicensis,1.126,Tamburello_etal
+Phylloscopus bonelli,0.0075,Tamburello_etal
+Setophaga magnolia,0.0086,Tamburello_etal
+Sylvia undata,0.0088,Tamburello_etal
+Setophaga virens,0.009,Tamburello_etal
+Setophaga petechia,0.0095,Tamburello_etal
+Setophaga pensylvanica,0.0096,Tamburello_etal
+Setophaga fusca,0.0097,Tamburello_etal
+Serinus serinus,0.0107,Tamburello_etal
+Geothlypis philadelphia,0.0113,Tamburello_etal
+Thamnophis butleri,0.02151,Tamburello_etal
+Cuculus canorus,0.128,Tamburello_etal
+Crex crex,0.165,Tamburello_etal
+Agkistrodon contortrix,0.23112,tamburello_etal
+Rallus elegans,0.266,Tamburello_etal
+Cynictis penicillata,0.62,Tamburello_etal
+Ondatra zibethicus,1.36079,Tamburello_etal
+Macropus giganteus,10.37505,Tamburello_etal
+Gazella gazella,21.47484,Tamburello_etal
+Rupicapra rupicapra,30.99988,Tamburello_etal
+Equus caballus,427.99629,tamburello_etal
+Loxodonta africana,4000.00008,Tamburello_etal
+Panthera onca,84.04077,Tamburello_etal
+Prionailurus bengalensis,2.5,Tamburello_etal
+Uncia uncia,30.50001,Tamburello_etal
+Alopex lagopus,4.98953,Tamburello_etal
+Centrocercus urophasianus,1.75,Tamburello_etal
+Tamias quadrivittatus,0.058,Swihart_etal_1988
+Tamias minimus,0.045,Swihart_etal_1988
+Cynomys ludovicianus,1.1,Swihart_etal_1988
+Procyon lotor,8,Swihart_etal_1988
+Peromyscus longicaudus,0.008,Sutherland_etal_2000
+Peromyscus californicus,0.018,Sutherland_etal_2000
+Microtus townsendii,0.032,Sutherland_etal_2000
+Microtusoeconomus,0.032,Sutherland_etal_2000
+Microtusxanthognathus,0.135,Sutherland_etal_2000
+Megascops asio,0.2021,Smith_Wiemeyer_1992
+Toxostoma curvirostre,0.08054,Sibly_etal_2012
+Zonotrichia leucophrys,0.028,Sibly_etal_2012
+Charadrius montanus,0.0957,Sibly_etal_2012
+Calidris alpina,0.052,Sibly_etal_2012
+Ambystoma opacum,0.00493,Semlitch_1983
+Ambystoma tigrinum,0.018,Semlitch_1983
+Dendragapus obscurus,1.05,Schoener_1968
+Setophaga kirtlandii,0.014,Schoener_1968
+Cardellina canadensis,0.0093,Schoener_1968
+Setophaga pensylvanica,0.0096,Schoener_1968
+Setophaga petechia,0.0095,Schoener_1968
+Sturnella magna,0.089,Schoener_1968
+Sturnella neglecta,0.089,Schoener_1968
+Troglodytes aedon,0.0112,Schoener_1968
+Troglodytes troglodytes,0.0095,Schoener_1968
+Vireo bellii,0.01,Schoener_1968
+Vireo griseus,0.0114,Schoener_1968
+Lagopus lagopus,0.62,Schoener_1968
+Poecile palustris,0.011,Schoener_1968
+Turdus merula,0.092,Schoener_1968
+Poecile atricapillus,0.011,Schoener_1968
+Setophaga magnolia,0.0085,Schoener_1968
+Setophaga virens,0.009,Schoener_1968
+Empidonax wrightii,0.012,Schoener_1968
+Spizella arborea,0.018,Schoener_1968
+Rhincodontypus,20000,Rowat_Brooks_2012
+Lontra canadensis,6.225,Prugh_etal_2008
+Meles meles,13,Prugh_etal_2008
+Varanus varius,0.5651,Perry_Garland_2002
+Iguana iguana,1.068414286,Perry_Garland_2002
+Lacerta agilis,0.0314,Perry_Garland_2002
+Carinascincus microlepidotus,0.0042,Perry_Garland_2002
+Zootoca vivipara,0.0032,Perry_Garland_2002
+Buteo regalis,1.776,Ng_etal_2020
+Prionace glauca,70,Nakano_2003
+Pyrrhocorax graculus,0.245,Moller_etal_2005
+Sylvia atricapilla,0.0155,Moller_etal_2004
+Corvus corone,0.57,Moller_etal_2004
+Cyanistes caeruleus,0.0133,Moller_etal_2004
+Pica pica,0.189,Moller_etal_2004
+Streptopelia decaocto,0.152,Moller_etal_2004
+Motacilla cinerea,0.018,Moller_etal_2004
+Emberiza citrinella,0.0265,Moller_etal_2004
+Alauda arvensis,0.0427,Moller_etal_2004
+Passer montanus,0.022,Moller_etal_2004
+Columba livia,0.393,Moller_etal_2004
+Columba palumbus,0.49,Moller_etal_2004
+Sylvia melanocephala,0.0115,Moller_etal_2004
+Chloris chloris,0.0278,Moller_etal_2004
+Corvus monedula,0.246,Moller_etal_2004
+Corvus frugilegus,0.488,Moller_etal_2004
+Sylvia cantillans,0.0085,Moller_etal_2004
+Saxicola torquata,0.0144,Moller_etal_2004
+Phoenicurus ochruros,0.0164,Moller_etal_2004
+Hirundo daurica,0.0219,Moller_etal_2004
+Clamator glandarius,0.167,Moller_etal_2004
+Galagoides demidoff,0.06,Milton_May_1976
+Callicebus moloch,0.6,Milton_May_1976
+Cercopithecus talapoin,1.13,Milton_May_1976
+Cercopithecus aethiops,3.8,Milton_May_1976
+Presbytis senex,5.98,Milton_May_1976
+Presbytis cristatus,6.3,Milton_May_1976
+Colopus badia,8,Milton_May_1976
+Colopus guereza,8,Milton_May_1976
+Presbytis johnii,8.17,Milton_May_1976
+Presbytis entellus,17.2,Milton_May_1976
+Blarina brevicauda,0.018,McNab_1963
+Didelphis virginiana,3.63,McNab_1963
+Falco tinnunculus,0.2,Makarieva_etal_2005
+Aquila adalberti,3,Makarieva_etal_2005
+Parabuteo unicinctus,0.73,Makarieva_etal_2005
+Aegolius acadicus,0.085,Makarieva_etal_2005
+Aquila chrysaetos,1.6,Makarieva_etal_2005
+Lanius excubitor,0.065,makarieva_etal_2005
+Otus flammeolus,0.055,makarieva_etal_2005
+Ninox natalis,0.18,makarieva_etal_2005
+Micrastur gilvicollis,0.21,makarieva_etal_2005
+Elanus caeruleus,0.25,makarieva_etal_2005
+Ninox novaeseelandiae,0.25,makarieva_etal_2005
+Falco femoralis,0.34,makarieva_etal_2005
+Strix varia,0.8,makarieva_etal_2005
+Aquila clanga,1.9,makarieva_etal_2005
+Aquila rapax,2,makarieva_etal_2005
+Terathopius ecaudatus,2.25,makarieva_etal_2005
+Stepahnoaetus coronatus,3.6,makarieva_etal_2005
+Polemaetus bellicosus,4,makarieva_etal_2005
+Pithecophaga jefferyi,6.5,makarieva_etal_2005
+Microtus pinetorum,0.023,Mace_Harvey_1983
+Mus musculus,0.014,Mace_Harvey_1983
+Sciurus carolinensis,0.625,Mace_Harvey_1983
+Seiurus aurocapilla,0.0189,Mace_Harvey_1983
+Dumetella carolinensis,0.0359,Mace_Harvey_1983
+Ammodramus savannarum,0.0167,Mace_Harvey_1983
+Geothlypis trichas,0.0098,Mace_Harvey_1983
+Icteria virens,0.027,Mace_Harvey_1983
+Melospiza melodia,0.0216,Mace_Harvey_1983
+Passerina caerulea,0.0279,Mace_Harvey_1983
+Passerina cyanea,0.0143,Mace_Harvey_1983
+Protonotaria citrea,1.61E-02,Mace_Harvey_1983
+Setophaga ruticilla,0.009,Mace_Harvey_1983
+Sialia sialis,0.0308,Mace_Harvey_1983
+Spiza americana,0.035,Mace_Harvey_1983
+Calcarius lapponicus,0.0286,Mace_Harvey_1983
+Mimus polyglottos,0.0501,Mace_Harvey_1983
+Thryomanes bewickii,0.011,Mace_Harvey_1983
+Passer domesticus,0.029,Mace_Harvey_1983
+Zapus hudsonius,0.022,Mace_Harvey_1983
+Meleagris gallopavo,6.023,Mace_Harvey_1983
+Aplodontia rufa,1.135,Mace_Harvey_1983
+Tympanuchus cupido,0.908,Mace_Harvey_1983
+Aphelocoma coerulescens,0.0724,Mace_Harvey_1983
+Chamaea fasciata,0.0148,Mace_Harvey_1983
+Eremophila alpestris,0.0408,Mace_Harvey_1983
+Lullula arborea,0.03,Mace_Harvey_1983
+Perognathus longimembris,0.0083,Mace_Harvey_1983
+NA,0.0096,Mace_Harvey_1983
+Synaptomys cooperi,0.026,Mace_Harvey_1983
+Apodemus flavicollis,0.0309,Mace_Harvey_1983
+Onychomys leucogaster,0.031,Mace_Harvey_1983
+Habia rubica,0.0323,Mace_Harvey_1983
+Cardinalis cardinalis,0.0412,Mace_Harvey_1983
+Liomys salvini,0.0449,Mace_Harvey_1983
+Melozone fusca,0.0455,Mace_Harvey_1983
+Hylaeamys megacephalus,0.0663,Mace_Harvey_1983
+Nucifraga caryocatactes,0.13,Mace_Harvey_1983
+Colinus virginianus,0.2,Mace_Harvey_1983
+Microcavia australis,0.383,Mace_Harvey_1983
+Cavia aperea,0.525,Mace_Harvey_1983
+Bonasa umbellus,0.908,Mace_Harvey_1983
+Phasianus colchicus,1.136,Mace_Harvey_1983
+Reithrodontomys megalotis,0.009,Mace_Harvey_1983
+Napaeozapus insignis,0.026,Mace_Harvey_1983
+Sigmodon hispidus,0.08,Mace_Harvey_1983
+NA,0.0048,Mace_Harvey_1983
+Elanus leucurus,0.325,Jenkins_etal_2007
+Strix occidentalis,0.637,Jenkins_etal_2007
+Castor canadensis,20.25,Jenkins_etal_2007
+Canis latrans,14.06,Jenkins_etal_2007
+Larus delawarensis,0.57,Jenkins_etal_2007
+Lagopus leucura,0.516,Jenkins_etal_2007
+Recurvirostra americana,0.32,Jenkins_etal_2007
+Bucephala albeola,0.334,Jenkins_etal_2007
+Malurus splendens,0.01,Jenkins_etal_2007
+Perisoreus canadensis,0.071,Jenkins_etal_2007
+Strix nebulosa,1.16,Jenkins_etal_2007
+Tetrastes bonasia,0.429,Jenkins_etal_2007
+Picoides borealis,0.044,Jenkins_etal_2007
+Gymnorhinus cyanocephalus,0.103,Jenkins_etal_2007
+Dicamptodon tenebrosus,0.06765,Jenkins_etal_2007
+Carcharhinus limbatus,25.258,Jenkins_etal_2007
+Pseudacris triseriata,0.00179,Jenkins_etal_2007
+Falco columbarius,0.218,Jenkins_etal_2007
+Numenius phaeopus,0.4,Jenkins_etal_2007
+Sayornis nigricans,0.02,Jenkins_etal_2007
+Eudocimus albus,1.04,Jenkins_etal_2007
+Anas platyrhynchos,1.082,Jenkins_etal_2007
+Athene cunicularia,0.15,Jenkins_etal_2007
+Branta canadensis,3.814,Jenkins_etal_2007
+Cygnus buccinator,11.4,Jenkins_etal_2007
+Ambystoma californiense,0.0266,Jenkins_etal_2007
+Plethodon jordani,0.00427,Jenkins_etal_2007
+Ambystoma maculatum,0.03537,Jenkins_etal_2007
+Cygnus olor,11.8,Jenkins_etal_2007
+Carcharhinus melanopterus,5.518,Jenkins_etal_2007
+Ambystoma talpoideum,0.00294,Jenkins_etal_2007
+Delichon urbicum,0.02,Jenkins_etal_2007
+Scaphiopus holbrookii,0.02046,Jenkins_etal_2007
+Cryptobranchus alleganiensis,0.571,Humphries_Pauley_2005
+Selasphorus calliope,0.0028,Hein_Gillooly_2011
+Kobus kob,79,Hein_Gillooly_2011
+Cygnus cygnus,9.4,Hein_Gillooly_2011
+Camelus bactrianus,690,Hein_Gillooly_2011
+Antidorcas marsupialis,32,Hein_Gillooly_2011
+Spodoptera exigua,5.40E-05,Hein_Gillooly_2011
+Agrotis ipsilon,2.00E-04,Hein_Gillooly_2011
+Danaus plexippus,0.00057,Hein_Gillooly_2011
+Fulica atra,0.84,Hein_Gillooly_2011
+Xiphias gladius,22,Hein_Gillooly_2011
+Lamna ditropis,98,Hein_Gillooly_2011
+Cygnus columbianus,6.8,Hein_Gillooly_2011
+Caprimulgus vociferus,0.053,Hein_Gillooly_2011
+Aphis fabae,8.80E-07,Hein_Gillooly_2011
+NA,3.90E-06,Hein_Gillooly_2011
+NA,1.40E-05,Hein_Gillooly_2011
+NA,2.10E-05,Hein_Gillooly_2011
+NA,8.80E-05,Hein_Gillooly_2011
+NA,0.00016,Hein_Gillooly_2011
+NA,0.00019,Hein_Gillooly_2011
+NA,0.00021,Hein_Gillooly_2011
+NA,0.00033,Hein_Gillooly_2011
+NA,0.00042,Hein_Gillooly_2011
+NA,0.001,Hein_Gillooly_2011
+NA,0.0012,Hein_Gillooly_2011
+NA,0.0032,Hein_Gillooly_2011
+Archilochus colubris,0.0033,Hein_Gillooly_2011
+NA,0.0037,Hein_Gillooly_2011
+NA,0.012,Hein_Gillooly_2011
+NA,0.013,Hein_Gillooly_2011
+Ceyx picta,0.015,Hein_Gillooly_2011
+NA,0.015,Hein_Gillooly_2011
+NA,0.015,Hein_Gillooly_2011
+NA,0.018,Hein_Gillooly_2011
+NA,0.018,Hein_Gillooly_2011
+NA,0.018,Hein_Gillooly_2011
+Luscinia svecica,0.02,Hein_Gillooly_2011
+NA,0.021,Hein_Gillooly_2011
+NA,0.021,Hein_Gillooly_2011
+NA,0.022,Hein_Gillooly_2011
+Anthus spinoletta,0.024,Hein_Gillooly_2011
+NA,0.024,Hein_Gillooly_2011
+NA,0.024,Hein_Gillooly_2011
+NA,0.024,Hein_Gillooly_2011
+NA,0.026,Hein_Gillooly_2011
+NA,0.026,Hein_Gillooly_2011
+NA,0.036,Hein_Gillooly_2011
+NA,0.04,Hein_Gillooly_2011
+NA,0.043,Hein_Gillooly_2011
+NA,0.043,Hein_Gillooly_2011
+NA,0.048,Hein_Gillooly_2011
+NA,0.05,Hein_Gillooly_2011
+NA,0.05,Hein_Gillooly_2011
+NA,0.052,Hein_Gillooly_2011
+NA,0.052,Hein_Gillooly_2011
+NA,0.055,Hein_Gillooly_2011
+NA,0.06,Hein_Gillooly_2011
+NA,0.06,Hein_Gillooly_2011
+NA,0.062,Hein_Gillooly_2011
+NA,0.065,Hein_Gillooly_2011
+NA,0.068,Hein_Gillooly_2011
+NA,0.068,Hein_Gillooly_2011
+NA,0.07,Hein_Gillooly_2011
+NA,0.078,Hein_Gillooly_2011
+NA,0.082,Hein_Gillooly_2011
+NA,0.098,Hein_Gillooly_2011
+NA,0.11,Hein_Gillooly_2011
+NA,0.12,Hein_Gillooly_2011
+NA,0.12,Hein_Gillooly_2011
+NA,0.15,Hein_Gillooly_2011
+NA,0.16,Hein_Gillooly_2011
+NA,0.18,Hein_Gillooly_2011
+NA,0.18,Hein_Gillooly_2011
+NA,1.80E-01,Hein_Gillooly_2011
+NA,0.24,Hein_Gillooly_2011
+NA,0.24,Hein_Gillooly_2011
+NA,0.26,Hein_Gillooly_2011
+NA,2.80E-01,Hein_Gillooly_2011
+NA,0.28,Hein_Gillooly_2011
+NA,0.29,Hein_Gillooly_2011
+NA,0.3,Hein_Gillooly_2011
+NA,0.33,Hein_Gillooly_2011
+NA,0.37,Hein_Gillooly_2011
+NA,0.4,Hein_Gillooly_2011
+NA,0.45,Hein_Gillooly_2011
+NA,0.45,Hein_Gillooly_2011
+NA,4.60E-01,Hein_Gillooly_2011
+NA,0.56,Hein_Gillooly_2011
+NA,0.68,Hein_Gillooly_2011
+NA,0.7,Hein_Gillooly_2011
+NA,0.7,Hein_Gillooly_2011
+NA,8.70E-01,Hein_Gillooly_2011
+NA,0.88,Hein_Gillooly_2011
+NA,9.00E-01,Hein_Gillooly_2011
+Anas acuta,0.94,Hein_Gillooly_2011
+NA,1,Hein_Gillooly_2011
+NA,1.2,Hein_Gillooly_2011
+Branta bernicla,1.4,Hein_Gillooly_2011
+Branta leucopsis,1.80E+00,Hein_Gillooly_2011
+NA,1.9,Hein_Gillooly_2011
+Branta hutchinsii,2,Hein_Gillooly_2011
+NA,2.00E+00,Hein_Gillooly_2011
+Anser indicus,2.2,Hein_Gillooly_2011
+NA,2.50E+00,Hein_Gillooly_2011
+NA,2.5,Hein_Gillooly_2011
+NA,3.5,Hein_Gillooly_2011
+NA,3.9,Hein_Gillooly_2011
+NA,6,Hein_Gillooly_2011
+Lemmus lemmus,0.1,Hein_etal_2012
+Bucephala clangula,0.92,Hein_etal_2012
+Ficedula hypoleuca,0.016,Hein_etal_2012
+Phylloscopus trochilus,0.0087,Hein_etal_2012
+Chroicocephalus ridibundus,0.28,Hein_etal_2012
+Larus fuscus,0.8,Hein_etal_2012
+Connochaetes taurinus,140,Hein_etal_2012
+Sylvia communis,0.018,Hein_etal_2012
+Cervus canadensis,270,Hein_etal_2012
+Carcharodon carcharias,550,Hein_etal_2012
+Aythya fuligula,0.66,Hein_etal_2012
+Canis lupus,37,Hein_etal_2012
+Dicrostonyx groenlandicus,0.054,Hein_etal_2012
+Schistocerca gregaria,0.002,Hein_etal_2012
+Sturnus vulgaris,0.082,Hein_etal_2012
+Crocuta crocuta,59,Hein_etal_2012
+Equus zebra,240,Hein_etal_2012
+Peromyscus leucopus,0.021,Hein_etal_2012
+Tursiops truncatus,140,Hein_etal_2012
+Capreolus pygargus,40,Hein_etal_2012
+Ovibos moschatus,480,Hein_etal_2012
+Isurus oxyrinchus,58,Hein_etal_2012
+Ursus americanus,100,Hein_etal_2012
+Acrocephalus scirpaceus,0.011,Hein_etal_2012
+Physeter catodon,45000,Hein_etal_2012
+Hylocichla mustelina,0.051,Hein_etal_2012
+Riparia riparia,0.012,Hein_etal_2012
+Chordeiles minor,0.062,Hein_etal_2012
+Calidris mauri,0.047,Hein_etal_2012
+Anas crecca,0.35,Hein_etal_2012
+Dolichonyx oryzivorus,0.042,Hein_etal_2012
+Hirundo rustica,0.019,Hein_etal_2012
+Charadrius vociferus,0.095,Hein_etal_2012
+Grus americana,6.9,Hein_etal_2012
+Grus canadensis,4.4,Hein_etal_2012
+Junco hyemalis,0.022,Hein_etal_2012
+Arenaria interpres,0.14,Hein_etal_2012
+Piranga olivacea,0.029,Hein_etal_2012
+Progne subis,0.049,Hein_etal_2012
+Turdus migratorius,0.077,Hein_etal_2012
+Tachycineta bicolor,0.02,Hein_etal_2012
+Urile pelagicus,1.562,Hatch_et_al_2001
+Scapanus townsendii,0.142,Harestad_ Bunnel_1979
+Ictidomys tridecemlineatus,0.193,Harestad_ Bunnel_1979
+Tamiasciurus douglasii,0.254,Harestad_ Bunnel_1979
+Tamias striatus,0.085,Harestad_ Bunnel_1979
+Thomomys talpoides,0.14,Harestad_ Bunnel_1979
+Pecari tajacu,23.814,Harestad_ Bunnel_1979
+Sylvilagus bachmani,0.695,Harestad_ Bunnel_1979
+Ursus arctos,204.12,Harestad_ Bunnel_1979
+Didelphis marsupialis,2.724,Harestad_ Bunnel_1979
+Mustela frenata,0.165,Harestad_ Bunnel_1979
+Peromyscus maniculatus,0.016,Harestad_ Bunnel_1979
+Mephitis mephitis,2.586,Harestad_ Bunnel_1979
+Neovison vison,0.908,Harestad_ Bunnel_1979
+Myodes gapperi,0.016,Harestad_ Bunnel_1979
+Neurotrichus gibbsii,0.0095,Harestad and Bunnel 1979
+Microtus oregoni,0.02,Harestad and Bunnel 1979
+Mustela rixosa,0.042,Harestad and Bunnel 1979
+Sylvilagus auduboni,0.963,Harestad and Bunnel 1979
+Sylvilagus transitionalis,1.191,Harestad and Bunnel 1979
+Sylvilagus aquaticus,2.198,Harestad and Bunnel 1979
+Lepus alleni,3.632,Harestad and Bunnel 1979
+Erethizon dorsatum,7.882,Harestad and Bunnel 1979
+Panthera pardus,52.4,Gittleman_Harvey_1982
+Panthera tigris,161,Gittleman_Harvey_1982
+Lycaon pictus,22,Gittleman_Harvey_1982
+Vulpes vulpes,4.1,Gittleman_Harvey_1982
+Panthera leo,155.8,Gittleman_Harvey_1982
+Felis silvestris,4.7,Gittleman and Harvey (1982)
+Herpestes sanguineus,0.49,Gittleman and Harvey (1982)
+Herpestes auropunctatus,0.78,Gittleman and Harvey (1982)
+Martes martes,1.2,Gittleman and Harvey (1982)
+Mungos mungo,1.26,Gittleman and Harvey (1982)
+Nandinia biontata,3.2,Gittleman and Harvey (1982)
+Ichneumia albicauda,3.9,Gittleman and Harvey (1982)
+Nasua narica ,5,Gittleman and Harvey (1982)
+Proteles cristatus,8.3,Gittleman and Harvey (1982)
+Lutrogale persicillata,8.8,Gittleman and Harvey (1982)
+Hyaena hyaena,26.8,Gittleman and Harvey (1982)
+Croctua croctua,52,Gittleman and Harvey (1982)
+Leptailurus serval,11.7,Gittleman and Harvey (1982)
+Hyaena brunnea,43.3,Gittleman & Harvey (1982)
+Desmognathus fuscus,0.0045,Gatz_Piiper_1979
+Hylobates lar,5.64,Galan-Acedo_etal_2019
+Alouatta palliata,6.12,Galan-Acedo_etal_2019
+Chlorocebus aethiops,4.65,Galan-Acedo_etal_2019
+Microcebus murinus,0.06,Galan-Acedo_etal_2019
+Mirza coquereli,0.31,Galan-Acedo et al. 2019
+Aotus azarae,1.21,Galan-Acedo et al. 2019
+NA,0.03,Galan-Acedo et al. 2019
+Microcebus_sambiranensis,0.04,Galan-Acedo et al. 2019
+NA,0.04,Galan-Acedo et al. 2019
+Microcebus_lehilahytsara,0.045,Galan-Acedo et al. 2019
+Microcebus_griseorufus,0.05,Galan-Acedo et al. 2019
+Tarsius_pumilus,0.051,Galan-Acedo et al. 2019
+Microcebus_ravelobensis,0.055,Galan-Acedo et al. 2019
+NA,0.08,Galan-Acedo et al. 2019
+Tarsius_dentatus,0.112,Galan-Acedo et al. 2019
+Cebuella_pygmaea,0.12,Galan-Acedo et al. 2019
+Cephalopachus_bancanus,0.12,Galan-Acedo et al. 2019
+Galagoides_thomasi,0.12,Galan-Acedo et al. 2019
+Tarsius_tarsier,0.122,Galan-Acedo et al. 2019
+Carlito_syrichta,0.13,Galan-Acedo et al. 2019
+Galagoides_cocos,0.14,Galan-Acedo et al. 2019
+Galagoides_zanzibaricus,0.14,Galan-Acedo et al. 2019
+Tarsius_pelengensis,0.16,Galan-Acedo et al. 2019
+NA,0.17666667,Galan-Acedo et al. 2019
+Loris_tardigradus,0.19,Galan-Acedo et al. 2019
+Galago_gallarum,0.2,Galan-Acedo et al. 2019
+Galago_moholi,0.2,Galan-Acedo et al. 2019
+Mico_melanurus,0.22,Galan-Acedo et al. 2019
+Callithrix_geoffroyi,0.24,Galan-Acedo et al. 2019
+Galago_senegalensis,0.25,Galan-Acedo et al. 2019
+Euoticus pallidus,0.253,Galan-Acedo et al. 2019
+Sciurocheirus_gabonensis,0.26,Galan-Acedo et al. 2019
+Cheirogaleus_sibreei,0.27,Galan-Acedo et al. 2019
+Euoticus elegantulus,0.27,Galan-Acedo et al. 2019
+Loris_lydekkerianus,0.27,Galan-Acedo et al. 2019
+Sciurocheirus_alleni,0.27,Galan-Acedo et al. 2019
+Sciurocheirus_cameronensis,0.27,Galan-Acedo et al. 2019
+Nycticebus_menagensis,0.285,Galan-Acedo et al. 2019
+Leontocebus_illigeri,0.29,Galan-Acedo et al. 2019
+Mirza_zaza,0.29,Galan-Acedo et al. 2019
+Arctocebus_calabarensis,0.31,Galan-Acedo et al. 2019
+Callithrix_jacchus,0.32,Galan-Acedo et al. 2019
+Mico_intermedius,0.325,Galan-Acedo et al. 2019
+Callithrix_penicillata,0.33,Galan-Acedo et al. 2019
+Leontocebus_fuscicollis,0.33,Galan-Acedo et al. 2019
+NA,0.34,Galan-Acedo et al. 2019
+Mico_argentatus,0.35,Galan-Acedo et al. 2019
+Leontocebus_nigrifrons,0.36,Galan-Acedo et al. 2019
+Leontocebus_weddelli,0.36,Galan-Acedo et al. 2019
+Callithrix_kuhlii,0.38,Galan-Acedo et al. 2019
+Leontocebus_tripartitus,0.4,Galan-Acedo et al. 2019
+Saguinus_oedipus,0.41,Galan-Acedo et al. 2019
+Mico_humeralifer,0.42,Galan-Acedo et al. 2019
+Nycticebus_pygmaeus,0.42,Galan-Acedo et al. 2019
+Saguinus_niger,0.42,Galan-Acedo et al. 2019
+Callithrix_flaviceps,0.43,Galan-Acedo et al. 2019
+Saguinus_bicolor,0.43,Galan-Acedo et al. 2019
+Callithrix_aurita,0.44,Galan-Acedo et al. 2019
+Saguinus_imperator,0.47,Galan-Acedo et al. 2019
+Callimico_goeldii,0.48,Galan-Acedo et al. 2019
+Leontocebus_nigricollis,0.48,Galan-Acedo et al. 2019
+Saguinus geoffroyi,0.49,Galan-Acedo et al. 2019
+Saguinus_leucopus,0.49,Galan-Acedo et al. 2019
+Saguinus_martinsi,0.5,Galan-Acedo et al. 2019
+NA,0.505,Galan-Acedo et al. 2019
+Saguinus_labiatus,0.51,Galan-Acedo et al. 2019
+Saguinus_mystax,0.53,Galan-Acedo et al. 2019
+Saguinus_midas,0.56,Galan-Acedo et al. 2019
+Leontopithecus_caissara,0.58,Galan-Acedo et al. 2019
+Leontopithecus_chrysomelas,0.58,Galan-Acedo et al. 2019
+NA,0.585,Galan-Acedo et al. 2019
+Leontopithecus_chrysopygus,0.615,Galan-Acedo et al. 2019
+NA,0.62,Galan-Acedo et al. 2019
+NA,0.6275,Galan-Acedo et al. 2019
+Leontopithecus_rosalia,0.64,Galan-Acedo et al. 2019
+Nycticebus_coucang,0.65,Galan-Acedo et al. 2019
+Aotus brumbacki,0.67,Galan-Acedo et al. 2019
+Lepilemur_sahamalazensis,0.69,Galan-Acedo et al. 2019
+Saguinus_inustus,0.69,Galan-Acedo et al. 2019
+Aotus vociferans,0.7,Galan-Acedo et al. 2019
+Nycticebus_javanicus,0.73,Galan-Acedo et al. 2019
+NA,0.76,Galan-Acedo et al. 2019
+Otolemur garnettii,0.76,Galan-Acedo et al. 2019
+Aotus trivirgatus,0.77,Galan-Acedo et al. 2019
+NA,0.78,Galan-Acedo et al. 2019
+Aotus nancymaae,0.79,Galan-Acedo et al. 2019
+Saimiri oerstedii,0.79,Galan-Acedo et al. 2019
+Aotus miconax,0.8,Galan-Acedo et al. 2019
+NA,0.8,Galan-Acedo et al. 2019
+Plecturocebus_oenanthe,0.8,Galan-Acedo et al. 2019
+Plecturocebus_olallae,0.8,Galan-Acedo et al. 2019
+Plecturocebus_pallescens,0.8,Galan-Acedo et al. 2019
+Saimiri_vanzolinii,0.8,Galan-Acedo et al. 2019
+Saimiri_sciureus,0.82,Galan-Acedo et al. 2019
+NA,0.82333333,Galan-Acedo et al. 2019
+Perodicticus_potto,0.83,Galan-Acedo et al. 2019
+Plecturocebus_brunneus,0.83,Galan-Acedo et al. 2019
+Lepilemur_mittermeieri,0.86,Galan-Acedo et al. 2019
+Saimiri_ustus,0.86,Galan-Acedo et al. 2019
+Saimiri_boliviensis,0.88,Galan-Acedo et al. 2019
+Saimiri_cassiquiarensis,0.88,Galan-Acedo et al. 2019
+Aotus lemurinus,0.89,Galan-Acedo et al. 2019
+Lepilemur_fleuretae,0.89,Galan-Acedo et al. 2019
+Aotus zonalis,0.9,Galan-Acedo et al. 2019
+Hapalemur_occidentalis,0.9315,Galan-Acedo et al. 2019
+Plecturocebus_aureipalatii,0.95,Galan-Acedo et al. 2019
+Plecturocebus_donacophilus,0.95,Galan-Acedo et al. 2019
+Aotus nigriceps,0.96,Galan-Acedo et al. 2019
+NA,0.96,Galan-Acedo et al. 2019
+NA,0.975,Galan-Acedo et al. 2019
+NA,0.98,Galan-Acedo et al. 2019
+NA,0.99,Galan-Acedo et al. 2019
+Plecturocebus_moloch,0.99,Galan-Acedo et al. 2019
+Plecturocebus_discolor,1.01,Galan-Acedo et al. 2019
+Lepilemur_microdon,1.035,Galan-Acedo et al. 2019
+Avahi peyrierasi,1.055,Galan-Acedo et al. 2019
+Plecturocebus_cupreus,1.07,Galan-Acedo et al. 2019
+Callicebus_barbarabrownae,1.15,Galan-Acedo et al. 2019
+Otolemur crassicaudatus,1.15,Galan-Acedo et al. 2019
+Plecturocebus_ornatus,1.17,Galan-Acedo et al. 2019
+NA,1.175,Galan-Acedo et al. 2019
+Avahi meridionalis,1.18,Galan-Acedo et al. 2019
+Perodicticus_edwardsi,1.19,Galan-Acedo et al. 2019
+NA,1.24,Galan-Acedo et al. 2019
+Cheracebus_torquatus,1.25,Galan-Acedo et al. 2019
+Miopithecus_ogouensis,1.25,Galan-Acedo et al. 2019
+Miopithecus_talapoin,1.25,Galan-Acedo et al. 2019
+Nycticebus_bengalensis,1.26,Galan-Acedo et al. 2019
+Callicebus_personatus,1.32,Galan-Acedo et al. 2019
+Cheracebus_lugens,1.37,Galan-Acedo et al. 2019
+NA,1.375,Galan-Acedo et al. 2019
+NA,1.47,Galan-Acedo et al. 2019
+Cheracebus_lucifer,1.5,Galan-Acedo et al. 2019
+Cheracebus_purinus,1.5,Galan-Acedo et al. 2019
+NA,1.515,Galan-Acedo et al. 2019
+Pithecia_pithecia,1.76,Galan-Acedo et al. 2019
+NA,1.83,Galan-Acedo et al. 2019
+NA,1.84,Galan-Acedo et al. 2019
+Eulemur sanfordi,1.87,Galan-Acedo et al. 2019
+Pithecia_chrysocephala,1.9,Galan-Acedo et al. 2019
+NA,1.98,Galan-Acedo et al. 2019
+NA,1.9975,Galan-Acedo et al. 2019
+NA,2.01,Galan-Acedo et al. 2019
+NA,2.04,Galan-Acedo et al. 2019
+NA,2.06333333,Galan-Acedo et al. 2019
+NA,2.16,Galan-Acedo et al. 2019
+NA,2.16,Galan-Acedo et al. 2019
+Pithecia_irrorata,2.16,Galan-Acedo et al. 2019
+NA,2.18,Galan-Acedo et al. 2019
+Cebus_aequatorialis,2.19,Galan-Acedo et al. 2019
+NA,2.21,Galan-Acedo et al. 2019
+Sapajus_flavius,2.35,Galan-Acedo et al. 2019
+Pithecia_monachus,2.36,Galan-Acedo et al. 2019
+Cebus_kaapori,2.425,Galan-Acedo et al. 2019
+Sapajus_libidinosus,2.54,Galan-Acedo et al. 2019
+NA,2.545,Galan-Acedo et al. 2019
+Cercopithecus_dryas,2.65,Galan-Acedo et al. 2019
+Cebus_albifrons,2.74,Galan-Acedo et al. 2019
+Chiropotes_chiropotes,2.74,Galan-Acedo et al. 2019
+Chiropotes_albinasus,2.82,Galan-Acedo et al. 2019
+Cebus_cuscinus,2.875,Galan-Acedo et al. 2019
+Sapajus_xanthosternos,2.875,Galan-Acedo et al. 2019
+Cebus_olivaceus,2.88,Galan-Acedo et al. 2019
+Chiropotes_satanas,2.885,Galan-Acedo et al. 2019
+NA,2.91,Galan-Acedo et al. 2019
+Cacajao_melanocephalus,2.94,Galan-Acedo et al. 2019
+Chiropotes_sagulatus,3,Galan-Acedo et al. 2019
+Chiropotes_utahickae,3,Galan-Acedo et al. 2019
+Pithecia_albicans,3,Galan-Acedo et al. 2019
+Sapajus_apella,3.01,Galan-Acedo et al. 2019
+Sapajus_macrocephalus,3.05,Galan-Acedo et al. 2019
+Sapajus_robustus,3.05,Galan-Acedo et al. 2019
+Cebus capucinus,3.11,Galan-Acedo et al. 2019
+Cacajao_calvus,3.17,Galan-Acedo et al. 2019
+Cebus_imitator,3.235,Galan-Acedo et al. 2019
+Cercopithecus_ascanius,3.24,Galan-Acedo et al. 2019
+Cercopithecus_sclateri,3.25,Galan-Acedo et al. 2019
+NA,3.265,Galan-Acedo et al. 2019
+Cercopithecus_erythrotis,3.4,Galan-Acedo et al. 2019
+Cercopithecus_cephus,3.48,Galan-Acedo et al. 2019
+NA,3.5,Galan-Acedo et al. 2019
+NA,3.55,Galan-Acedo et al. 2019
+Cercopithecus_pogonias,3.58,Galan-Acedo et al. 2019
+Cercopithecus_campbelli,3.6,Galan-Acedo et al. 2019
+Cercopithecus_petaurista,3.65,Galan-Acedo et al. 2019
+Sapajus_nigritus,3.7,Galan-Acedo et al. 2019
+NA,3.785,Galan-Acedo et al. 2019
+Cercopithecus_lowei,3.9,Galan-Acedo et al. 2019
+NA,3.9,Galan-Acedo et al. 2019
+Macaca_ochreata,3.95,Galan-Acedo et al. 2019
+Chlorocebus_djamdjamensis,3.98,Galan-Acedo et al. 2019
+Macaca_fascicularis,4.03,Galan-Acedo et al. 2019
+Cercopithecus_mona,4.05,Galan-Acedo et al. 2019
+NA,4.41,Galan-Acedo et al. 2019
+Procolobus_verus,4.45,Galan-Acedo et al. 2019
+Macaca sinica,4.48,Galan-Acedo et al. 2019
+Cercopithecus_diana,4.5,Galan-Acedo et al. 2019
+Cercopithecus_roloway,4.55,Galan-Acedo et al. 2019
+Chlorocebus_pygerythrus,4.665,Galan-Acedo et al. 2019
+Alouatta ululata,4.7,Galan-Acedo et al. 2019
+Chlorocebus_sabaeus,4.875,Galan-Acedo et al. 2019
+Cercopithecus mitis,4.89,Galan-Acedo et al. 2019
+Macaca radiata,5.14,Galan-Acedo et al. 2019
+Nomascus_gabriellae,5.2,Galan-Acedo et al. 2019
+Cercopithecus_albogularis,5.28,Galan-Acedo et al. 2019
+Chlorocebus_tantalus,5.325,Galan-Acedo et al. 2019
+Hylobates_muelleri,5.35,Galan-Acedo et al. 2019
+Alouatta caraya,5.38,Galan-Acedo et al. 2019
+Cercopithecus_nictitans,5.46,Galan-Acedo et al. 2019
+Hylobates_pileatus,5.47,Galan-Acedo et al. 2019
+Macaca_cyclopis,5.47,Galan-Acedo et al. 2019
+Allochrocebus lhoesti,5.5,Galan-Acedo et al. 2019
+Hylobates_funereus,5.5,Galan-Acedo et al. 2019
+Alouatta guariba,5.54,Galan-Acedo et al. 2019
+Presbytis_frontata,5.61,Galan-Acedo et al. 2019
+NA,5.685,Galan-Acedo et al. 2019
+Cercopithecus_neglectus,5.74,Galan-Acedo et al. 2019
+NA,5.74,Galan-Acedo et al. 2019
+Hylobates_klossii,5.8,Galan-Acedo et al. 2019
+Presbytis_mitrata,5.8,Galan-Acedo et al. 2019
+Piliocolobus_waldronae,5.9,Galan-Acedo et al. 2019
+Presbytis_hosei,5.9,Galan-Acedo et al. 2019
+Presbytis_sabana,5.9,Galan-Acedo et al. 2019
+Hylobates_albibarbis,5.95,Galan-Acedo et al. 2019
+Macaca mulatta,5.96,Galan-Acedo et al. 2019
+Hylobates_agilis,6,Galan-Acedo et al. 2019
+Alouatta seniculus,6.01,Galan-Acedo et al. 2019
+NA,6.105,Galan-Acedo et al. 2019
+Presbytis_rubicunda,6.13,Galan-Acedo et al. 2019
+Macaca_siberu,6.165,Galan-Acedo et al. 2019
+Piliocolobus_temminckii,6.175,Galan-Acedo et al. 2019
+Cercopithecus_kandti,6.2,Galan-Acedo et al. 2019
+Presbytis_femoralis,6.22,Galan-Acedo et al. 2019
+Trachypithecus_cristatus,6.25,Galan-Acedo et al. 2019
+Presbytis_potenziani,6.27,Galan-Acedo et al. 2019
+Alouatta arctoidea,6.37,Galan-Acedo et al. 2019
+Alouatta discolor,6.37,Galan-Acedo et al. 2019
+Alouatta macconnelli,6.37,Galan-Acedo et al. 2019
+Alouatta belzebul,6.4,Galan-Acedo et al. 2019
+Hylobates_moloch,6.42,Galan-Acedo et al. 2019
+Alouatta nigerrima,6.45,Galan-Acedo et al. 2019
+Presbytis_siberu,6.45,Galan-Acedo et al. 2019
+NA,6.465,Galan-Acedo et al. 2019
+Lophocebus_ugandae,6.5,Galan-Acedo et al. 2019
+Nomascus_leucogenys,6.5,Galan-Acedo et al. 2019
+Presbytis_melalophos,6.53,Galan-Acedo et al. 2019
+Alouatta pigra,6.56,Galan-Acedo et al. 2019
+Nomascus_hainanus,6.59,Galan-Acedo et al. 2019
+Trachypithecus_crepusculus,6.65,Galan-Acedo et al. 2019
+Macaca_leonina,6.7,Galan-Acedo et al. 2019
+Presbytis_comata,6.7,Galan-Acedo et al. 2019
+Presbytis_thomasi,6.73,Galan-Acedo et al. 2019
+Lophocebus_aterrimus,6.8,Galan-Acedo et al. 2019
+Hoolock_hoolock,6.88,Galan-Acedo et al. 2019
+Piliocolobus_kirkii,6.9,Galan-Acedo et al. 2019
+Lophocebus_albigena,6.95,Galan-Acedo et al. 2019
+Trachypithecus_obscurus,6.99,Galan-Acedo et al. 2019
+Nomascus_annamensis,7,Galan-Acedo et al. 2019
+Semnopithecus_vetulus,7.03,Galan-Acedo et al. 2019
+Piliocolobus_gordonorum,7.05,Galan-Acedo et al. 2019
+Lagothrix lagothricha,7.15,Galan-Acedo et al. 2019
+Hoolock_leuconedys,7.2,Galan-Acedo et al. 2019
+Lagothrix flavicauda,7.25,Galan-Acedo et al. 2019
+Lagothrix poeppigii,7.25,Galan-Acedo et al. 2019
+Trachypithecus_hatinhensis,7.275,Galan-Acedo et al. 2019
+Cercocebus_lunulatus,7.28,Galan-Acedo et al. 2019
+Piliocolobus_pennantii,7.4,Galan-Acedo et al. 2019
+Cercocebus_galeritus,7.44,Galan-Acedo et al. 2019
+Trachypithecus_phayrei,7.44,Galan-Acedo et al. 2019
+Cercocebus_torquatus,7.5,Galan-Acedo et al. 2019
+Macaca_silenus,7.5,Galan-Acedo et al. 2019
+Trachypithecus_francoisi,7.52,Galan-Acedo et al. 2019
+Ateles_geoffroyi,7.54,Galan-Acedo et al. 2019
+Nomascus_siki,7.56,Galan-Acedo et al. 2019
+Cercocebus_agilis,7.58,Galan-Acedo et al. 2019
+Trachypithecus_poliocephalus,7.6,Galan-Acedo et al. 2019
+Presbytis_siamensis,7.65,Galan-Acedo et al. 2019
+Colobus_vellerosus,7.68,Galan-Acedo et al. 2019
+Macaca_nigra,7.68,Galan-Acedo et al. 2019
+Nomascus_concolor,7.69,Galan-Acedo et al. 2019
+Macaca_maura,7.88,Galan-Acedo et al. 2019
+Simias_concolor,7.97,Galan-Acedo et al. 2019
+Cercocebus_sanjei,8.05,Galan-Acedo et al. 2019
+Ateles belzebuth,8.07,Galan-Acedo et al. 2019
+Trachypithecus_delacouri,8.175,Galan-Acedo et al. 2019
+Piliocolobus_badius,8.25,Galan-Acedo et al. 2019
+Ateles_paniscus,8.28,Galan-Acedo et al. 2019
+Trachypithecus_leucocephalus,8.285,Galan-Acedo et al. 2019
+Piliocolobus_preussi,8.3,Galan-Acedo et al. 2019
+Lagothrix cana,8.31,Galan-Acedo et al. 2019
+Ateles_hybridus,8.6,Galan-Acedo et al. 2019
+Cercocebus_atys,8.6,Galan-Acedo et al. 2019
+Colobus_angolensis,8.6,Galan-Acedo et al. 2019
+Piliocolobus_tephrosceles,8.75,Galan-Acedo et al. 2019
+Trachypithecus_germaini,8.83,Galan-Acedo et al. 2019
+Brachyteles arachnoides,8.84,Galan-Acedo et al. 2019
+Colobus_guereza,8.89,Galan-Acedo et al. 2019
+Macaca_nemestrina,8.89,Galan-Acedo et al. 2019
+Colobus_satanas,8.91,Galan-Acedo et al. 2019
+Brachyteles hypoxanthus,9,Galan-Acedo et al. 2019
+Macaca_assamensis,9,Galan-Acedo et al. 2019
+Macaca_hecki,9,Galan-Acedo et al. 2019
+Piliocolobus_rufomitratus,9,Galan-Acedo et al. 2019
+Colobus_polykomos,9.1,Galan-Acedo et al. 2019
+Ateles_chamek,9.37,Galan-Acedo et al. 2019
+Erythrocebus patas,9.45,Galan-Acedo et al. 2019
+Macaca_fuscata,9.5,Galan-Acedo et al. 2019
+Pygathrix_nemaeus,9.72,Galan-Acedo et al. 2019
+Pygathrix_nigripes,9.88,Galan-Acedo et al. 2019
+Pygathrix_cinerea,9.98,Galan-Acedo et al. 2019
+Rungwecebus_kipunji,10,Galan-Acedo et al. 2019
+Trachypithecus_geei,10.15,Galan-Acedo et al. 2019
+Macaca_arctoides,10.3,Galan-Acedo et al. 2019
+Trachypithecus_pileatus,10.93,Galan-Acedo et al. 2019
+Rhinopithecus_avunculus,11.25,Galan-Acedo et al. 2019
+Rhinopithecus_brelichi,11.25,Galan-Acedo et al. 2019
+Rhinopithecus_strykeri,11.25,Galan-Acedo et al. 2019
+Symphalangus_syndactylus,11.3,Galan-Acedo et al. 2019
+Semnopithecus_entellus,11.44,Galan-Acedo et al. 2019
+Semnopithecus_johnii,11.6,Galan-Acedo et al. 2019
+Macaca_tonkeana,11.95,Galan-Acedo et al. 2019
+Rhinopithecus_bieti,12.48,Galan-Acedo et al. 2019
+Semnopithecus_hypoleucos,13.1,Galan-Acedo et al. 2019
+Papio_hamadryas,13.4,Galan-Acedo et al. 2019
+Macaca_sylvanus,13.5,Galan-Acedo et al. 2019
+Rhinopithecus_roxellana,14.75,Galan-Acedo et al. 2019
+Macaca_munzala,15,Galan-Acedo et al. 2019
+Theropithecus_gelada,15.35,Galan-Acedo et al. 2019
+Macaca_thibetana,15.55,Galan-Acedo et al. 2019
+Nasalis larvatus,15.75,Galan-Acedo et al. 2019
+Papio anubis,16.65,Galan-Acedo et al. 2019
+Semnopithecus_schistaceus,17,Galan-Acedo et al. 2019
+Papio cynocephalus,17.05,Galan-Acedo et al. 2019
+Papio_papio,17.5,Galan-Acedo et al. 2019
+Semnopithecus_ajax,20.15,Galan-Acedo et al. 2019
+Mandrillus_leucophaeus,20.375,Galan-Acedo et al. 2019
+NA,22.3,Galan-Acedo et al. 2019
+Mandrillus_sphinx,23.6,Galan-Acedo et al. 2019
+Cebus_yuracus,33.5,Galan-Acedo et al. 2019
+Pan_paniscus,39.1,Galan-Acedo et al. 2019
+Pan_troglodytes,53.7,Galan-Acedo et al. 2019
+Pongo_abelii,56.75,Galan-Acedo et al. 2019
+Pongo_pygmaeus,57.15,Galan-Acedo et al. 2019
+Gorilla_gorilla,122.5,Galan-Acedo et al. 2019
+Gorilla_beringei,130,Galan-Acedo et al. 2019
+NA,200.17,Galan-Acedo et al. 2019
+Didelphis aurita,1.295,EOL
+Charadrius melodus,0.057,EOL
+Cerdocyon thous,6.75,EOL
+Pyrocephalus rubinus,1.25E-02,EOL
+Esox lucius,1.60E+01,EOL
+Urocyon cinereoargenteus,3.834,EOL
+Larus glaucescens,1.01,EOL
+Melospiza lincolnii,0.0194,EOL
+Poecile palustris,0.01,Broughton_etal_2006
+Setophaga americana,0.009,Bestetal_1996
+Vireo flavifrons,0.018,Bestetal_1996
+Bombycilla cedrorum,0.032,Bestetal_1996
+Myiarchus crinitus,0.034,Bestetal_1996
+Lophodytes cucullatus,0.61,Bestetal_1996
+NA,0.006,Bestetal_1996
+NA,0.008,Bestetal_1996
+NA,0.009,Bestetal_1996
+NA,0.009,Bestetal_1996
+NA,0.011,Bestetal_1996
+NA,0.013,Bestetal_1996
+NA,1.30E-02,Bestetal_1996
+NA,0.013,Bestetal_1996
+NA,0.013,Bestetal_1996
+NA,0.014,Bestetal_1996
+NA,0.015,Bestetal_1996
+NA,0.016,Bestetal_1996
+NA,0.017,Bestetal_1996
+NA,0.02,Bestetal_1996
+NA,0.026,Bestetal_1996
+Picoides pubescens,0.027,Bestetal_1996
+NA,0.028,Bestetal_1996
+NA,0.029,Bestetal_1996
+NA,0.031,Bestetal_1996
+NA,3.40E-02,Bestetal_1996
+NA,0.04,Bestetal_1996
+NA,0.046,Bestetal_1996
+NA,5.10E-02,Bestetal_1996
+NA,0.064,Bestetal_1996
+NA,0.065,Bestetal_1996
+Picoides villosus,0.066,Bestetal_1996
+NA,0.075,Bestetal_1996
+NA,0.082,Bestetal_1996
+NA,0.087,Bestetal_1996
+NA,0.114,Bestetal_1996
+NA,0.151,Bestetal_1996
+NA,0.352,Bestetal_1996
+NA,0.455,Bestetal_1996
+NA,0.545,Bestetal_1996
+NA,0.613,Bestetal_1996
+NA,0.642,Bestetal_1996
+NA,0.705,Bestetal_1996
+NA,0.706,Bestetal_1996
+NA,0.874,Bestetal_1996
+NA,8.83E-01,Bestetal_1996
+NA,1.045,Bestetal_1996
+NA,1.467,Bestetal_1996
+Ardea herodias,2.39,Bestetal_1996
+Dryocopus pileatus,0.287,Best_etal_1996
+Parkesia motacilla,0.02,Best_etal_1996
+Passerculus sandwichensis,0.02,Best_etal_1996
+Empidonax virescens,0.013,Best_etal_1996
+Colaptes auratus,0.132,Best_etal_1996
+Aix sponsa,0.658,Best_etal_1996
+Melanerpes erythrocephalus,0.072,Best_etal_1996
+Pipilo erythrophthalmus,0.041,Best_etal_1996
+Zenaida macroura,0.119,Best_etal_1996
+Molothrus ater,0.044,Best_etal_1996
+Actitis macularia,0.04,Best_etal_1996
+Agelaius phoeniceus,0.053,Best_etal_1996
+Corvus brachyrhynchos,0.448,Best_etal_1996
+Sitta carolinensis,0.0201,Armstrong_1965
+Corvus corax,1.134,Armstrong_1965
+Tyrannus tyrannus,0.046,Armstrong_1965
+Spizella passerina,0.0142,Armstrong_1965
+Accipiter cooperii,0.47,Armstrong_1965
+Asio flammeus,3.15E-01,Armstrong_1965
+Buteo lineatus,0.625,Armstrong_1965
+Buteo swainsoni,0.988,Armstrong_1965
+Circus hudsonius,0.521,Armstrong_1965
+Falco sparverius,0.114,Armstrong_1965
+Haliaeetus leucocephalus,3.997,Armstrong_1965
+Falco mexicanus,0.801,Armstrong_1965
+Erithacus rubecula,0.018,Armstrong_1965
+Parus major,0.0197,armstrong_1965
+Contopus virens,0.0147,Armstrong_1965
+Podilymbus podiceps,0.394,Armstrong_1965
+Empidonax minimus,0.0105,Armstrong_1965
+Dendrocopos villosus,0.071,Armstrong_1965
+Stercorarius pomarinus,0.75,Armstrong_1965
+Poecile atricapillus,0.011,Armstrong_1965
+Apus apus,0.04,Akesson_etal_2012
+Vermivora chrysoptera,0.4885915,
+NA,0.1098,
+Otocyon megalotis,3.9,
+Canis aureus,8.8,
+Sciurus griseus,0.5,
+Ailuropoda melanoleuca,135,
+Bassariscus astutus,0.95,
+NA,0.622,
+NA,0.005,
+coliformbacteria,2.00E-17,
+Anabaena,1.00E-12,
+Dasyobolusimmersus,1.00E-12,
+Pilobolus,1.00E-12,
+Podosporafinicola,1.00E-12,
+Pseudomonasrhizobium,2.00E-12,
+Loxodes,7.00E-09,
+Dosophiliapseudoobscura,1.00E-07,
+Simuliumdamnosum,1.00E-06,
+Aedessollicitans,2.25E-06,
+Aedestaenerhencys,2.25E-06,
+Aedesvexans,2.25E-06,
+Aedesvigilax,2.25E-06,
+Helisomatrivolis,2.50E-06,
+Lynnaeastagnalis,2.50E-06,
+Stagincolaelodes,2.50E-06,
+Spirostomum,3.00E-06,
+Gumagagriseola,5.50E-06,
+Gaimardiatrapesina,6.00E-06,
+Cheumatopsychespp.,1.76E-05,
+Circulifertenellus,2.00E-05,
+Coenigronmercuriale,3.30E-05,
+Hexageniaspp.,6.47E-05,
+Allolobophoracaliginosa,6.70E-05,
+Allolobophoralonga,6.70E-05,
+Lumbricusrubellus,7.10E-05,
+Lumbricusterrestris,7.10E-05,
+Calopteryxspp.,8.50E-05,
+Mixophyes iteratus,9.44E-05,
+Phyllomedusa bicolor,9.44E-05,
+Aphiscraccivora,0.00015,
+Leptinotarsadecemlineata,0.00015,
+Syrphusribessi,0.00015,
+Aglaisurticae,2.00E-04,
+Diabrotica undecimpuntata,2.00E-04,
+Hemilepistusreaumuri,2.00E-04,
+Phytometrabiloba,2.00E-04,
+Pseudaletiaseparata,2.00E-04,
+Leuctraferruginea,0.00025,
+Notophthalmus perstriatus,0.0006955,
+Eurycea quadridigitata,0.000858,
+Anoplophora glabripennis,0.001,
+Chrysochusauratus,0.001,
+Dorcadionfuliginator,0.001,
+Pseudacteontricuspis,0.001,
+Rhyssomatuslineaticollis,0.001,
+Eleutherodactylus fitzingeri,0.00133,
+Physalaemus pustulosus,0.00133,
+Leiopelma hochstetteri,0.00143,
+Pseudacris maculata,0.00179,
+Triturus alpestris,0.00193,
+Eurycea bislineata,0.00201,
+Hyla regilla,0.00227,
+Syrrhophus marnocki,0.00228,
+Plethodon cinereus,0.00235,
+Rhyacotritdon cascade,0.00245,
+Sorex nanus,0.003,
+Ambystoma laterale,0.00305,
+Notophthalmus viridescens,0.00305,
+Triturus vulgaris,0.00339,
+Gastrophryne carolinensis,0.003505,
+Dendrobates pumilio,0.00381,
+Atelopus varius,0.00388,
+Plethodon vehiculum,0.003935,
+Sorex araneus,0.004,
+Sorex longirostris,0.004,
+Aneides aeneus,0.00401,
+Ensatina eschscholtzii platensis,0.00415,
+Gastrophryne olivacea,0.00433,
+Carphophisamoenus,0.00552,
+Sorex merriami,0.006,
+Rana aurora aurora,6.46E-03,
+Aneides vagrans,0.0066,
+Hyla versicolor,0.0067225,
+Storeriadekayi,0.00689,
+Baleaspp,0.007,
+Sorex monticolus,0.007,
+Plethodon kentucki,0.0079,
+Myotislucifugus,0.008,
+Ascaphus truei,0.00862,
+NA,0.0089,
+NA,0.009,
+Myotisnattereri,0.00925,
+Plethodon glutinosus,0.00995,
+Corynorhinus townsendiiingens,0.01,
+Myotisbechsteinii,0.01,
+Plecotustownsendi,0.01,
+NA,0.0105,
+Ambystoma texanum,0.0113,
+Desmognathus quadromaculatus,0.0118,
+Ambystoma macrodactylum,0.01208,
+Cantharis livida,0.013,
+NA,0.013,
+Sorex palustris,0.013,
+NA,1.36E-02,
+NA,0.0151,
+NA,0.0163,
+Gyrinophilus porphyriticus,0.0168,
+NA,0.017,
+Taricha rivularis,0.01725,
+Ambystoma jeffersonianum,0.0176,
+Bufo baxteri,0.0194,
+NA,0.0199,
+Hirundo fulva,0.02,
+Iridoprocne bicolor,0.02,
+Baeolophus bicolor,0.022,
+Microtusarvalis,0.022,
+NA,0.0229,
+Clethrionomys glareolus,0.023,
+NA,0.023,
+NA,0.023,
+Oligoryzomys nigripes,0.023,
+Perognathus formosus,0.023,
+Hynobius nebulosus tokyoensis,0.0231,
+NA,0.024,
+Sceloporus woodi,0.025,
+Bufo japonicus formosus,0.0251,
+Rana muscosa,0.0252,
+Rana latastei,0.0257,
+Antechinus agilis,0.026,
+Phenacomys intermedius,0.027,
+Bufo punctatus,0.02745,
+NA,0.0275,
+Rana lutieventris,2.85E-02,
+Microtus mexicanus,0.029,
+Bufo terrestris,0.0299,
+Necturus beyeri,0.0299,
+Bufo fowleri,0.0313,
+NA,0.032,
+Zapus princeps,0.032,
+NA,0.0321,
+Rana lessonae,0.0326,
+Opheodrysaestivus,0.0329,
+NA,0.033,
+Spilotespullatus,0.0355,
+Alcedoatthis,0.0358,
+Viperaberus,0.0377,
+Notomys mitchellii,0.039,
+Bufo hemiophrys,0.03955,
+Rana graeca,0.04,
+NA,0.041,
+NA,4.10E-02,
+NA,0.041,
+Eleutherodactylus coqui,0.04565,
+Thamnophis ordinoides,0.0462,
+Microtus longicaudus,0.047,
+NA,0.047,
+Thamnophis sauritus,0.0471,
+Coronellaaustriaca,0.0481,
+NA,0.0594,
+Orzyomys russatus,0.062,
+Tamias cinereicollis,0.062,
+Heleioporus australiacus,0.064,
+Cinchuscinclus,0.0642,
+Dipodomys microps,0.065,
+Rana pretiosa,6.68E-02,
+Rana pipiens,0.0694,
+Tamias canipes,0.07,
+Bufo valliceps,0.0728,
+Mixophes fleayi,0.073,
+Rana clamitans,0.0758,
+Thamnophis sirtalis,0.08,
+Melanerpes formicivorus,0.081,
+Dendrocopusmajor,0.0816,
+Turdus philomelos,0.083,
+Rana sevosa,0.0839,
+NA,0.09,
+Catostomussp.,0.0901,
+Rana aurora draytonni,9.45E-02,
+Bufo americanus,0.0955,
+NA,0.1044,
+Pteromys volans,0.106,
+Rana berlandieri,0.1062,
+Clemmysmuhlenbergii,0.113,
+Bufo boreas,0.12285,
+Turdus viscivorus,0.125,
+Ochotona collaris,0.129,
+Kinosternonsubrubrum,0.133,
+Rattus fuscipes,0.133,
+Kinosternonbaurii,0.135,
+Oxybelisaeneus,0.14,
+NA,0.1515,
+NA,0.153,
+NA,1.59E-01,
+Neotoma mexicana,0.16,
+NA,0.161,
+NA,1.62E-01,
+Clemmysguttata,0.165,
+Crotalusviridis,0.173,
+NA,0.173,
+NA,0.1768,
+Atelomycterusfasciatus,0.177,
+NA,1.83E-01,
+Spermophilus leucopus,0.192,
+Necturus maculosus,0.194,
+Phascogale tapoatafa,0.199,
+NA,0.206,
+Heterodon nasicus,0.215,
+Nerodiarhombifera,0.226,
+Kinosternonleucostomum,0.232,
+Trachemysscripta,2.35E-01,
+Rana ridibunda,2.41E-01,
+NA,0.243,
+NA,0.2457,
+NA,2.50E-01,
+Spermophilus lateralis,0.25,
+Rhizoprionodontaylori,0.253,
+NA,0.2533,
+NA,0.255,
+NA,0.256,
+Kinosternonflavescens,0.271,
+NA,0.292,
+Columba oenas,0.302,
+Parusater,0.331013,
+Gallinulachloropus,0.3375,
+Spilogale putorius,0.341,
+NA,0.357,
+NA,0.366,
+Acrocephalus schoenobaenus,0.366167,
+NA,0.3775,
+Macroclemystemminicki,0.388,
+Polioptila californica,0.3920455,
+Regulus satrapa,0.3992675,
+Urocitellus beldingi,0.4,
+Spermophilus richardsonii,0.405,
+Carduelis carduelis,0.407084333,
+Regulus calendula,0.4147575,
+Musteluspunctulatus,0.421,
+NA,0.423,
+Laruscanus,0.432,
+NA,0.4412535,
+Nerodiaharteri,0.445,
+NA,0.452244,
+Prunella modularis,0.456016,
+NA,0.475022,
+NA,0.4862885,
+NA,0.4944485,
+NA,0.5027675,
+NA,0.5081695,
+Sitta canadensis,0.515248,
+Pyrrhulapyrrhula,5.16E-01,
+Squalusmegalops,0.516,
+NA,0.516815,
+NA,0.518481,
+Macquariaambigua,0.521,
+Rana catesbeiana,0.521,
+Parus montanus,0.538101,
+NA,0.5442365,
+NA,0.544878,
+Sylviacurruca,0.551761,
+NA,0.5551875,
+Carduelis flammea,0.5643035,
+NA,0.5665445,
+NA,0.5687855,
+NA,0.5696415,
+NA,0.57,
+NA,0.5714635,
+NA,0.5764395,
+NA,0.583,
+NA,5.83E-01,
+NA,0.5839,
+NA,0.595,
+NA,0.5975895,
+NA,0.600703,
+NA,6.04E-01,
+NA,0.6126,
+NA,0.6169,
+NA,0.6281975,
+Stegonotuscucullatus,0.633,
+NA,0.6601155,
+NA,6.61E-01,
+NA,0.673472,
+NA,0.68,
+NA,0.7050485,
+NA,0.71602,
+NA,0.723463,
+NA,0.734399,
+NA,0.7372125,
+NA,0.752257,
+NA,0.753388,
+NA,0.7546,
+NA,0.7928755,
+Apalonemutica,0.819,
+NA,0.8195,
+NA,0.820588,
+Garrulusglandarius,0.850006,
+Rhizoprionodonlongurio,0.855,
+NA,0.857687,
+Bufo marinus,0.876,
+NA,0.897488,
+Aulohalaeluruslabiosus,0.929,
+NA,0.929493,
+NA,0.951816,
+NA,0.9523395,
+Heterodontus francisci,0.954,
+NA,1.019072,
+Acrochordus arafurae,1.03,
+Limandaferruginea,1.04,
+NA,1.049218,
+NA,1.067253,
+NA,1.093295,
+NA,1.096785,
+NA,1.09749,
+NA,1.138162,
+Cyprinuscarpio,1.14,
+Haploblepharusfuscus,1.14,
+NA,1.146932,
+Rhizoprionodonacutus,1.15,
+NA,1.150689,
+NA,1.180353,
+Quiscalus major,1.20E+00,
+Clemmysmarmorata,1.2,
+NA,1.202,
+NA,1.210687,
+Clemmysinsculpta,1.23,
+NA,1.248449,
+NA,1.263441,
+NA,1.270046,
+NA,1.318825,
+NA,1.319095,
+NA,1.369976,
+NA,1.377465,
+Scylliogaleusquecketti,1.38E+00,
+NA,1.402254,
+NA,1.422294,
+Ardea cinerea,1.4415,
+Porodermaafricanum,1.45,
+Sphyrnatiburo,1.46,
+NA,1.465373,
+NA,1.466827,
+NA,1.477829,
+NA,1.505131,
+NA,1.511881,
+NA,1.515583,
+NA,1.549663,
+NA,1.552607,
+NA,1.556301,
+Rhizoprionodonterraenovae,1.57,
+NA,1.57444,
+Graptemyspseudogeographica,1.6,
+NA,1.635106,
+NA,1.636,
+NA,1.645906,
+NA,1.66E+00,
+Carcharhinus dussumieri,1.67,
+Loxodonmacrorhinus,1.7,
+NA,1.70156,
+NA,1.725502,
+NA,1.775075,
+NA,1.795773,
+Carcharhinus macloti,1.82,
+Parmaturussp.,1.82,
+Musteluslenticulatus,1.97,
+Carcharhinus sealei,1.99,
+Geocheloneyniphora,2.04,
+Apolonespinifera,2.05,
+Mustelusmosis,2.05,
+Masticophis taeniatus,2.1,
+Musteluscanis,2.17,
+Musteluspalumbes,2.44,
+Amphiuma tridactylum,2.4849,
+NA,2.5064,
+Gadusmorhua,2.55,
+Heterodontusportusjacksoni,2.77,
+Carcharhinus fitzroyensis,3.11,
+Squalusacanthias,3.16,
+Pseudemysrubriventris,3.48,
+Triakissemifasciata,3.53,
+Pseudemysfloridana,3.92,
+Triaenodonobesus,4.24,
+NA,4.2962,
+Podocnemisunifilis,4.5,
+Eusphyrablochii,4.79,
+Liasisfuscus,5,
+Carcharhinus acronotus,5.52,
+,,
+Carcharhinus sorrah,7.58,
+Carcharhinus tilsoni,7.69,
+Phascolarctos cinereus,7.825,
+Lutra canadensis,9.07,
+Triakismegalopterus,9.74,
+NA,9.8,Hein_Gillooly_2011
+Crocodylusintermedius,11.5,
+Carcharhinus isodon,12.3,
+NA,15,Hein_Gillooly_2011
+Galeorhinusgaleus,18.7,
+NA,19,
+Carcharhinus amblyrhychoides,21,
+Carcharhinus perezi,24,
+Sphyrnalewini,27.3,
+Carcharhinus plumbeus,27.4,
+NA,28,Hein_Gillooly_2011
+NA,32,
+Carcharhinus albimarginatus,35.2,
+Carcharhinus brevipinna,35.8,
+NA,39,Hein_Gillooly_2011
+Carcharhinus longimanus,40.1,
+Carcharhinus leucas,44.4,
+Carcharhinus signatus,45.6,
+Carcharhinus galapagensis,51.9,
+Carcharhinus falciformis,52.7,
+Crocodylusjohnstonii,53,
+Carcharhinus amboinensis,57,
+Sphyrnazygaena,58,
+Ginglymostomacirratum,63.4,
+Carchariastaurus,67.3,
+Lamnanasus,73.2,
+Negaprionbrevirostris,79.4,
+Eretmochelysimbricata,80,
+Nebriusferrugineus,86.1,
+Isuruspaucus,95.4,
+Sphyrnamokarran,98.2,
+Lagenorhynchusobscurus,100,
+Alopiassuperciliosus,111,
+Carettacaretta,113,
+Phocavitulina,115,
+Alopiasvulpinus,116,
+NA,130,Hein_Gillooly_2011
+Carcharhinus obscurus,137,
+Galeocerdocuvier,144,
+Cheloniamydas,150,
+NA,150,
+Carcharhinus altimus,186,
+NA,200,Hein_Gillooly_2011
+Sus scrofa,200,
+Negaprionacutidens,204,
+NA,220,
+NA,240,Hein_Gillooly_2011
+NA,300,Hein_Gillooly_2011
+NA,320,
+NA,320,Hein_Gillooly_2011
+Bos bison,497.667,
+Dermochelyscoriacea,700,
+NA,1000,Hein_Gillooly_2011
+NA,1400,Hein_Gillooly_2011
+NA,3900,Hein_Gillooly_2011
+NA,28000,Hein_Gillooly_2011
+NA,30000,Hein_Gillooly_2011
+NA,30000,Hein_Gillooly_2011
+NA,69000,Hein_Gillooly_2011
+NA,99000,Hein_Gillooly_2011
+Neovison vison,NA,
+Gopherus agassizii,2,Tamburello_etal
+NA,0.00135,Perry_Garland_2002
+Phrynocephalus axillars,0.0016,Perry_Garland_2002
+NA,0.0017,Perry_Garland_2002
+NA,0.001775,Perry_Garland_2002
+NA,0.0019,Perry_Garland_2002
+NA,0.00205,Perry_Garland_2002
+NA,0.002245455,Perry_Garland_2002
+NA,0.002270968,Perry_Garland_2002
+NA,0.00235,Perry_Garland_2002
+NA,0.0025,Perry_Garland_2002
+NA,0.0025,Perry_Garland_2002
+NA,0.0027,Perry_Garland_2002
+Phrynocephalus przwalskii,0.0028,Perry_Garland_2002
+NA,0.0029,Perry_Garland_2002
+NA,0.0032,Perry_Garland_2002
+NA,0.0032,0.00245
+NA,0.00345,Perry_Garland_2002
+NA,0.0035,Perry_Garland_2002
+NA,0.003633333,Perry_Garland_2002
+NA,0.0037,Perry_Garland_2002
+NA,0.0038,Perry_Garland_2002
+Phrynocephalus interscapularis,0.0038,Perry_Garland_2002
+NA,0.003866667,Perry_Garland_2002
+NA,0.0039,Perry_Garland_2002
+NA,0.004,Perry_Garland_2002
+NA,0.0042,Perry_Garland_2002
+NA,0.00422,Perry_Garland_2002
+NA,0.00435,Perry_Garland_2002
+Phrynocephalus versicolor,0.0044,Perry_Garland_2002
+NA,0.0046,Perry_Garland_2002
+NA,0.00473,Perry_Garland_2002
+NA,0.0048,Perry_Garland_2002
+NA,0.004866667,Perry_Garland_2002
+Phrynosoma douglassi,0.004866667,Perry_Garland_2002
+NA,0.0050625,Perry_Garland_2002
+NA,0.00525,Perry_Garland_2002
+NA,0.0059,Perry_Garland_2002
+NA,0.006033333,Perry_Garland_2002
+NA,0.006175,Perry_Garland_2002
+NA,0.0063,Perry_Garland_2002
+NA,0.0065,Perry_Garland_2002
+NA,0.0065,Perry_Garland_2002
+NA,0.00675,Perry_Garland_2002
+NA,0.006828571,Perry_Garland_2002
+NA,0.00735,Perry_Garland_2002
+NA,0.00755,Perry_Garland_2002
+NA,0.007633333,Perry_Garland_2002
+NA,0.007666667,Perry_Garland_2002
+NA,0.0079,Perry_Garland_2002
+NA,0.0083,Perry_Garland_2002
+NA,0.009,Perry_Garland_2002
+NA,0.0095,Perry_Garland_2002
+NA,0.0098,Perry_Garland_2002
+NA,0.01,Perry_Garland_2002
+NA,0.0102,Perry_Garland_2002
+NA,0.01055,Perry_Garland_2002
+NA,0.0106,Perry_Garland_2002
+NA,0.010766667,Perry_Garland_2002
+NA,0.01083,Perry_Garland_2002
+NA,0.01105,Perry_Garland_2002
+NA,0.01285,Perry_Garland_2002
+NA,0.015,Perry_Garland_2002
+NA,0.0157,Perry_Garland_2002
+NA,0.0164,Perry_Garland_2002
+NA,0.0165,Perry_Garland_2002
+NA,0.0167,Perry_Garland_2002
+Phrynosoma modestum,0.017,Perry_Garland_2002
+NA,0.0171,Perry_Garland_2002
+NA,0.019166667,Perry_Garland_2002
+NA,0.0229,Perry_Garland_2002
+NA,0.02685,Perry_Garland_2002
+NA,0.027,Perry_Garland_2002
+Gallotia galloti,0.0308,Perry_Garland_2002
+NA,0.03135,Perry_Garland_2002
+NA,0.035,Perry_Garland_2002
+NA,0.0395,Perry_Garland_2002
+NA,0.0409,Perry_Garland_2002
+NA,0.040975,Perry_Garland_2002
+NA,0.041,Perry_Garland_2002
+NA,0.0455,Perry_Garland_2002
+NA,0.046233333,
+Dipsosaurus dorsalis,0.0506125,Perry_Garland_2002
+NA,0.05075,Perry_Garland_2002
+NA,0.05475,Perry_Garland_2002
+NA,0.055,Perry_Garland_2002
+Phrynosoma cornutum,0.055,Perry_Garland_2002
+NA,0.0556,Perry_Garland_2002
+NA,0.0581,Perry_Garland_2002
+NA,0.0588,Perry_Garland_2002
+NA,0.0695,Perry_Garland_2002
+NA,0.07,Perry_Garland_2002
+NA,0.16,Perry_Garland_2002
+Sauromalus obesus,0.16678,Perry_Garland_2002
+NA,0.1971,Perry_Garland_2002
+NA,0.2385,Perry_Garland_2002
+NA,0.3213,Perry_Garland_2002
+NA,0.4,
+NA,0.4671,Perry_Garland_2002
+NA,0.547488889,Perry_Garland_2002
+NA,0.6,Perry_Garland_2002
+NA,0.75,Perry_Garland_2002
+NA,0.7685,Perry_Garland_2002
+NA,0.7954,Perry_Garland_2002
+Sauromalus hispidus,0.927,Perry_Garland_2002
+NA,1.149,Perry_Garland_2002
+NA,2.044116667,Perry_Garland_2002
+Uromastyx aegyptius,2.5,Tamburello_etal
+cyclura pinguis,4.30166667,Perry_Garland_2002
+NA,4.64,Perry_Garland_2002
+conolophus pallidus,5.6,Perry_Garland_2002
+NA,5.744,Perry_Garland_2002
+NA,7.25,Perry_Garland_2002
+NA,33.33333333,Perry_Garland_2002
+Xiphocolaptes promeropirhynchus,0.136,
+Margarornis squamiger,1.258875,
+NA,0.0233,
+NA,0.055,
+Nesomys rufus,0.16545,Tamburello_etal
+Nesomys audeberti,0.2156,Tamburello_etal
+NA,0.294,
+NA,0.342,
+NA,0.361,
+NA,0.65,
+Galidea elegans,0.81,Gittleman and Harvey (1982)
+NA,0.868,
+Hypogeomys antimena,1.185,Tamburello_etal
+NA,1.4,
+NA,1.5,
+Cryptoprocta ferox,9.54993,Tamburello_etal
+Xiphorhynchus flavigaster,0.044,
+Vireo atricapillus,0.0085,Schoener_1968
+Parus carolinensis,0.01,Schoener_1968
+Sitta pusilla,0.0102,Schoener_1968
+Sitta pygmaea,0.0106,Schoener_1968
+Parus inornatus,0.015,Armstrong_1965
+NA,0.0183,Schoener_1968
+Guiraca caerulea,0.0299,Schoener_1968
+Habia fuscicauda,0.0377,Schoener_1968
+Richmondena cardinalis,0.0412,Schoener_1968
+Melozone aberti,0.0463,Schoener_1968
+Scardafella inca,0.047,Schoener_1968
+Nyctea scandiaca,1.846,Armstrong_1965
+Tamias umbrinus,0.06,Swithart_et_al_1988
+Dipodomys ingens,0.15356,Tamburello_etal
+Geomys attwateri,0.2,Swithart_etal_1988
+Cercocebus albigena,8.5,Swithart_etal_1988
+Regulus regulus,0.0053,Tamburello_etal
+Certhia familiaris,0.00877,Tamburello_etal
+Cisticola juncidis,0.0098,Tamburello_etal
+Hippolais polyglotta,0.011,Tamburello_etal
+Muscardinus avellanarius,0.031,Tamburello_etal
+Lanius minor,0.04422,Tamburello_etal
+Terrapene ornata,0.211,Tamburello_etal
+Geococcyx californianus,0.3,Tamburello_etal
+NA,1.749348,
+Genetta tigrina,2.15001,Tamburello_etal
+Sylvia sarda,3300,Tamburello_etal
+NA,0.0122,Trochet_etal
+NA,0.03553,Trochet_etal
+NA,0.0035,
+NA,0.00525,
+NA,0.00675,
+NA,0.0132,
+NA,0.02,
+NA,NA,
+Callicebus_coimbrai,NA,Galan-Acedo et al. 2019
+Callicebus_melanochir,NA,Galan-Acedo et al. 2019
+Callicebus_nigrifrons,NA,Galan-Acedo et al. 2019
+Cebus_brunneus,NA,Galan-Acedo et al. 2019
+Cercopithecus_doggetti,NA,Galan-Acedo et al. 2019
+Galagoides_granti,NA,Galan-Acedo et al. 2019
+Nomascus_nasutus,NA,Galan-Acedo et al. 2019
+Piliocolobus_epieni,NA,Galan-Acedo et al. 2019
+Pithecia_hirsuta,NA,Galan-Acedo et al. 2019
+Pithecia_rylandsi,NA,Galan-Acedo et al. 2019
+Plecturocebus_toppini,NA,Galan-Acedo et al. 2019
+Semnopithecus_priam,NA,Galan-Acedo et al. 2019
+Trachypithecus_auratus,NA,Galan-Acedo et al. 2019
+Trachypithecus_margarita,NA,Galan-Acedo et al. 2019
+Trachypithecus_mauritius,NA,Galan-Acedo et al. 2019
+Trachypithecus_selangorensis,NA,Galan-Acedo et al. 2019
+NA,NA,
+NA,NA,
+NA,NA,
+NA,NA,
+NA,NA,
+NA,NA,
+NA,NA,
+NA,NA,
+NA,NA,
+Aepyprymnus rufescens,NA,
+Alopecosa barbipes,NA,
+Alopecosa fabrilis,NA,
+Alopecosa pulverulenta,NA,
+Anagrus columbi,NA,
+Antechinus minimus,NA,
+Arctosa perita,NA,
+Argenna subnigra,NA,
+Bettongia lesueur,NA,
+Bettongia tropica,NA,
+Calomys venustus,NA,
+Canis adustus,NA,
+Canis mesomelas,NA,
+Cupido minimus,NA,
+Cynomys gunnisoni,NA,
+Decticus verrucivorus,NA,
+Erigone atra,NA,
+Erigone dentipalps,NA,
+Euphydryas aurinia,NA,
+Galerucella calmariensis,NA,
+Galerucella pusilla,NA,
+Hesperia comma,NA,
+Hypsosinga albovittata,NA,
+Marmota menzbieri,NA,
+Meioneta rurestris,NA,
+Melitaea cinxia,NA,
+Melitaea diamina,NA,
+Mellivora capensis,NA,
+Myodes rufocanus,NA,
+Oedipoda caerulescens,NA,
+Osmoderma eremita,NA,
+Ozyptila simplex,NA,
+Pachygnatha degeeri,NA,
+Parapelecopsis nemoralis,NA,
+Pardosa monticola,NA,
+Pardosa nigriceps,NA,
+Pardosa pullata,NA,
+Parnassius mnemosyne,NA,
+Pelecopsis parallella,NA,
+Peromyscus polionotus,NA,
+Philantomba monticola,NA,
+Platalea Leucorodia,NA,
+Poecile carolinensis,NA,
+Prokelisia crocea,NA,
+Pseudophilotes sinaicus,NA,
+Rupicapra pyrenaica,NA,
+Setonix brachyurus,NA,
+Spermophilus elegans,NA,
+Spermophilus saturatus,NA,
+Speyeria nokomis,NA,
+Styloctetor romanus,NA,
+Tenuiphantes tenuis,NA,
+Thymelicus acteon,NA,
+Thyphochrestus digitatus,NA,
+Tiso vagans,NA,
+Trichopterna cito,NA,
+Urophora cardui,NA,
+Walckenanaeria antica,NA,
+Xysticus kochi,NA,
+Xysticus ninnii,NA,
+Xysticus sabulosus,NA,
+Zelotes electus,NA,
+Emberizaschoeniclus,,
+Boloria aquilonaris,,
+Euphydryas editha bayensis,,
+Lopinga achine,,
+Proclossiana eunomia,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

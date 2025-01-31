@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+
+data/interactions.csv.gz
+data/interactions.csv
