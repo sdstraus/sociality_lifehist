@@ -71,81 +71,81 @@ tst <- extract_taxa(diet_items_taxize)
 
 # time mlr --csv filter '$sourceTaxonName == "Otocyon megalotis" || $sourceTaxonName == "Vulpes pallida" || $sourceTaxonName == "Vulpes zerda" || $sourceTaxonName == "Cuon alpinus" || $sourceTaxonName == "Canis adustus" || $sourceTaxonName == "Canis mesomelas" || $sourceTaxonName == "Canis simensis" || $sourceTaxonName == "Lycaon pictus" || $sourceTaxonName == "Vulpes rueppelli" || $sourceTaxonName == "Vulpes chama" || $sourceTaxonName == "Urocyon littoralis" || $sourceTaxonName == "Vulpes velox" || $sourceTaxonName == "Canis rufus" || $sourceTaxonName == "Vulpes macrotis" || $sourceTaxonName == "Vulpes lagopus" || $sourceTaxonName == "Canis latrans" || $sourceTaxonName == "Urocyon cinereoargenteus" || $sourceTaxonName == "Vulpes vulpes" || $sourceTaxonName == "Canis lupus"' interactions.csv > selected_species.csv
 # 
-# 
-# all_canids <- read_csv("data/selected_species.csv")
-# 
-# all_canids_filtered <- all_canids %>% 
-#   filter(interactionTypeName == "eats" | interactionTypeName == "preysOn") %>% 
-#   filter(!is.na(decimalLatitude)) %>% 
-#   filter(!is.na(decimalLongitude)) %>% 
-#   select(sourceTaxonName, interactionTypeName, targetTaxonName, 
-#          targetTaxonPathNames, decimalLatitude, decimalLongitude)
-# 
-# table(all_canids_filtered$sourceTaxonName)  
-# 
-# write_csv(all_canids_filtered, file = "data/canids_filteredGlobi.csv", quote = "none")
-# 
-# ## resolve taxonomic names of target taxa
-# 
-# target_taxa <- unique(all_canids_filtered$targetTaxonName)
-# 
-# target_taxa_filtered <- tibble(target_taxa) %>% 
-#   filter(str_detect(target_taxa, " ")) %>% 
-#   filter(!str_detect(target_taxa, "egg")) %>% 
-#   filter(!str_detect(target_taxa, "Domestic")) %>% 
-#   filter(!str_detect(target_taxa, "adult"))%>% 
-#   filter(!str_detect(target_taxa, "Anthropogenic")) %>% 
-#   filter(!str_detect(target_taxa, "beef")) %>% 
-#   filter(!str_detect(target_taxa, "Bird")) %>% 
-#   filter(!str_detect(target_taxa, "bird"))  %>% 
-#   filter(!str_detect(target_taxa, "bone"))  %>% 
-#   filter(!str_detect(target_taxa, "contents")) %>% 
-#   filter(!str_detect(target_taxa, "ear")) %>% 
-#   filter(!str_detect(target_taxa, "feather")) %>% 
-#   filter(!str_detect(target_taxa, "hair"))  %>% 
-#   filter(!str_detect(target_taxa, "fur"))  %>% 
-#   filter(!str_detect(target_taxa, "garbage"))  %>% 
-#   filter(!str_detect(target_taxa, "Human"))  %>% 
-#   filter(!str_detect(target_taxa, "Introduced"))  %>% 
-#   filter(!str_detect(target_taxa, "Invertebrate"))  %>% 
-#   filter(!str_detect(target_taxa, "invertebrate")) %>%
-#   filter(!str_detect(target_taxa, "invert")) %>% 
-#   filter(!str_detect(target_taxa, "herbivore")) %>% 
-#   filter(!str_detect(target_taxa, "mammal")) %>% 
-#   filter(!str_detect(target_taxa, "seal")) %>% 
-#   filter(!str_detect(target_taxa, "deer")) %>% 
-#   filter(!str_detect(target_taxa, "reindeer")) %>% 
-#   filter(!str_detect(target_taxa, "caribou")) %>% 
-#   filter(!str_detect(target_taxa, "undetermined")) %>% 
-#   filter(!str_detect(target_taxa, "lots")) %>% 
-#   filter(!str_detect(target_taxa, "meat")) %>% 
-#   filter(!str_detect(target_taxa, "grass")) %>% 
-#   filter(!str_detect(target_taxa, "gull")) %>% 
-#   filter(!str_detect(target_taxa, "prey")) %>% 
-#   filter(!str_detect(target_taxa, "ungulate")) %>% 
-#   filter(!str_detect(target_taxa, "boot")) %>% 
-#   filter(!str_detect(target_taxa, "plastic")) %>% 
-#   filter(!str_detect(target_taxa, "bufavirus")) %>% 
-#   filter(!str_detect(target_taxa, "rodent")) %>% 
-#   filter(!str_detect(target_taxa, "wood")) %>% 
-#   filter(!str_detect(target_taxa, "scrap")) %>% 
-#   filter(!str_detect(target_taxa, "stomach")) %>% 
-#   filter(!str_detect(target_taxa, "carrion")) %>% 
-#   filter(!str_detect(target_taxa, "fruit")) %>% 
-#   filter(!str_detect(target_taxa, "brown")) %>% 
-#   filter(!str_detect(target_taxa, "Rodent")) %>% 
-#   filter(!str_detect(target_taxa, "ex")) %>% 
-#   filter(!str_detect(target_taxa, "baby")) %>% 
-#   filter(!str_detect(target_taxa, "snake")) %>% 
-#   filter(!str_detect(target_taxa, "fiber")) %>% 
-#   filter(!str_detect(target_taxa, "and")) %>% 
-#   filter(!str_detect(target_taxa, "intestine"))
-# 
-# 
-# ## Pseudiacris regilla == Pseudacris regilla
-# which(target_taxa_filtered$target_taxa == "Pseudiacris regilla") # 553
-# target_taxa_filtered$target_taxa[553] <- "Pseudacris regilla"
-# 
+
+all_canids <- read_csv("data/selected_species.csv")
+
+all_canids_filtered <- all_canids %>%
+  filter(interactionTypeName == "eats" | interactionTypeName == "preysOn") %>%
+  filter(!is.na(decimalLatitude)) %>%
+  filter(!is.na(decimalLongitude)) %>%
+  select(sourceTaxonName, interactionTypeName, targetTaxonName,
+         targetTaxonPathNames, decimalLatitude, decimalLongitude)
+
+table(all_canids_filtered$sourceTaxonName)
+
+write_csv(all_canids_filtered, file = "data/canids_filteredGlobi.csv", quote = "none")
+
+## resolve taxonomic names of target taxa
+
+target_taxa <- unique(all_canids_filtered$targetTaxonName)
+
+target_taxa_filtered <- tibble(target_taxa) %>%
+  filter(str_detect(target_taxa, " ")) %>%
+  filter(!str_detect(target_taxa, "egg")) %>%
+  filter(!str_detect(target_taxa, "Domestic")) %>%
+  filter(!str_detect(target_taxa, "adult"))%>%
+  filter(!str_detect(target_taxa, "Anthropogenic")) %>%
+  filter(!str_detect(target_taxa, "beef")) %>%
+  filter(!str_detect(target_taxa, "Bird")) %>%
+  filter(!str_detect(target_taxa, "bird"))  %>%
+  filter(!str_detect(target_taxa, "bone"))  %>%
+  filter(!str_detect(target_taxa, "contents")) %>%
+  filter(!str_detect(target_taxa, "ear")) %>%
+  filter(!str_detect(target_taxa, "feather")) %>%
+  filter(!str_detect(target_taxa, "hair"))  %>%
+  filter(!str_detect(target_taxa, "fur"))  %>%
+  filter(!str_detect(target_taxa, "garbage"))  %>%
+  filter(!str_detect(target_taxa, "Human"))  %>%
+  filter(!str_detect(target_taxa, "Introduced"))  %>%
+  filter(!str_detect(target_taxa, "Invertebrate"))  %>%
+  filter(!str_detect(target_taxa, "invertebrate")) %>%
+  filter(!str_detect(target_taxa, "invert")) %>%
+  filter(!str_detect(target_taxa, "herbivore")) %>%
+  filter(!str_detect(target_taxa, "mammal")) %>%
+  filter(!str_detect(target_taxa, "seal")) %>%
+  filter(!str_detect(target_taxa, "deer")) %>%
+  filter(!str_detect(target_taxa, "reindeer")) %>%
+  filter(!str_detect(target_taxa, "caribou")) %>%
+  filter(!str_detect(target_taxa, "undetermined")) %>%
+  filter(!str_detect(target_taxa, "lots")) %>%
+  filter(!str_detect(target_taxa, "meat")) %>%
+  filter(!str_detect(target_taxa, "grass")) %>%
+  filter(!str_detect(target_taxa, "gull")) %>%
+  filter(!str_detect(target_taxa, "prey")) %>%
+  filter(!str_detect(target_taxa, "ungulate")) %>%
+  filter(!str_detect(target_taxa, "boot")) %>%
+  filter(!str_detect(target_taxa, "plastic")) %>%
+  filter(!str_detect(target_taxa, "bufavirus")) %>%
+  filter(!str_detect(target_taxa, "rodent")) %>%
+  filter(!str_detect(target_taxa, "wood")) %>%
+  filter(!str_detect(target_taxa, "scrap")) %>%
+  filter(!str_detect(target_taxa, "stomach")) %>%
+  filter(!str_detect(target_taxa, "carrion")) %>%
+  filter(!str_detect(target_taxa, "fruit")) %>%
+  filter(!str_detect(target_taxa, "brown")) %>%
+  filter(!str_detect(target_taxa, "Rodent")) %>%
+  filter(!str_detect(target_taxa, "ex")) %>%
+  filter(!str_detect(target_taxa, "baby")) %>%
+  filter(!str_detect(target_taxa, "snake")) %>%
+  filter(!str_detect(target_taxa, "fiber")) %>%
+  filter(!str_detect(target_taxa, "and")) %>%
+  filter(!str_detect(target_taxa, "intestine"))
+
+
+## Pseudiacris regilla == Pseudacris regilla
+which(target_taxa_filtered$target_taxa == "Pseudiacris regilla") # 553
+target_taxa_filtered$target_taxa[553] <- "Pseudacris regilla"
+
 # library(taxize)
 # 
 # t2 <- classification(target_taxa_filtered$target_taxa, db = "ncbi")
