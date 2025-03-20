@@ -1,0 +1,774 @@
+finest_taxon,kingdom,class,order,family,genus,species,Mass_kg,Mass_source
+Aepyceros melampus,Metazoa,Mammalia,Artiodactyla,Bovidae,Aepyceros,Aepyceros melampus,63.50384,Tamburello_etal_2015
+Arthropoda,Metazoa,NA,NA,NA,NA,NA,NA,NA
+Aves,Metazoa,Aves,NA,NA,NA,NA,NA,NA
+Insecta,Metazoa,Insecta,NA,NA,NA,NA,NA,NA
+Mammalia,Metazoa,Mammalia,NA,NA,NA,NA,NA,NA
+Raphicerus sharpei,Metazoa,Mammalia,Artiodactyla,Bovidae,Raphicerus,Raphicerus sharpei,NA,NA
+Vertebrata,Metazoa,NA,NA,NA,NA,NA,NA,NA
+Actinopterygii,Metazoa,NA,NA,NA,NA,NA,NA,NA
+Alaria,Metazoa,Trematoda,Diplostomida,Diplostomidae,Alaria,NA,NA,NA
+Alces alces,Metazoa,Mammalia,Artiodactyla,Cervidae,Alces,Alces alces,307.22744,Tamburello_etal_2015
+Ammospermophilus,Metazoa,Mammalia,Rodentia,Sciuridae,Ammospermophilus,NA,NA,NA
+Amphispiza bilineata,Metazoa,Aves,Passeriformes,Passerellidae,Amphispiza,Amphispiza bilineata,NA,NA
+Anas,Metazoa,Aves,Anseriformes,Anatidae,Anas,NA,NA,NA
+Anas acuta,Metazoa,Aves,Anseriformes,Anatidae,Anas,Anas acuta,0.94,Hein_Gillooly_2011
+Anas cyanoptera,Metazoa,Aves,Anseriformes,Anatidae,Spatula,Spatula cyanoptera,NA,NA
+Anas platyrhynchos,Metazoa,Aves,Anseriformes,Anatidae,Anas,Anas platyrhynchos,1.082,Jenkins_etal_2007
+Anatidae,Metazoa,Aves,Anseriformes,Anatidae,NA,NA,NA,NA
+Anaxyrus boreas,Metazoa,Amphibia,Anura,Bufonidae,Anaxyrus,Anaxyrus boreas,NA,NA
+Animalia,Metazoa,NA,NA,NA,NA,NA,NA,NA
+Antilocapra americana,Metazoa,Mammalia,Artiodactyla,Antilocapridae,Antilocapra,Antilocapra americana,46.0999,Tamburello_etal_2015
+Aplodontia rufa,Metazoa,Mammalia,Rodentia,Aplodontiidae,Aplodontia,Aplodontia rufa,1.135,Mace_Harvey_1983
+Artiodactyla,Metazoa,Mammalia,Artiodactyla,NA,NA,NA,NA,NA
+Baiomys musculus,Metazoa,Mammalia,Rodentia,Cricetidae,Baiomys,Baiomys musculus,NA,NA
+Bassariscus,Metazoa,Mammalia,Carnivora,Procyonidae,Bassariscus,NA,NA,NA
+Bison,Metazoa,Mammalia,Artiodactyla,Bovidae,Bison,NA,NA,NA
+Bison bison,Metazoa,Mammalia,Artiodactyla,Bovidae,Bison,Bison bison,629.9992,Tamburello_etal_2015
+Blarina brevicauda,Metazoa,Mammalia,Eulipotyphla,Soricidae,Blarina,Blarina brevicauda,0.018,McNab_1963
+Blarina carolinensis,Metazoa,Mammalia,Eulipotyphla,Soricidae,Blarina,Blarina carolinensis,NA,NA
+Bonasa umbellus,Metazoa,Aves,Galliformes,Phasianidae,Bonasa,Bonasa umbellus,0.908,Mace_Harvey_1983
+Bos,Metazoa,Mammalia,Artiodactyla,Bovidae,Bos,NA,NA,NA
+Bos taurus,Metazoa,Mammalia,Artiodactyla,Bovidae,Bos,Bos taurus,NA,NA
+Brachylagus idahoensis,Metazoa,Mammalia,Lagomorpha,Leporidae,Brachylagus,Brachylagus idahoensis,0.3402,Tamburello_etal_2015
+Branta canadensis,Metazoa,Aves,Anseriformes,Anatidae,Branta,Branta canadensis,3.814,Jenkins_etal_2007
+Callospermophilus lateralis,Metazoa,Mammalia,Rodentia,Sciuridae,Callospermophilus,Callospermophilus lateralis,NA,NA
+Canidae,Metazoa,Mammalia,Carnivora,Canidae,NA,NA,NA,NA
+Canis,Metazoa,Mammalia,Carnivora,Canidae,Canis,NA,NA,NA
+Canis lupus,Metazoa,Mammalia,Carnivora,Canidae,Canis,Canis lupus,37,Hein_etal_2012
+Canis lupus familiaris,Metazoa,Mammalia,Carnivora,Canidae,Canis,Canis lupus,37,Hein_etal_2012
+Capra,Metazoa,Mammalia,Artiodactyla,Bovidae,Capra,NA,NA,NA
+Capra hircus,Metazoa,Mammalia,Artiodactyla,Bovidae,Capra,Capra hircus,50.99998,Tamburello_etal_2015
+Carnivora,Metazoa,Mammalia,Carnivora,NA,NA,NA,NA,NA
+Castor canadensis,Metazoa,Mammalia,Rodentia,Castoridae,Castor,Castor canadensis,20.25,Jenkins_etal_2007
+Castoridae,Metazoa,Mammalia,Rodentia,Castoridae,NA,NA,NA,NA
+Cebus capucinus,Metazoa,Mammalia,Primates,Cebidae,Cebus,Cebus capucinus,3.11,Galan-Acedo et al. 2019
+Centrocercus urophasianus,Metazoa,Aves,Galliformes,Phasianidae,Centrocercus,Centrocercus urophasianus,1.75,Tamburello_etal
+Cephalogonimus americanus,Metazoa,Trematoda,Plagiorchiida,Cephalogonimidae,Cephalogonimus,Cephalogonimus americanus,NA,NA
+Cervidae,Metazoa,Mammalia,Artiodactyla,Cervidae,NA,NA,NA,NA
+Cervus canadensis canadensis,Metazoa,Mammalia,Artiodactyla,Cervidae,Cervus,Cervus canadensis,270,Hein_etal_2012
+Cervus elaphus,Metazoa,Mammalia,Artiodactyla,Cervidae,Cervus,Cervus elaphus,234.75778,Tamburello_etal_2015
+Cervus elaphus canadensis,Metazoa,Mammalia,Artiodactyla,Cervidae,Cervus,Cervus canadensis,270,Hein_etal_2012
+Chaetodipus baileyi,Metazoa,Mammalia,Rodentia,Heteromyidae,Chaetodipus,Chaetodipus baileyi,NA,NA
+Chaetodipus formosus,Metazoa,Mammalia,Rodentia,Heteromyidae,Chaetodipus,Chaetodipus formosus,NA,NA
+Chaetodipus penicillatus,Metazoa,Mammalia,Rodentia,Heteromyidae,Chaetodipus,Chaetodipus penicillatus,NA,NA
+Chaetodipus spinatus,Metazoa,Mammalia,Rodentia,Heteromyidae,Chaetodipus,Chaetodipus spinatus,NA,NA
+Charadriidae,Metazoa,Aves,Charadriiformes,Charadriidae,NA,NA,NA,NA
+Charadrius nivosus,Metazoa,Aves,Charadriiformes,Charadriidae,Anarhynchus,Anarhynchus nivosus,NA,NA
+Chordeiles acutipennis,Metazoa,Aves,Caprimulgiformes,Caprimulgidae,Chordeiles,Chordeiles acutipennis,NA,NA
+Chordeiles minor,Metazoa,Aves,Caprimulgiformes,Caprimulgidae,Chordeiles,Chordeiles minor,0.062,Hein_etal_2012
+Coendou mexicanus,Metazoa,Mammalia,Rodentia,Erethizontidae,Coendou,Coendou mexicanus,NA,NA
+Colaptes auratus,Metazoa,Aves,Piciformes,Picidae,Colaptes,Colaptes auratus,0.132,Best_etal_1996
+Coleoptera,Metazoa,Insecta,Coleoptera,NA,NA,NA,NA,NA
+Conepatus semistriatus,Metazoa,Mammalia,Carnivora,Mephitidae,Conepatus,Conepatus semistriatus,NA,NA
+Corvus corax,Metazoa,Aves,Passeriformes,Corvidae,Corvus,Corvus corax,1.134,Armstrong_1965
+Cotinis mutabilis,Metazoa,Insecta,Coleoptera,Scarabaeidae,Cotinis,Cotinis mutabilis,NA,NA
+Cratogeomys merriami,Metazoa,Mammalia,Rodentia,Geomyidae,Cratogeomys,Cratogeomys merriami,NA,NA
+Cricetidae,Metazoa,Mammalia,Rodentia,Cricetidae,NA,NA,NA,NA
+Crotalus atrox,Metazoa,Lepidosauria,Squamata,Viperidae,Crotalus,Crotalus atrox,NA,NA
+Crotalus cerastes,Metazoa,Lepidosauria,Squamata,Viperidae,Crotalus,Crotalus cerastes,NA,NA
+Crotalus molossus,Metazoa,Lepidosauria,Squamata,Viperidae,Crotalus,Crotalus molossus,NA,NA
+Crotalus pyrrhus,Metazoa,Lepidosauria,Squamata,Viperidae,Crotalus,Crotalus pyrrhus,NA,NA
+Crotalus scutulatus,Metazoa,Lepidosauria,Squamata,Viperidae,Crotalus,Crotalus scutulatus,NA,NA
+Crotalus stephensi,Metazoa,Lepidosauria,Squamata,Viperidae,Crotalus,Crotalus stephensi,NA,NA
+Crotaphytus bicinctores,Metazoa,Lepidosauria,Squamata,Iguanidae,Crotaphytus,Crotaphytus bicinctores,NA,NA
+Cuniculus paca,Metazoa,Mammalia,Rodentia,Cuniculidae,Cuniculus,Cuniculus paca,NA,NA
+Cygnus,Metazoa,Aves,Anseriformes,Anatidae,Cygnus,NA,NA,NA
+Cyrtonyx montezumae,Metazoa,Aves,Galliformes,Odontophoridae,Cyrtonyx,Cyrtonyx montezumae,NA,NA
+Dasyprocta punctata,Metazoa,Mammalia,Rodentia,Dasyproctidae,Dasyprocta,Dasyprocta punctata,NA,NA
+Dasypus novemcinctus,Metazoa,Mammalia,Cingulata,Dasypodidae,Dasypus,Dasypus novemcinctus,NA,NA
+Dendragapus obscurus,Metazoa,Aves,Galliformes,Phasianidae,Dendragapus,Dendragapus obscurus,1.05,Schoener_1968
+Dermaptera,Metazoa,Insecta,Dermaptera,NA,NA,NA,NA,NA
+Didelphidae,Metazoa,Mammalia,Didelphimorphia,Didelphidae,NA,NA,NA,NA
+Didelphis marsupialis,Metazoa,Mammalia,Didelphimorphia,Didelphidae,Didelphis,Didelphis marsupialis,2.724,Harestad_ Bunnel_1979
+Didelphis virginiana,Metazoa,Mammalia,Didelphimorphia,Didelphidae,Didelphis,Didelphis virginiana,3.63,McNab_1963
+Dipodidae,Metazoa,Mammalia,Rodentia,Dipodidae,NA,NA,NA,NA
+Dipodomys,Metazoa,Mammalia,Rodentia,Heteromyidae,Dipodomys,NA,NA,NA
+Dipodomys compactus,Metazoa,Mammalia,Rodentia,Heteromyidae,Dipodomys,Dipodomys compactus,NA,NA
+Dipodomys deserti,Metazoa,Mammalia,Rodentia,Heteromyidae,Dipodomys,Dipodomys deserti,NA,NA
+Dipodomys merriami,Metazoa,Mammalia,Rodentia,Heteromyidae,Dipodomys,Dipodomys merriami,0.04182,Tamburello_etal_2015
+Dipodomys microps,Metazoa,Mammalia,Rodentia,Heteromyidae,Dipodomys,Dipodomys microps,NA,NA
+Dipodomys venustus,Metazoa,Mammalia,Rodentia,Heteromyidae,Dipodomys,Dipodomys venustus,NA,NA
+Echinostoma,Metazoa,Trematoda,Plagiorchiida,Echinostomatidae,Echinostoma,NA,NA,NA
+Echinostoma trivolvis,Metazoa,Trematoda,Plagiorchiida,Echinostomatidae,Echinostoma,Echinostoma trivolvis,NA,NA
+Equus caballus,Metazoa,Mammalia,Perissodactyla,Equidae,Equus,Equus caballus,427.99629,tamburello_etal
+Eulipotyphla,Metazoa,Mammalia,Eulipotyphla,NA,NA,NA,NA,NA
+Falcipennis canadensis,Metazoa,Aves,Galliformes,Phasianidae,Falcipennis,Falcipennis canadensis,0.456,Zammuto_1986
+Felidae,Metazoa,Mammalia,Carnivora,Felidae,NA,NA,NA,NA
+Felis catus,Metazoa,Mammalia,Carnivora,Felidae,Felis,Felis catus,NA,NA
+Felis silvestris,Metazoa,Mammalia,Carnivora,Felidae,Felis,Felis silvestris,4.7,Gittleman and Harvey (1982)
+Fulica americana,Metazoa,Aves,Gruiformes,Rallidae,Fulica,Fulica americana,NA,NA
+Gallus gallus,Metazoa,Aves,Galliformes,Phasianidae,Gallus,Gallus gallus,NA,NA
+Geomyidae,Metazoa,Mammalia,Rodentia,Geomyidae,NA,NA,NA,NA
+Geomys breviceps,Metazoa,Mammalia,Rodentia,Geomyidae,Geomys,Geomys breviceps,NA,NA
+Geomys pinetis,Metazoa,Mammalia,Rodentia,Geomyidae,Geomys,Geomys pinetis,NA,NA
+Glaucomys sabrinus,Metazoa,Mammalia,Rodentia,Sciuridae,Glaucomys,Glaucomys sabrinus,0.14884,Tamburello_etal_2015
+Gopherus agassizii,Metazoa,NA,Testudines,Testudinidae,Gopherus,Gopherus agassizii,2,Tamburello_etal
+Halichoerus grypus,Metazoa,Mammalia,Carnivora,Phocidae,Halichoerus,Halichoerus grypus,NA,NA
+Heloderma suspectum,Metazoa,Lepidosauria,Squamata,Helodermatidae,Heloderma,Heloderma suspectum,NA,NA
+Heteromyidae,Metazoa,Mammalia,Rodentia,Heteromyidae,NA,NA,NA,NA
+Ictidomys tridecemlineatus,Metazoa,Mammalia,Rodentia,Sciuridae,Ictidomys,Ictidomys tridecemlineatus,0.193,Harestad_ Bunnel_1979
+Lagomorpha,Metazoa,Mammalia,Lagomorpha,NA,NA,NA,NA,NA
+Lampropeltis triangulum,Metazoa,Lepidosauria,Squamata,Colubridae,Lampropeltis,Lampropeltis triangulum,0.165,Tamburello_etal_2015
+Lemmiscus curtatus,Metazoa,Mammalia,Rodentia,Cricetidae,Lemmiscus,Lemmiscus curtatus,NA,NA
+Leopardus pardalis,Metazoa,Mammalia,Carnivora,Felidae,Leopardus,Leopardus pardalis,9.98964,Tamburello_etal_2015
+Leporidae,Metazoa,Mammalia,Lagomorpha,Leporidae,NA,NA,NA,NA
+Lepus,Metazoa,Mammalia,Lagomorpha,Leporidae,Lepus,NA,NA,NA
+Lepus americanus,Metazoa,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus americanus,1.36079,Tamburello_etal_2015
+Lepus californicus,Metazoa,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus californicus,2.26798,Tamburello_etal_2015
+Liomys pictus,Metazoa,Mammalia,Rodentia,Heteromyidae,Heteromys,Heteromys pictus,NA,NA
+Lontra canadensis,Metazoa,Mammalia,Carnivora,Mustelidae,Lontra,Lontra canadensis,6.225,Prugh_etal_2008
+Lynx rufus,Metazoa,Mammalia,Carnivora,Felidae,Lynx,Lynx rufus,11.33992,Tamburello_etal_2015
+Mareca strepera strepera,Metazoa,Aves,Anseriformes,Anatidae,Mareca,Mareca strepera,0.719,Tamburello_etal
+Marmota,Metazoa,Mammalia,Rodentia,Sciuridae,Marmota,NA,NA,NA
+Marmota caligata,Metazoa,Mammalia,Rodentia,Sciuridae,Marmota,Marmota caligata,NA,NA
+Marmota monax,Metazoa,Mammalia,Rodentia,Sciuridae,Marmota,Marmota monax,3.40197,Tamburello_etal_2015
+Marmota olympus,Metazoa,Mammalia,Rodentia,Sciuridae,Marmota,Marmota olympus,NA,NA
+Martes,Metazoa,Mammalia,Carnivora,Mustelidae,Martes,NA,NA,NA
+Martes americana,Metazoa,Mammalia,Carnivora,Mustelidae,Martes,Martes americana,0.88349,Tamburello_etal_2015
+Martes americana caurina,Metazoa,Mammalia,Carnivora,Mustelidae,Martes,Martes americana,0.88349,Tamburello_etal_2015
+Masticophis flagellum,Metazoa,Lepidosauria,Squamata,Colubridae,Masticophis,Masticophis flagellum,NA,NA
+Mazama temama,Metazoa,Mammalia,Artiodactyla,Cervidae,Mazama,Mazama temama,NA,NA
+Megalodiscus,Metazoa,Trematoda,Plagiorchiida,Paramphistomatidae,Megalodiscus,NA,NA,NA
+Meleagris gallopavo,Metazoa,Aves,Galliformes,Phasianidae,Meleagris,Meleagris gallopavo,6.023,Mace_Harvey_1983
+Meleagris gallopavo intermedia,Metazoa,Aves,Galliformes,Phasianidae,Meleagris,Meleagris gallopavo,6.023,Mace_Harvey_1983
+Mephitidae,Metazoa,Mammalia,Carnivora,Mephitidae,NA,NA,NA,NA
+Metazoa,Metazoa,NA,NA,NA,NA,NA,NA,NA
+Microtus,Metazoa,Mammalia,Rodentia,Cricetidae,Microtus,NA,NA,NA
+Microtus californicus,Metazoa,Mammalia,Rodentia,Cricetidae,Microtus,Microtus californicus,NA,NA
+Microtus montanus,Metazoa,Mammalia,Rodentia,Cricetidae,Microtus,Microtus montanus,0.0567,Tamburello_etal_2015
+Microtus pennsylvanicus,Metazoa,Mammalia,Rodentia,Cricetidae,Microtus,Microtus pennsylvanicus,0.04961,Tamburello_etal_2015
+Mirounga angustirostris,Metazoa,Mammalia,Carnivora,Phocidae,Mirounga,Mirounga angustirostris,NA,NA
+Molothrus,Metazoa,Aves,Passeriformes,Icteridae,Molothrus,NA,NA,NA
+Muridae,Metazoa,Mammalia,Rodentia,Muridae,NA,NA,NA,NA
+Mus,Metazoa,Mammalia,Rodentia,Muridae,Mus,NA,NA,NA
+Mus musculus,Metazoa,Mammalia,Rodentia,Muridae,Mus,Mus musculus,0.014,Mace_Harvey_1983
+Mustela,Metazoa,Mammalia,Carnivora,Mustelidae,Mustela,NA,NA,NA
+Mustela frenata,Metazoa,Mammalia,Carnivora,Mustelidae,Mustela,Mustela frenata,0.165,Harestad_ Bunnel_1979
+Mustelidae,Metazoa,Mammalia,Carnivora,Mustelidae,NA,NA,NA,NA
+Nasua narica,Metazoa,Mammalia,Carnivora,Procyonidae,Nasua,Nasua narica,5,Gittleman and Harvey (1982)
+Nasua nasua,Metazoa,Mammalia,Carnivora,Procyonidae,Nasua,Nasua nasua,NA,NA
+Neosciurus carolinensis,Metazoa,Mammalia,Rodentia,Sciuridae,Sciurus,Sciurus carolinensis,0.625,Mace_Harvey_1983
+Neotoma,Metazoa,Mammalia,Rodentia,Cricetidae,Neotoma,NA,NA,NA
+Neotoma floridana,Metazoa,Mammalia,Rodentia,Cricetidae,Neotoma,Neotoma floridana,NA,NA
+Neotoma lepida,Metazoa,Mammalia,Rodentia,Cricetidae,Neotoma,Neotoma lepida,NA,NA
+Neurotrichus gibbsii,Metazoa,Mammalia,Eulipotyphla,Talpidae,Neurotrichus,Neurotrichus gibbsii,0.0095,Harestad and Bunnel 1979
+Ochrotomys nuttalli,Metazoa,Mammalia,Rodentia,Cricetidae,Ochrotomys,Ochrotomys nuttalli,NA,NA
+Odocoileus,Metazoa,Mammalia,Artiodactyla,Cervidae,Odocoileus,NA,NA,NA
+Odocoileus hemionus,Metazoa,Mammalia,Artiodactyla,Cervidae,Odocoileus,Odocoileus hemionus,53.86417,Tamburello_etal_2015
+Odocoileus hemionus californicus,Metazoa,Mammalia,Artiodactyla,Cervidae,Odocoileus,Odocoileus hemionus,53.86417,Tamburello_etal_2015
+Odocoileus hemionus columbianus,Metazoa,Mammalia,Artiodactyla,Cervidae,Odocoileus,Odocoileus hemionus,53.86417,Tamburello_etal_2015
+Odocoileus virginianus,Metazoa,Mammalia,Artiodactyla,Cervidae,Odocoileus,Odocoileus virginianus,87.88404,Tamburello_etal_2015
+Oncorhynchus gorbuscha,Metazoa,Actinopteri,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus gorbuscha,NA,NA
+Ondatra zibethicus,Metazoa,Mammalia,Rodentia,Cricetidae,Ondatra,Ondatra zibethicus,1.36079,Tamburello_etal
+Onychomys arenicola,Metazoa,Mammalia,Rodentia,Cricetidae,Onychomys,Onychomys arenicola,NA,NA
+Oreamnos americanus,Metazoa,Mammalia,Artiodactyla,Bovidae,Oreamnos,Oreamnos americanus,NA,NA
+Orthoptera,Metazoa,Insecta,Orthoptera,NA,NA,NA,NA,NA
+Oryctolagus cuniculus,Metazoa,Mammalia,Lagomorpha,Leporidae,Oryctolagus,Oryctolagus cuniculus,1.6,Tamburello_etal_2015
+Oryx,Metazoa,Mammalia,Artiodactyla,Bovidae,Oryx,NA,NA,NA
+Oryx gazella,Metazoa,Mammalia,Artiodactyla,Bovidae,Oryx,Oryx gazella,NA,NA
+Oryzomys melanotis,Metazoa,Mammalia,Rodentia,Cricetidae,Handleyomys,Handleyomys melanotis,NA,NA
+Osgoodomys banderanus,Metazoa,Mammalia,Rodentia,Cricetidae,Osgoodomys,Osgoodomys banderanus,NA,NA
+Otospermophilus beecheyi,Metazoa,Mammalia,Rodentia,Sciuridae,Otospermophilus,Otospermophilus beecheyi,0.72575,Tamburello_etal_2015
+Otospermophilus variegatus,Metazoa,Mammalia,Rodentia,Sciuridae,Otospermophilus,Otospermophilus variegatus,NA,NA
+Ovis,Metazoa,Mammalia,Artiodactyla,Bovidae,Ovis,NA,NA,NA
+Ovis ammon,Metazoa,Mammalia,Artiodactyla,Bovidae,Ovis,Ovis ammon,NA,NA
+Ovis aries,Metazoa,Mammalia,Artiodactyla,Bovidae,Ovis,Ovis aries,NA,NA
+Ovis canadensis,Metazoa,Mammalia,Artiodactyla,Bovidae,Ovis,Ovis canadensis,90.71936,Tamburello_etal_2015
+Ovis canadensis mexicana,Metazoa,Mammalia,Artiodactyla,Bovidae,Ovis,Ovis canadensis,90.71936,Tamburello_etal_2015
+Ovis canadensis nelsoni,Metazoa,Mammalia,Artiodactyla,Bovidae,Ovis,Ovis canadensis,90.71936,Tamburello_etal_2015
+Ovis dalli,Metazoa,Mammalia,Artiodactyla,Bovidae,Ovis,Ovis dalli,NA,NA
+Panthera onca,Metazoa,Mammalia,Carnivora,Felidae,Panthera,Panthera onca,84.04077,Tamburello_etal
+Parabuteo unicinctus,Metazoa,Aves,Accipitriformes,Accipitridae,Parabuteo,Parabuteo unicinctus,0.73,Makarieva_etal_2005
+Passerculus sandwichensis,Metazoa,Aves,Passeriformes,Passerellidae,Passerculus,Passerculus sandwichensis,0.02,Best_etal_1996
+Pecari tajacu,Metazoa,Mammalia,Artiodactyla,Tayassuidae,Dicotyles,Dicotyles tajacu,NA,NA
+Pelecanus occidentalis,Metazoa,Aves,Pelecaniformes,Pelecanidae,Pelecanus,Pelecanus occidentalis,NA,NA
+Perognathinae,Metazoa,Mammalia,Rodentia,Heteromyidae,NA,NA,NA,NA
+Perognathus fasciatus,Metazoa,Mammalia,Rodentia,Heteromyidae,Perognathus,Perognathus fasciatus,NA,NA
+Perognathus parvus,Metazoa,Mammalia,Rodentia,Heteromyidae,Perognathus,Perognathus parvus,NA,NA
+Peromyscus,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,NA,NA,NA
+Peromyscus aztecus,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus aztecus,NA,NA
+Peromyscus boylii,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus boylii,NA,NA
+Peromyscus crinitus,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus crinitus,NA,NA
+Peromyscus gossypinus,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus gossypinus,NA,NA
+Peromyscus leucopus,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus leucopus,0.021,Hein_etal_2012
+Peromyscus maniculatus,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus maniculatus,0.016,Harestad_ Bunnel_1979
+Peromyscus perfulvus,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus perfulvus,NA,NA
+Peromyscus polionotus,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus polionotus,NA,NA
+Phalacrocoracidae,Metazoa,Aves,Suliformes,Phalacrocoracidae,NA,NA,NA,NA
+Phasianidae,Metazoa,Aves,Galliformes,Phasianidae,NA,NA,NA,NA
+Phasianus,Metazoa,Aves,Galliformes,Phasianidae,Phasianus,NA,NA,NA
+Philander opossum,Metazoa,Mammalia,Didelphimorphia,Didelphidae,Philander,Philander opossum,NA,NA
+Phoca vitulina,Metazoa,Mammalia,Carnivora,Phocidae,Phoca,Phoca vitulina,NA,NA
+Phocidae,Metazoa,Mammalia,Carnivora,Phocidae,NA,NA,NA,NA
+Phrynosoma cornutum,Metazoa,Lepidosauria,Squamata,Phrynosomatidae,Phrynosoma,Phrynosoma cornutum,0.055,Perry_Garland_2002
+Pituophis,Metazoa,Lepidosauria,Squamata,Colubridae,Pituophis,NA,NA,NA
+Pituophis catenifer,Metazoa,Lepidosauria,Squamata,Colubridae,Pituophis,Pituophis catenifer,NA,NA
+Pituophis melanoleucus,Metazoa,Lepidosauria,Squamata,Colubridae,Pituophis,Pituophis melanoleucus,1.004,Tamburello_etal_2015
+Procyon lotor,Metazoa,Mammalia,Carnivora,Procyonidae,Procyon,Procyon lotor,8,Swihart_etal_1988
+Procyonidae,Metazoa,Mammalia,Carnivora,Procyonidae,NA,NA,NA,NA
+Pseudacris regilla,Metazoa,Amphibia,Anura,Hylidae,Pseudacris,Pseudacris regilla,NA,NA
+Pseudocorynosoma constrictum,Metazoa,Palaeacanthocephala,Polymorphida,Polymorphidae,Pseudocorynosoma,Pseudocorynosoma constrictum,NA,NA
+Puma concolor,Metazoa,Mammalia,Carnivora,Felidae,Puma,Puma concolor,89.99948,Tamburello_etal_2015
+Rallidae,Metazoa,Aves,Gruiformes,Rallidae,NA,NA,NA,NA
+Rana draytonii,Metazoa,Amphibia,Anura,Ranidae,Rana,Rana draytonii,NA,NA
+Rangifer tarandus,Metazoa,Mammalia,Artiodactyla,Cervidae,Rangifer,Rangifer tarandus,102.05869,Tamburello_etal_2015
+Rattus norvegicus,Metazoa,Mammalia,Rodentia,Muridae,Rattus,Rattus norvegicus,NA,NA
+Reithrodontomys fulvescens,Metazoa,Mammalia,Rodentia,Cricetidae,Reithrodontomys,Reithrodontomys fulvescens,NA,NA
+Reithrodontomys humulis,Metazoa,Mammalia,Rodentia,Cricetidae,Reithrodontomys,Reithrodontomys humulis,NA,NA
+Reithrodontomys megalotis,Metazoa,Mammalia,Rodentia,Cricetidae,Reithrodontomys,Reithrodontomys megalotis,0.009,Mace_Harvey_1983
+Rena humilis,Metazoa,Lepidosauria,Squamata,Leptotyphlopidae,Rena,Rena humilis,NA,NA
+Reptilia,Metazoa,Lepidosauria,NA,NA,NA,NA,NA,NA
+Ribeiroia ondatrae,Metazoa,Trematoda,Plagiorchiida,Echinostomatidae,Ribeiroia,Ribeiroia ondatrae,NA,NA
+Rodentia,Metazoa,Mammalia,Rodentia,NA,NA,NA,NA,NA
+Romerolagus diazi,Metazoa,Mammalia,Lagomorpha,Leporidae,Romerolagus,Romerolagus diazi,NA,NA
+Salmonidae,Metazoa,Actinopteri,Salmoniformes,Salmonidae,NA,NA,NA,NA
+Sauromalus ater,Metazoa,Lepidosauria,Squamata,Iguanidae,Sauromalus,Sauromalus ater,NA,NA
+Scalopus aquaticus,Metazoa,Mammalia,Eulipotyphla,Talpidae,Scalopus,Scalopus aquaticus,0.1035,Tamburello_etal_2015
+Scapanus latimanus,Metazoa,Mammalia,Eulipotyphla,Talpidae,Scapanus,Scapanus latimanus,NA,NA
+Scatophagidae,Metazoa,Actinopteri,NA,Scatophagidae,NA,NA,NA,NA
+Sciuridae,Metazoa,Mammalia,Rodentia,Sciuridae,NA,NA,NA,NA
+Sciurus carolinensis,Metazoa,Mammalia,Rodentia,Sciuridae,Sciurus,Sciurus carolinensis,0.625,Mace_Harvey_1983
+Sciurus griseus,Metazoa,Mammalia,Rodentia,Sciuridae,Hesperosciurus,Hesperosciurus griseus,NA,NA
+Sciurus niger,Metazoa,Mammalia,Rodentia,Sciuridae,Sciurus,Sciurus niger,0.95299,Tamburello_etal_2015
+Scorpiones,Metazoa,Arachnida,Scorpiones,NA,NA,NA,NA,NA
+Serpentes,Metazoa,Lepidosauria,Squamata,NA,NA,NA,NA,NA
+Sigmodon,Metazoa,Mammalia,Rodentia,Cricetidae,Sigmodon,NA,NA,NA
+Sigmodon fulviventer,Metazoa,Mammalia,Rodentia,Cricetidae,Sigmodon,Sigmodon fulviventer,NA,NA
+Sigmodon hispidus,Metazoa,Mammalia,Rodentia,Cricetidae,Sigmodon,Sigmodon hispidus,0.08,Mace_Harvey_1983
+Sigmodon mascotensis,Metazoa,Mammalia,Rodentia,Cricetidae,Sigmodon,Sigmodon mascotensis,NA,NA
+Sonora occipitalis,Metazoa,Lepidosauria,Squamata,Colubridae,Sonora,Sonora occipitalis,NA,NA
+Sorex,Metazoa,Mammalia,Eulipotyphla,Soricidae,Sorex,NA,NA,NA
+Sorex cinereus,Metazoa,Mammalia,Eulipotyphla,Soricidae,Sorex,Sorex cinereus,0.00417,Tamburello_etal_2015
+Soricidae,Metazoa,Mammalia,Eulipotyphla,Soricidae,NA,NA,NA,NA
+Spermophilus,Metazoa,Mammalia,Rodentia,Sciuridae,Spermophilus,NA,NA,NA
+Stenopelmatidae,Metazoa,Insecta,Orthoptera,Stenopelmatidae,NA,NA,NA,NA
+Suidae,Metazoa,Mammalia,Artiodactyla,Suidae,NA,NA,NA,NA
+Sus,Metazoa,Mammalia,Artiodactyla,Suidae,Sus,NA,NA,NA
+Sus scrofa,Metazoa,Mammalia,Artiodactyla,Suidae,Sus,Sus scrofa,NA,NA
+Sylvilagus,Metazoa,Mammalia,Lagomorpha,Leporidae,Sylvilagus,NA,NA,NA
+Sylvilagus aquaticus,Metazoa,Mammalia,Lagomorpha,Leporidae,Sylvilagus,Sylvilagus aquaticus,2.198,Harestad and Bunnel 1979
+Sylvilagus audubonii,Metazoa,Mammalia,Lagomorpha,Leporidae,Sylvilagus,Sylvilagus audubonii,NA,NA
+Sylvilagus bachmani,Metazoa,Mammalia,Lagomorpha,Leporidae,Sylvilagus,Sylvilagus bachmani,0.695,Harestad_ Bunnel_1979
+Sylvilagus cunicularius,Metazoa,Mammalia,Lagomorpha,Leporidae,Sylvilagus,Sylvilagus cunicularius,NA,NA
+Sylvilagus dicei,Metazoa,Mammalia,Lagomorpha,Leporidae,Sylvilagus,Sylvilagus dicei,NA,NA
+Sylvilagus floridanus,Metazoa,Mammalia,Lagomorpha,Leporidae,Sylvilagus,Sylvilagus floridanus,1.36079,Tamburello_etal_2015
+Sylvilagus nuttallii,Metazoa,Mammalia,Lagomorpha,Leporidae,Sylvilagus,Sylvilagus nuttallii,NA,NA
+Talpidae,Metazoa,Mammalia,Eulipotyphla,Talpidae,NA,NA,NA,NA
+Tamandua mexicana,Metazoa,Mammalia,Pilosa,Myrmecophagidae,Tamandua,Tamandua mexicana,NA,NA
+Tamias,Metazoa,Mammalia,Rodentia,Sciuridae,Tamias,NA,NA,NA
+Tamias alpinus,Metazoa,Mammalia,Rodentia,Sciuridae,Tamias,Neotamias alpinus,NA,NA
+Tamias dorsalis,Metazoa,Mammalia,Rodentia,Sciuridae,Tamias,Tamias dorsalis,NA,NA
+Tamias merriami,Metazoa,Mammalia,Rodentia,Sciuridae,Tamias,Tamias merriami,NA,NA
+Tamias minimus,Metazoa,Mammalia,Rodentia,Sciuridae,Tamias,Tamias minimus,0.045,Swihart_etal_1988
+Tamias striatus,Metazoa,Mammalia,Rodentia,Sciuridae,Tamias,Tamias striatus,0.085,Harestad_ Bunnel_1979
+Tamiasciurus hudsonicus,Metazoa,Mammalia,Rodentia,Sciuridae,Tamiasciurus,Tamiasciurus hudsonicus,0.22396,Tamburello_etal_2015
+Tapirus bairdii,Metazoa,Mammalia,Perissodactyla,Tapiridae,Tapirus,Tapirus bairdii,NA,NA
+Taricha torosa,Metazoa,Amphibia,Caudata,Salamandridae,Taricha,Taricha torosa,NA,NA
+Taxidea taxus,Metazoa,Mammalia,Carnivora,Mustelidae,Taxidea,Taxidea taxus,8.61827,Tamburello_etal_2015
+Tayassuidae,Metazoa,Mammalia,Artiodactyla,Tayassuidae,NA,NA,NA,NA
+Testudines,Metazoa,NA,Testudines,NA,NA,NA,NA,NA
+Tetraoninae,Metazoa,Aves,Galliformes,Phasianidae,NA,NA,NA,NA
+Thamnophis atratus,Metazoa,Lepidosauria,Squamata,Colubridae,Thamnophis,Thamnophis atratus,NA,NA
+Thomomys bottae,Metazoa,Mammalia,Rodentia,Geomyidae,Thomomys,Thomomys bottae,0.16018,Tamburello_etal_2015
+Thomomys mazama,Metazoa,Mammalia,Rodentia,Geomyidae,Thomomys,Thomomys mazama,NA,NA
+Thomomys townsendii,Metazoa,Mammalia,Rodentia,Geomyidae,Thomomys,Thomomys townsendii,NA,NA
+Urocitellus armatus,Metazoa,Mammalia,Rodentia,Sciuridae,Urocitellus,Urocitellus armatus,NA,NA
+Urocitellus columbianus,Metazoa,Mammalia,Rodentia,Sciuridae,Urocitellus,Urocitellus columbianus,0.57834,Tamburello_etal_2015
+Urocitellus townsendii,Metazoa,Mammalia,Rodentia,Sciuridae,Urocitellus,Urocitellus townsendii,NA,NA
+Urocitellus washingtoni,Metazoa,Mammalia,Rodentia,Sciuridae,Urocitellus,Urocitellus washingtoni,NA,NA
+Urocyon cinereoargenteus,Metazoa,Mammalia,Carnivora,Canidae,Urocyon,Urocyon cinereoargenteus,3.834,EOL
+Ursus americanus,Metazoa,Mammalia,Carnivora,Ursidae,Ursus,Ursus americanus,100,Hein_etal_2012
+Vulpes macrotis,Metazoa,Mammalia,Carnivora,Canidae,Vulpes,Vulpes macrotis,NA,NA
+Vulpes macrotis mutica,Metazoa,Mammalia,Carnivora,Canidae,Vulpes,Vulpes macrotis,NA,NA
+Vulpes velox,Metazoa,Mammalia,Carnivora,Canidae,Vulpes,Vulpes velox,2.0893,Tamburello_etal_2015
+Vulpes vulpes,Metazoa,Mammalia,Carnivora,Canidae,Vulpes,Vulpes vulpes,4.1,Gittleman_Harvey_1982
+Xerospermophilus mohavensis,Metazoa,Mammalia,Rodentia,Sciuridae,Xerospermophilus,Xerospermophilus mohavensis,NA,NA
+Xerospermophilus tereticaudus,Metazoa,Mammalia,Rodentia,Sciuridae,Xerospermophilus,Xerospermophilus tereticaudus,NA,NA
+Zalophus californianus,Metazoa,Mammalia,Carnivora,Otariidae,Zalophus,Zalophus californianus,NA,NA
+Zapus hudsonius,Metazoa,Mammalia,Rodentia,Dipodidae,Zapus,Zapus hudsonius,0.022,Mace_Harvey_1983
+Zenaida asiatica,Metazoa,Aves,Columbiformes,Columbidae,Zenaida,Zenaida asiatica,NA,NA
+Acrididae,Metazoa,Insecta,Orthoptera,Acrididae,NA,NA,NA,NA
+Alcelaphus buselaphus,Metazoa,Mammalia,Artiodactyla,Bovidae,Alcelaphus,Alcelaphus buselaphus,NA,NA
+Antidorcas marsupialis,Metazoa,Mammalia,Artiodactyla,Bovidae,Antidorcas,Antidorcas marsupialis,32,Hein_Gillooly_2011
+Aphidoidea,Metazoa,Insecta,Hemiptera,NA,NA,NA,NA,NA
+Bathyergidae,Metazoa,Mammalia,Rodentia,Bathyergidae,NA,NA,NA,NA
+Bovidae,Metazoa,Mammalia,Artiodactyla,Bovidae,NA,NA,NA,NA
+Capra hircus aegagrus,Metazoa,Mammalia,Artiodactyla,Bovidae,Capra,Capra aegagrus,NA,NA
+Caracal caracal,Metazoa,Mammalia,Carnivora,Felidae,Caracal,Caracal caracal,12.9999,Tamburello_etal_2015
+Cephalophus,Metazoa,Mammalia,Artiodactyla,Bovidae,Cephalophus,NA,NA,NA
+Connochaetes gnou,Metazoa,Mammalia,Artiodactyla,Bovidae,Connochaetes,Connochaetes gnou,NA,NA
+Connochaetes taurinus,Metazoa,Mammalia,Artiodactyla,Bovidae,Connochaetes,Connochaetes taurinus,140,Hein_etal_2012
+Cryptomys hottentotus,Metazoa,Mammalia,Rodentia,Bathyergidae,Cryptomys,Cryptomys hottentotus,NA,NA
+Cynictis penicillata,Metazoa,Mammalia,Carnivora,Herpestidae,Cynictis,Cynictis penicillata,0.62,Tamburello_etal
+Damaliscus lunatus,Metazoa,Mammalia,Artiodactyla,Bovidae,Damaliscus,Damaliscus lunatus,NA,NA
+Damaliscus pygargus,Metazoa,Mammalia,Artiodactyla,Bovidae,Damaliscus,Damaliscus pygargus,NA,NA
+Dasymys incomtus,Metazoa,Mammalia,Rodentia,Muridae,Dasymys,Dasymys incomtus,NA,NA
+Dendromus melanotis,Metazoa,Mammalia,Rodentia,Nesomyidae,Dendromus,Dendromus melanotis,NA,NA
+Equus,Metazoa,Mammalia,Perissodactyla,Equidae,Equus,NA,NA,NA
+Equus asinus,Metazoa,Mammalia,Perissodactyla,Equidae,Equus,Equus asinus,NA,NA
+Equus quagga,Metazoa,Mammalia,Perissodactyla,Equidae,Equus,Equus quagga,NA,NA
+Eudorcas thomsonii,Metazoa,Mammalia,Artiodactyla,Bovidae,Eudorcas,Eudorcas thomsonii,NA,NA
+Gerbilliscus brantsii,Metazoa,Mammalia,Rodentia,Muridae,Gerbilliscus,Gerbilliscus brantsii,NA,NA
+Giraffa camelopardalis,Metazoa,Mammalia,Artiodactyla,Giraffidae,Giraffa,Giraffa camelopardalis,NA,NA
+Hyracoidea,Metazoa,Mammalia,Hyracoidea,NA,NA,NA,NA,NA
+Hystrix africaeaustralis,Metazoa,Mammalia,Rodentia,Hystricidae,Hystrix,Hystrix africaeaustralis,NA,NA
+Ictonyx striatus,Metazoa,Mammalia,Carnivora,Mustelidae,Ictonyx,Ictonyx striatus,NA,NA
+Kobus ellipsiprymnus,Metazoa,Mammalia,Artiodactyla,Bovidae,Kobus,Kobus ellipsiprymnus,NA,NA
+Lepus capensis,Metazoa,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus capensis,NA,NA
+Madoqua kirkii,Metazoa,Mammalia,Artiodactyla,Bovidae,Madoqua,Madoqua kirkii,NA,NA
+Mastomys natalensis,Metazoa,Mammalia,Rodentia,Muridae,Mastomys,Mastomys natalensis,NA,NA
+Micaelamys namaquensis,Metazoa,Mammalia,Rodentia,Muridae,Micaelamys,Micaelamys namaquensis,NA,NA
+Mus minutoides,Metazoa,Mammalia,Rodentia,Muridae,Mus,Mus minutoides,NA,NA
+Myosorex varius,Metazoa,Mammalia,Eulipotyphla,Soricidae,Myosorex,Myosorex varius,NA,NA
+Oreotragus oreotragus,Metazoa,Mammalia,Artiodactyla,Bovidae,Oreotragus,Oreotragus oreotragus,NA,NA
+Orycteropus afer,Metazoa,Mammalia,Tubulidentata,Orycteropodidae,Orycteropus,Orycteropus afer,NA,NA
+Otocyon megalotis,Metazoa,Mammalia,Carnivora,Canidae,Otocyon,Otocyon megalotis,NA,NA
+Otomys irroratus,Metazoa,Mammalia,Rodentia,Muridae,Otomys,Otomys irroratus,NA,NA
+Ourebia ourebi,Metazoa,Mammalia,Artiodactyla,Bovidae,Ourebia,Ourebia ourebi,NA,NA
+Papio ursinus,Metazoa,Mammalia,Primates,Cercopithecidae,Papio,Papio ursinus,NA,NA
+Pedetes,Metazoa,Mammalia,Rodentia,Pedetidae,Pedetes,NA,NA,NA
+Pedetes capensis,Metazoa,Mammalia,Rodentia,Pedetidae,Pedetes,Pedetes capensis,NA,NA
+Phacochoerus,Metazoa,Mammalia,Artiodactyla,Suidae,Phacochoerus,NA,NA,NA
+Phacochoerus africanus,Metazoa,Mammalia,Artiodactyla,Suidae,Phacochoerus,Phacochoerus africanus,NA,NA
+Primates,Metazoa,Mammalia,Primates,NA,NA,NA,NA,NA
+Procavia capensis,Metazoa,Mammalia,Hyracoidea,Procaviidae,Procavia,Procavia capensis,NA,NA
+Raphicerus campestris,Metazoa,Mammalia,Artiodactyla,Bovidae,Raphicerus,Raphicerus campestris,NA,NA
+Rattus rattus,Metazoa,Mammalia,Rodentia,Muridae,Rattus,Rattus rattus,NA,NA
+Redunca arundinum,Metazoa,Mammalia,Artiodactyla,Bovidae,Redunca,Redunca arundinum,NA,NA
+Redunca fulvorufula,Metazoa,Mammalia,Artiodactyla,Bovidae,Redunca,Redunca fulvorufula,NA,NA
+Rhabdomys pumilio,Metazoa,Mammalia,Rodentia,Muridae,Rhabdomys,Rhabdomys pumilio,NA,NA
+Suricata suricatta,Metazoa,Mammalia,Carnivora,Herpestidae,Suricata,Suricata suricatta,NA,NA
+Sylvicapra grimmia,Metazoa,Mammalia,Artiodactyla,Bovidae,Sylvicapra,Sylvicapra grimmia,NA,NA
+Syncerus caffer,Metazoa,Mammalia,Artiodactyla,Bovidae,Syncerus,Syncerus caffer,NA,NA
+Tragelaphus angasii,Metazoa,Mammalia,Artiodactyla,Bovidae,Tragelaphus,Tragelaphus angasii,NA,NA
+Tragelaphus oryx,Metazoa,Mammalia,Artiodactyla,Bovidae,Tragelaphus,Tragelaphus oryx,635.03842,Tamburello_etal_2015
+Tragelaphus scriptus sylvaticus,Metazoa,Mammalia,Artiodactyla,Bovidae,Tragelaphus,Tragelaphus scriptus,NA,NA
+Tragelaphus strepsiceros,Metazoa,Mammalia,Artiodactyla,Bovidae,Tragelaphus,Tragelaphus strepsiceros,NA,NA
+Vespidae,Metazoa,Insecta,Hymenoptera,Vespidae,NA,NA,NA,NA
+Vulpes chama,Metazoa,Mammalia,Carnivora,Canidae,Vulpes,Vulpes chama,NA,NA
+Xerus inauris,Metazoa,Mammalia,Rodentia,Sciuridae,Xerus,Xerus inauris,NA,NA
+Canis latrans,Metazoa,Mammalia,Carnivora,Canidae,Canis,Canis latrans,14.06,Jenkins_etal_2007
+Arvicanthis,Metazoa,Mammalia,Rodentia,Muridae,Arvicanthis,NA,NA,NA
+Arvicanthis abyssinicus,Metazoa,Mammalia,Rodentia,Muridae,Arvicanthis,Arvicanthis abyssinicus,NA,NA
+Arvicanthis blicki,Metazoa,Mammalia,Rodentia,Muridae,Arvicanthis,Arvicanthis blicki,NA,NA
+Dendromus lovati,Metazoa,Mammalia,Rodentia,Nesomyidae,Dendromus,Dendromus lovati,NA,NA
+Lepus starcki,Metazoa,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus starcki,NA,NA
+Lophuromys,Metazoa,Mammalia,Rodentia,Muridae,Lophuromys,NA,NA,NA
+Lophuromys flavopunctatus,Metazoa,Mammalia,Rodentia,Muridae,Lophuromys,Lophuromys flavopunctatus,NA,NA
+Malacothrix,Metazoa,Mammalia,Rodentia,Nesomyidae,Malacothrix,NA,NA,NA
+Otomys typus,Metazoa,Mammalia,Rodentia,Muridae,Otomys,Otomys typus,NA,NA
+Spalax giganteus,Metazoa,Mammalia,Rodentia,Spalacidae,Spalax,Spalax giganteus,NA,NA
+Stenocephalemys albipes,Metazoa,Mammalia,Rodentia,Muridae,Stenocephalemys,Stenocephalemys albipes,NA,NA
+Stenocephalemys albocaudata,Metazoa,Mammalia,Rodentia,Muridae,Stenocephalemys,Stenocephalemys albocaudata,NA,NA
+Stenocephalemys griseicauda,Metazoa,Mammalia,Rodentia,Muridae,Stenocephalemys,Stenocephalemys griseicauda,NA,NA
+Tachyoryctes,Metazoa,Mammalia,Rodentia,Spalacidae,Tachyoryctes,NA,NA,NA
+Tachyoryctes macrocephalus,Metazoa,Mammalia,Rodentia,Spalacidae,Tachyoryctes,Tachyoryctes macrocephalus,NA,NA
+Tachyoryctes splendens,Metazoa,Mammalia,Rodentia,Spalacidae,Tachyoryctes,Tachyoryctes splendens,NA,NA
+Alces americanus,Metazoa,Mammalia,Artiodactyla,Cervidae,Alces,Alces americanus,NA,NA
+Apodiformes,Metazoa,Aves,Apodiformes,NA,NA,NA,NA,NA
+Bonasa,Metazoa,Aves,Galliformes,Phasianidae,Bonasa,NA,NA,NA
+Dipodomys californicus,Metazoa,Mammalia,Rodentia,Heteromyidae,Dipodomys,Dipodomys californicus,NA,NA
+Equus hemionus,Metazoa,Mammalia,Perissodactyla,Equidae,Equus,Equus hemionus,NA,NA
+Erethizontidae,Metazoa,Mammalia,Rodentia,Erethizontidae,NA,NA,NA,NA
+Myodes gapperi,Metazoa,Mammalia,Rodentia,Cricetidae,Clethrionomys,Clethrionomys gapperi,NA,NA
+Nematoda,Metazoa,NA,NA,NA,NA,NA,NA,NA
+Ondatra,Metazoa,Mammalia,Rodentia,Cricetidae,Ondatra,NA,NA,NA
+Onychomys,Metazoa,Mammalia,Rodentia,Cricetidae,Onychomys,NA,NA,NA
+Perognathus,Metazoa,Mammalia,Rodentia,Heteromyidae,Perognathus,NA,NA,NA
+Phasianus colchicus,Metazoa,Aves,Galliformes,Phasianidae,Phasianus,Phasianus colchicus,1.136,Mace_Harvey_1983
+Reithrodontomys,Metazoa,Mammalia,Rodentia,Cricetidae,Reithrodontomys,NA,NA,NA
+Ailuropoda,Metazoa,Mammalia,Carnivora,Ursidae,Ailuropoda,NA,NA,NA
+Arctonyx collaris,Metazoa,Mammalia,Carnivora,Mustelidae,Arctonyx,Arctonyx collaris,NA,NA
+Atherurus macrourus,Metazoa,Mammalia,Rodentia,Hystricidae,Atherurus,Atherurus macrourus,NA,NA
+Axis axis,Metazoa,Mammalia,Artiodactyla,Cervidae,Axis,Axis axis,NA,NA
+Axis porcinus,Metazoa,Mammalia,Artiodactyla,Cervidae,Axis,Axis porcinus,NA,NA
+Bos frontalis,Metazoa,Mammalia,Artiodactyla,Bovidae,Bos,Bos frontalis,NA,NA
+Bos gaurus,Metazoa,Mammalia,Artiodactyla,Bovidae,Bos,Bos gaurus,NA,NA
+Bos grunniens mutus,Metazoa,Mammalia,Artiodactyla,Bovidae,Bos,Bos mutus,NA,NA
+Bos javanicus,Metazoa,Mammalia,Artiodactyla,Bovidae,Bos,Bos javanicus,NA,NA
+Boselaphus,Metazoa,Mammalia,Artiodactyla,Bovidae,Boselaphus,NA,NA,NA
+Capreolus pygargus,Metazoa,Mammalia,Artiodactyla,Cervidae,Capreolus,Capreolus pygargus,40,Hein_etal_2012
+Capricornis milneedwardsii,Metazoa,Mammalia,Artiodactyla,Bovidae,Capricornis,Capricornis milneedwardsii,NA,NA
+Capricornis sumatraensis,Metazoa,Mammalia,Artiodactyla,Bovidae,Capricornis,Capricornis sumatraensis,NA,NA
+Cervus,Metazoa,Mammalia,Artiodactyla,Cervidae,Cervus,NA,NA,NA
+Cuon alpinus,Metazoa,Mammalia,Carnivora,Canidae,Cuon,Cuon alpinus,NA,NA
+Elaphodus cephalophus,Metazoa,Mammalia,Artiodactyla,Cervidae,Elaphodus,Elaphodus cephalophus,NA,NA
+Gallus,Metazoa,Aves,Galliformes,Phasianidae,Gallus,NA,NA,NA
+Gazella bennettii,Metazoa,Mammalia,Artiodactyla,Bovidae,Gazella,Gazella bennettii,NA,NA
+Hemitragus hylocrius,Metazoa,Mammalia,Artiodactyla,Bovidae,Nilgiritragus,Nilgiritragus hylocrius,NA,NA
+Hemitragus jemlahicus,Metazoa,Mammalia,Artiodactyla,Bovidae,Hemitragus,Hemitragus jemlahicus,NA,NA
+Herpestes edwardsi,Metazoa,Mammalia,Carnivora,Herpestidae,Herpestes,Herpestes edwardsi,NA,NA
+Herpestidae,Metazoa,Mammalia,Carnivora,Herpestidae,NA,NA,NA,NA
+Hystrix indica,Metazoa,Mammalia,Rodentia,Hystricidae,Hystrix,Hystrix indica,NA,NA
+Lepus nigricollis,Metazoa,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus nigricollis,NA,NA
+Moschiola indica,Metazoa,Mammalia,Artiodactyla,Tragulidae,Moschiola,Moschiola indica,NA,NA
+Moschiola meminna,Metazoa,Mammalia,Artiodactyla,Tragulidae,Moschiola,Moschiola meminna,NA,NA
+Moschus,Metazoa,Mammalia,Artiodactyla,Moschidae,Moschus,NA,NA,NA
+Muntiacus,Metazoa,Mammalia,Artiodactyla,Cervidae,Muntiacus,NA,NA,NA
+Muntiacus muntjak,Metazoa,Mammalia,Artiodactyla,Cervidae,Muntiacus,Muntiacus muntjak,NA,NA
+Muntiacus muntjak vaginalis,Metazoa,Mammalia,Artiodactyla,Cervidae,Muntiacus,Muntiacus vaginalis,NA,NA
+Muntiacus vaginalis,Metazoa,Mammalia,Artiodactyla,Cervidae,Muntiacus,Muntiacus vaginalis,NA,NA
+Muntiacus vuquangensis,Metazoa,Mammalia,Artiodactyla,Cervidae,Muntiacus,Muntiacus vuquangensis,NA,NA
+Naemorhedus goral,Metazoa,Mammalia,Artiodactyla,Bovidae,Naemorhedus,Naemorhedus goral,NA,NA
+Nilgiritragus hylocrius,Metazoa,Mammalia,Artiodactyla,Bovidae,Nilgiritragus,Nilgiritragus hylocrius,NA,NA
+Ochotona roylii,Metazoa,Mammalia,Lagomorpha,Ochotonidae,Ochotona,Ochotona roylei,NA,NA
+Paradoxurus jerdoni,Metazoa,Mammalia,Carnivora,Viverridae,Paradoxurus,Paradoxurus jerdoni,NA,NA
+Pseudois nayaur,Metazoa,Mammalia,Artiodactyla,Bovidae,Pseudois,Pseudois nayaur,NA,NA
+Rhinopithecus,Metazoa,Mammalia,Primates,Cercopithecidae,Rhinopithecus,NA,NA,NA
+Rucervus eldii,Metazoa,Mammalia,Artiodactyla,Cervidae,Rucervus,Rucervus eldii,NA,NA
+Rusa unicolor,Metazoa,Mammalia,Artiodactyla,Cervidae,Rusa,Rusa unicolor,NA,NA
+Rusa unicolor cambojensis,Metazoa,Mammalia,Artiodactyla,Cervidae,Rusa,Rusa unicolor,NA,NA
+Semnopithecus,Metazoa,Mammalia,Primates,Cercopithecidae,Semnopithecus,NA,NA,NA
+Semnopithecus entellus,Metazoa,Mammalia,Primates,Cercopithecidae,Semnopithecus,Semnopithecus entellus,NA,NA
+Tetracerus quadricornis,Metazoa,Mammalia,Artiodactyla,Bovidae,Tetracerus,Tetracerus quadricornis,NA,NA
+Trachypithecus geei,Metazoa,Mammalia,Primates,Cercopithecidae,Trachypithecus,Trachypithecus geei,NA,NA
+Tragulidae,Metazoa,Mammalia,Artiodactyla,Tragulidae,NA,NA,NA,NA
+Ursus thibetanus,Metazoa,Mammalia,Carnivora,Ursidae,Ursus,Ursus thibetanus,NA,NA
+Viverricula indica,Metazoa,Mammalia,Carnivora,Viverridae,Viverricula,Viverricula indica,NA,NA
+Viverridae,Metazoa,Mammalia,Carnivora,Viverridae,NA,NA,NA,NA
+axis,Metazoa,Mammalia,Artiodactyla,Cervidae,Axis,NA,NA,NA
+Aepyceros melampus melampus,Metazoa,Mammalia,Artiodactyla,Bovidae,Aepyceros,Aepyceros melampus,63.50384,Tamburello_etal_2015
+Alcelaphus buselaphus cokii,Metazoa,Mammalia,Artiodactyla,Bovidae,Alcelaphus,Alcelaphus buselaphus,NA,NA
+Beatragus hunteri,Metazoa,Mammalia,Artiodactyla,Bovidae,Beatragus,Beatragus hunteri,NA,NA
+Cephalophus natalensis,Metazoa,Mammalia,Artiodactyla,Bovidae,Cephalophorus,Cephalophorus natalensis,NA,NA
+Ceratotherium simum,Metazoa,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,Ceratotherium simum,NA,NA
+Connochaetes,Metazoa,Mammalia,Artiodactyla,Bovidae,Connochaetes,NA,NA,NA
+Connochaetes taurinus mearnsi,Metazoa,Mammalia,Artiodactyla,Bovidae,Connochaetes,Connochaetes taurinus,140,Hein_etal_2012
+Damaliscus korrigum,Metazoa,Mammalia,Artiodactyla,Bovidae,Damaliscus,Damaliscus lunatus,NA,NA
+Diceros bicornis,Metazoa,Mammalia,Perissodactyla,Rhinocerotidae,Diceros,Diceros bicornis,NA,NA
+Equus grevyi,Metazoa,Mammalia,Perissodactyla,Equidae,Equus,Equus grevyi,NA,NA
+Equus quagga burchellii,Metazoa,Mammalia,Perissodactyla,Equidae,Equus,Equus quagga,NA,NA
+Giraffa tippelskirchi,Metazoa,Mammalia,Artiodactyla,Giraffidae,Giraffa,Giraffa tippelskirchi,NA,NA
+Hippopotamidae,Metazoa,Mammalia,Artiodactyla,Hippopotamidae,NA,NA,NA,NA
+Hippotragus equinus,Metazoa,Mammalia,Artiodactyla,Bovidae,Hippotragus,Hippotragus equinus,NA,NA
+Hippotragus niger,Metazoa,Mammalia,Artiodactyla,Bovidae,Hippotragus,Hippotragus niger,NA,NA
+Kobus leche,Metazoa,Mammalia,Artiodactyla,Bovidae,Kobus,Kobus leche,NA,NA
+Kobus megaceros,Metazoa,Mammalia,Artiodactyla,Bovidae,Kobus,Kobus megaceros,NA,NA
+Kobus vardonii,Metazoa,Mammalia,Artiodactyla,Bovidae,Kobus,Kobus vardonii,NA,NA
+Lepus saxatilis,Metazoa,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus saxatilis,NA,NA
+Litocranius walleri,Metazoa,Mammalia,Artiodactyla,Bovidae,Litocranius,Litocranius walleri,NA,NA
+Loxodonta africana,Metazoa,Mammalia,Proboscidea,Elephantidae,Loxodonta,Loxodonta africana,4000.00008,Tamburello_etal
+Nanger granti,Metazoa,Mammalia,Artiodactyla,Bovidae,Nanger,Nanger granti,NA,NA
+Papio anubis,Metazoa,Mammalia,Primates,Cercopithecidae,Papio,Papio anubis,16.65,Galan-Acedo et al. 2019
+Papio papio,Metazoa,Mammalia,Primates,Cercopithecidae,Papio,Papio papio,NA,NA
+Pelea capreolus,Metazoa,Mammalia,Artiodactyla,Bovidae,Pelea,Pelea capreolus,NA,NA
+Potamochoerus larvatus,Metazoa,Mammalia,Artiodactyla,Suidae,Potamochoerus,Potamochoerus larvatus,NA,NA
+Proboscidea,Metazoa,Mammalia,Proboscidea,NA,NA,NA,NA,NA
+Raphicerus,Metazoa,Mammalia,Artiodactyla,Bovidae,Raphicerus,NA,NA,NA
+Redunca,Metazoa,Mammalia,Artiodactyla,Bovidae,Redunca,NA,NA,NA
+Redunca redunca,Metazoa,Mammalia,Artiodactyla,Bovidae,Redunca,Redunca redunca,NA,NA
+Thryonomys swinderianus,Metazoa,Mammalia,Rodentia,Thryonomyidae,Thryonomys,Thryonomys swinderianus,NA,NA
+Tragelaphus,Metazoa,Mammalia,Artiodactyla,Bovidae,Tragelaphus,NA,NA,NA
+Tragelaphus imberbis,Metazoa,Mammalia,Artiodactyla,Bovidae,Tragelaphus,Tragelaphus imberbis,NA,NA
+Tragelaphus scriptus,Metazoa,Mammalia,Artiodactyla,Bovidae,Tragelaphus,Tragelaphus scriptus,NA,NA
+Calidris pugnax,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris pugnax,NA,NA
+Diplopoda,Metazoa,Diplopoda,NA,NA,NA,NA,NA,NA
+Gryllidae,Metazoa,Insecta,Orthoptera,Gryllidae,NA,NA,NA,NA
+Hodotermitidae,Metazoa,Insecta,Blattodea,Hodotermitidae,NA,NA,NA,NA
+Hymenoptera,Metazoa,Insecta,Hymenoptera,NA,NA,NA,NA,NA
+Lepidoptera,Metazoa,Insecta,Lepidoptera,NA,NA,NA,NA,NA
+Macrotermitinae,Metazoa,Insecta,Blattodea,Termitidae,NA,NA,NA,NA
+Solifugae,Metazoa,Arachnida,Solifugae,NA,NA,NA,NA,NA
+Termitidae,Metazoa,Insecta,Blattodea,Termitidae,NA,NA,NA,NA
+Atta,Metazoa,Insecta,Hymenoptera,Formicidae,Atta,NA,NA,NA
+Aix sponsa,Metazoa,Aves,Anseriformes,Anatidae,Aix,Aix sponsa,0.658,Best_etal_1996
+Anas fulvigula,Metazoa,Aves,Anseriformes,Anatidae,Anas,Anas fulvigula,NA,NA
+Bassariscus astutus,Metazoa,Mammalia,Carnivora,Procyonidae,Bassariscus,Bassariscus astutus,NA,NA
+Columba livia domestica,Metazoa,Aves,Columbiformes,Columbidae,Columba,Columba livia,0.393,Moller_etal_2004
+Columbiformes,Metazoa,Aves,Columbiformes,NA,NA,NA,NA,NA
+Crotalus,Metazoa,Lepidosauria,Squamata,Viperidae,Crotalus,NA,NA,NA
+Dipsosaurus dorsalis,Metazoa,Lepidosauria,Squamata,Iguanidae,Dipsosaurus,Dipsosaurus dorsalis,0.0506125,Perry_Garland_2002
+Eutheria,Metazoa,Mammalia,NA,NA,NA,NA,NA,NA
+Gallinula chloropus,Metazoa,Aves,Gruiformes,Rallidae,Gallinula,Gallinula chloropus,NA,NA
+Hypostomus alatus,Metazoa,Actinopteri,Siluriformes,Loricariidae,Hypostomus,Hypostomus alatus,NA,NA
+Iguana,Metazoa,Lepidosauria,Squamata,Iguanidae,Iguana,NA,NA,NA
+Lama guanicoe,Metazoa,Mammalia,Artiodactyla,Camelidae,Lama,Lama guanicoe,NA,NA
+Larus canus,Metazoa,Aves,Charadriiformes,Laridae,Larus,Larus canus,NA,NA
+Mephitis,Metazoa,Mammalia,Carnivora,Mephitidae,Mephitis,NA,NA,NA
+Microtus ochrogaster,Metazoa,Mammalia,Rodentia,Cricetidae,Microtus,Microtus ochrogaster,0.03544,Tamburello_etal_2015
+Muroidea,Metazoa,Mammalia,Rodentia,NA,NA,NA,NA,NA
+Myocastor coypus,Metazoa,Mammalia,Rodentia,Myocastoridae,Myocastor,Myocastor coypus,NA,NA
+Myotis grisescens,Metazoa,Mammalia,Chiroptera,Vespertilionidae,Myotis,Myotis grisescens,NA,NA
+Neotamias,Metazoa,Mammalia,Rodentia,Sciuridae,Tamias,NA,NA,NA
+Neotoma fuscipes,Metazoa,Mammalia,Rodentia,Cricetidae,Neotoma,Neotoma fuscipes,NA,NA
+Passeriformes,Metazoa,Aves,Passeriformes,NA,NA,NA,NA,NA
+Peromyscus eremicus,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus eremicus,NA,NA
+Peromyscus truei,Metazoa,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus truei,NA,NA
+Pituophis catenifer annectens,Metazoa,Lepidosauria,Squamata,Colubridae,Pituophis,Pituophis catenifer,NA,NA
+Polioptila melanura,Metazoa,Aves,Passeriformes,Certhiidae,Polioptila,Polioptila melanura,NA,NA
+Rattus,Metazoa,Mammalia,Rodentia,Muridae,Rattus,NA,NA,NA
+Sciurus,Metazoa,Mammalia,Rodentia,Sciuridae,Sciurus,NA,NA,NA
+Thomomys talpoides,Metazoa,Mammalia,Rodentia,Geomyidae,Thomomys,Thomomys talpoides,0.14,Harestad_ Bunnel_1979
+Zapus princeps,Metazoa,Mammalia,Rodentia,Dipodidae,Zapus,Zapus princeps,NA,NA
+Zenaida macroura,Metazoa,Aves,Columbiformes,Columbidae,Zenaida,Zenaida macroura,0.119,Best_etal_1996
+Amphipoda,Metazoa,Malacostraca,Amphipoda,NA,NA,NA,NA,NA
+Bivalvia,Metazoa,Bivalvia,NA,NA,NA,NA,NA,NA
+Brachyura,Metazoa,Malacostraca,Decapoda,NA,NA,NA,NA,NA
+Caniformia,Metazoa,Mammalia,Carnivora,NA,NA,NA,NA,NA
+Hippoidea,Metazoa,Malacostraca,Decapoda,NA,NA,NA,NA,NA
+Isopoda,Metazoa,Malacostraca,Isopoda,NA,NA,NA,NA,NA
+Rallus limicola,Metazoa,Aves,Gruiformes,Rallidae,Rallus,Rallus limicola,NA,NA
+Squamata,Metazoa,Lepidosauria,Squamata,NA,NA,NA,NA,NA
+Grampus griseus,Metazoa,Mammalia,Artiodactyla,Delphinidae,Grampus,Grampus griseus,NA,NA
+Uta stansburiana,Metazoa,Lepidosauria,Squamata,Phrynosomatidae,Uta,Uta stansburiana,NA,NA
+Cornu aspersum,Metazoa,Gastropoda,Stylommatophora,Helicidae,Cornu,Cornu aspersum,NA,NA
+Acanthis flammea,Metazoa,Aves,Passeriformes,Fringillidae,Acanthis,Acanthis flammea,NA,NA
+Acanthis hornemanni,Metazoa,Aves,Passeriformes,Fringillidae,Acanthis,Acanthis hornemanni,NA,NA
+Acrocephalus schoenobaenus,Metazoa,Aves,Passeriformes,Sylviidae,Acrocephalus,Acrocephalus schoenobaenus,NA,NA
+Actitis hypoleucos,Metazoa,Aves,Charadriiformes,Scolopacidae,Actitis,Actitis hypoleucos,NA,NA
+Aethia cristatella,Metazoa,Aves,Charadriiformes,Alcidae,Aethia,Aethia cristatella,NA,NA
+Aethia psittacula,Metazoa,Aves,Charadriiformes,Alcidae,Aethia,Aethia psittacula,NA,NA
+Alauda arvensis,Metazoa,Aves,Passeriformes,Alaudidae,Alauda,Alauda arvensis,0.0427,Moller_etal_2004
+Alca,Metazoa,Aves,Charadriiformes,Alcidae,Alca,NA,NA,NA
+Alle alle,Metazoa,Aves,Charadriiformes,Alcidae,Alle,Alle alle,NA,NA
+Ammodytes hexapterus,Metazoa,Actinopteri,Uranoscopiformes,Ammodytidae,Ammodytes,Ammodytes hexapterus,NA,NA
+Anas crecca,Metazoa,Aves,Anseriformes,Anatidae,Anas,Anas crecca,0.35,Hein_etal_2012
+Anser anser,Metazoa,Aves,Anseriformes,Anatidae,Anser,Anser anser,NA,NA
+Anser brachyrhynchus,Metazoa,Aves,Anseriformes,Anatidae,Anser,Anser brachyrhynchus,NA,NA
+Anser canagicus,Metazoa,Aves,Anseriformes,Anatidae,Anser,Anser canagicus,NA,NA
+Anser erythropus,Metazoa,Aves,Anseriformes,Anatidae,Anser,Anser erythropus,NA,NA
+Anser fabalis,Metazoa,Aves,Anseriformes,Anatidae,Anser,Anser fabalis,NA,NA
+Anthus,Metazoa,Aves,Passeriformes,Motacillidae,Anthus,NA,NA,NA
+Anthus campestris,Metazoa,Aves,Passeriformes,Motacillidae,Anthus,Anthus campestris,NA,NA
+Anthus cervinus,Metazoa,Aves,Passeriformes,Motacillidae,Anthus,Anthus cervinus,NA,NA
+Anthus hodgsoni,Metazoa,Aves,Passeriformes,Motacillidae,Anthus,Anthus hodgsoni,NA,NA
+Anthus petrosus,Metazoa,Aves,Passeriformes,Motacillidae,Anthus,Anthus petrosus,NA,NA
+Arenaria,Metazoa,Aves,Charadriiformes,Scolopacidae,Arenaria,NA,NA,NA
+Asio flammeus,Metazoa,Aves,Strigiformes,Strigidae,Asio,Asio flammeus,0.315,Armstrong_1965
+Aythya,Metazoa,Aves,Anseriformes,Anatidae,Aythya,NA,NA,NA
+Aythya fuligula,Metazoa,Aves,Anseriformes,Anatidae,Aythya,Aythya fuligula,0.66,Hein_etal_2012
+Aythya marila,Metazoa,Aves,Anseriformes,Anatidae,Aythya,Aythya marila,NA,NA
+Branta bernicla,Metazoa,Aves,Anseriformes,Anatidae,Branta,Branta bernicla,1.4,Hein_Gillooly_2011
+Branta leucopsis,Metazoa,Aves,Anseriformes,Anatidae,Branta,Branta leucopsis,1.8,Hein_Gillooly_2011
+Bubo scandiacus,Metazoa,Aves,Strigiformes,Strigidae,Bubo,Bubo scandiacus,NA,NA
+Buteo lagopus,Metazoa,Aves,Accipitriformes,Accipitridae,Buteo,Buteo lagopus,NA,NA
+Calcarius lapponicus,Metazoa,Aves,Passeriformes,Fringillidae,Calcarius,Calcarius lapponicus,0.0286,Mace_Harvey_1983
+Calidris,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,NA,NA,NA
+Calidris alba,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris alba,NA,NA
+Calidris alpina,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris alpina,0.052,Sibly_etal_2012
+Calidris canutus,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris canutus,NA,NA
+Calidris falcinellus,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris falcinellus,NA,NA
+Calidris maritima,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris maritima,NA,NA
+Calidris melanotos,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris melanotos,NA,NA
+Calidris minuta,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris minuta,NA,NA
+Calidris temminckii,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris temminckii,NA,NA
+Carpodacus erythrinus,Metazoa,Aves,Passeriformes,Fringillidae,Carpodacus,Carpodacus erythrinus,NA,NA
+Cepphus columba,Metazoa,Aves,Charadriiformes,Alcidae,Cepphus,Cepphus columba,NA,NA
+Cepphus grylle,Metazoa,Aves,Charadriiformes,Alcidae,Cepphus,Cepphus grylle,NA,NA
+Charadrius dubius,Metazoa,Aves,Charadriiformes,Charadriidae,Charadrius,Charadrius dubius,NA,NA
+Charadrius hiaticula,Metazoa,Aves,Charadriiformes,Charadriidae,Charadrius,Charadrius hiaticula,NA,NA
+Charadrius morinellus,Metazoa,Aves,Charadriiformes,Charadriidae,Charadrius,Charadrius morinellus,NA,NA
+Charadrius semipalmatus,Metazoa,Aves,Charadriiformes,Charadriidae,Charadrius,Charadrius semipalmatus,NA,NA
+Chen caerulescens,Metazoa,Aves,Anseriformes,Anatidae,Anser,Anser caerulescens,NA,NA
+Chionoecetes opilio,Metazoa,Malacostraca,Decapoda,Majidae,Chionoecetes,Chionoecetes opilio,NA,NA
+Circus aeruginosus,Metazoa,Aves,Accipitriformes,Accipitridae,Circus,Circus aeruginosus,NA,NA
+Circus cyaneus,Metazoa,Aves,Accipitriformes,Accipitridae,Circus,Circus cyaneus,NA,NA
+Clangula hyemalis,Metazoa,Aves,Anseriformes,Anatidae,Clangula,Clangula hyemalis,NA,NA
+Coloeus monedula,Metazoa,Aves,Passeriformes,Corvidae,Coloeus,Coloeus monedula,NA,NA
+Coturnix coturnix,Metazoa,Aves,Galliformes,Phasianidae,Coturnix,Coturnix coturnix,NA,NA
+Cygnus columbianus,Metazoa,Aves,Anseriformes,Anatidae,Cygnus,Cygnus columbianus,6.8,Hein_Gillooly_2011
+Cygnus cygnus,Metazoa,Aves,Anseriformes,Anatidae,Cygnus,Cygnus cygnus,9.4,Hein_Gillooly_2011
+Cygnus olor,Metazoa,Aves,Anseriformes,Anatidae,Cygnus,Cygnus olor,11.8,Jenkins_etal_2007
+Dicrostonyx torquatus,Metazoa,Mammalia,Rodentia,Cricetidae,Dicrostonyx,Dicrostonyx torquatus,NA,NA
+Emberiza aureola,Metazoa,Aves,Passeriformes,Fringillidae,Emberiza,Emberiza aureola,NA,NA
+Emberiza pallasi,Metazoa,Aves,Passeriformes,Fringillidae,Emberiza,Emberiza pallasi,NA,NA
+Emberiza pusilla,Metazoa,Aves,Passeriformes,Fringillidae,Emberiza,Emberiza pusilla,NA,NA
+Emberiza rustica,Metazoa,Aves,Passeriformes,Fringillidae,Emberiza,Emberiza rustica,NA,NA
+Emberiza schoeniclus,Metazoa,Aves,Passeriformes,Fringillidae,Emberiza,Emberiza schoeniclus,NA,NA
+Enhydra lutris,Metazoa,Mammalia,Carnivora,Mustelidae,Enhydra,Enhydra lutris,NA,NA
+Eremophila alpestris,Metazoa,Aves,Passeriformes,Alaudidae,Eremophila,Eremophila alpestris,0.0408,Mace_Harvey_1983
+Erithacus rubecula,Metazoa,Aves,Passeriformes,Turdidae,Erithacus,Erithacus rubecula,0.018,Armstrong_1965
+Eumetopias jubatus,Metazoa,Mammalia,Carnivora,Otariidae,Eumetopias,Eumetopias jubatus,NA,NA
+Falco columbarius,Metazoa,Aves,Falconiformes,Falconidae,Falco,Falco columbarius,0.218,Jenkins_etal_2007
+Fratercula cirrhata,Metazoa,Aves,Charadriiformes,Alcidae,Fratercula,Fratercula cirrhata,NA,NA
+Fratercula corniculata,Metazoa,Aves,Charadriiformes,Alcidae,Fratercula,Fratercula corniculata,NA,NA
+Fringilla coelebs,Metazoa,Aves,Passeriformes,Fringillidae,Fringilla,Fringilla coelebs,0.02325,Tamburello_etal_2015
+Fulica atra,Metazoa,Aves,Gruiformes,Rallidae,Fulica,Fulica atra,0.84,Hein_Gillooly_2011
+Fulmarus glacialis,Metazoa,Aves,Procellariiformes,Procellariidae,Fulmarus,Fulmarus glacialis,NA,NA
+Gallinago gallinago,Metazoa,Aves,Charadriiformes,Scolopacidae,Gallinago,Gallinago gallinago,NA,NA
+Gallinago media,Metazoa,Aves,Charadriiformes,Scolopacidae,Gallinago,Gallinago media,NA,NA
+Gallinago stenura,Metazoa,Aves,Charadriiformes,Scolopacidae,Gallinago,Gallinago stenura,NA,NA
+Garrulus glandarius,Metazoa,Aves,Passeriformes,Corvidae,Garrulus,Garrulus glandarius,NA,NA
+Gavia,Metazoa,Aves,Gaviiformes,Gaviidae,Gavia,NA,NA,NA
+Gavia adamsii,Metazoa,Aves,Gaviiformes,Gaviidae,Gavia,Gavia adamsii,NA,NA
+Gavia immer,Metazoa,Aves,Gaviiformes,Gaviidae,Gavia,Gavia immer,NA,NA
+Gavia stellata,Metazoa,Aves,Gaviiformes,Gaviidae,Gavia,Gavia stellata,NA,NA
+Grus grus,Metazoa,Aves,Gruiformes,Gruidae,Grus,Grus grus,NA,NA
+Haematopus ostralegus,Metazoa,Aves,Charadriiformes,Haematopodidae,Haematopus,Haematopus ostralegus,NA,NA
+Histrionicus histrionicus,Metazoa,Aves,Anseriformes,Anatidae,Histrionicus,Histrionicus histrionicus,NA,NA
+Hyas,Metazoa,Malacostraca,Decapoda,Majidae,Hyas,NA,NA,NA
+Hydrobates pelagicus,Metazoa,Aves,Procellariiformes,NA,Hydrobates,Hydrobates pelagicus,NA,NA
+Hydrocoloeus minutus,Metazoa,Aves,Charadriiformes,Laridae,Hydrocoloeus,Hydrocoloeus minutus,NA,NA
+Jynx torquilla,Metazoa,Aves,Piciformes,Picidae,Jynx,Jynx torquilla,NA,NA
+Lagopus lagopus,Metazoa,Aves,Galliformes,Phasianidae,Lagopus,Lagopus lagopus,0.62,Schoener_1968
+Lagopus muta,Metazoa,Aves,Galliformes,Phasianidae,Lagopus,Lagopus muta,NA,NA
+Larus argentatus,Metazoa,Aves,Charadriiformes,Laridae,Larus,Larus argentatus,NA,NA
+Larus fuscus,Metazoa,Aves,Charadriiformes,Laridae,Larus,Larus fuscus,0.8,Hein_etal_2012
+Larus glaucescens,Metazoa,Aves,Charadriiformes,Laridae,Larus,Larus glaucescens,1.01,EOL
+Larus glaucoides,Metazoa,Aves,Charadriiformes,Laridae,Larus,Larus glaucoides,NA,NA
+Larus hyperboreus,Metazoa,Aves,Charadriiformes,Laridae,Larus,Larus hyperboreus,NA,NA
+Larus marinus,Metazoa,Aves,Charadriiformes,Laridae,Larus,Larus marinus,NA,NA
+Lemmus lemmus,Metazoa,Mammalia,Rodentia,Cricetidae,Lemmus,Lemmus lemmus,0.1,Hein_etal_2012
+Lemmus sibiricus,Metazoa,Mammalia,Rodentia,Cricetidae,Lemmus,Lemmus sibiricus,0.09214,Tamburello_etal_2015
+Lepus timidus,Metazoa,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus timidus,2.82501,Tamburello_etal_2015
+Limosa lapponica,Metazoa,Aves,Charadriiformes,Scolopacidae,Limosa,Limosa lapponica,NA,NA
+Limosa limosa,Metazoa,Aves,Charadriiformes,Scolopacidae,Limosa,Limosa limosa,NA,NA
+Linaria cannabina,Metazoa,Aves,Passeriformes,Fringillidae,Linaria,Linaria cannabina,0.0155,Tamburello_etal_2015
+Linaria flavirostris,Metazoa,Aves,Passeriformes,Fringillidae,Linaria,Linaria flavirostris,NA,NA
+Locustella naevia,Metazoa,Aves,Passeriformes,Locustellidae,Locustella,Locustella naevia,NA,NA
+Lophophanes cristatus,Metazoa,Aves,Passeriformes,Paridae,Lophophanes,Lophophanes cristatus,NA,NA
+Loxia pytyopsittacus,Metazoa,Aves,Passeriformes,Fringillidae,Loxia,Loxia pytyopsittacus,NA,NA
+Lumpenus,Metazoa,Actinopteri,Perciformes,Stichaeidae,Lumpenus,NA,NA,NA
+Lymnocryptes minimus,Metazoa,Aves,Charadriiformes,Scolopacidae,Lymnocryptes,Lymnocryptes minimus,NA,NA
+Lyrurus tetrix,Metazoa,Aves,Galliformes,Phasianidae,Lyrurus,Lyrurus tetrix,NA,NA
+Mallotus villosus,Metazoa,Actinopteri,Osmeriformes,Salangidae,Mallotus,Mallotus villosus,NA,NA
+Melanitta fusca,Metazoa,Aves,Anseriformes,Anatidae,Melanitta,Melanitta fusca,NA,NA
+Melanitta nigra,Metazoa,Aves,Anseriformes,Anatidae,Melanitta,Melanitta nigra,NA,NA
+Melospiza melodia,Metazoa,Aves,Passeriformes,Passerellidae,Melospiza,Melospiza melodia,0.0216,Mace_Harvey_1983
+Mergus serrator,Metazoa,Aves,Anseriformes,Anatidae,Mergus,Mergus serrator,NA,NA
+Microtus agrestis,Metazoa,Mammalia,Rodentia,Cricetidae,Microtus,Microtus agrestis,0.038,Tamburello_etal_2015
+Microtus gregalis,Metazoa,Mammalia,Rodentia,Cricetidae,Stenocranius,Stenocranius gregalis,NA,NA
+Microtus middendorffi,Metazoa,Mammalia,Rodentia,Cricetidae,Alexandromys,Alexandromys middendorffii,NA,NA
+Microtus oeconomus,Metazoa,Mammalia,Rodentia,Cricetidae,Alexandromys,Alexandromys oeconomus,NA,NA
+Morus bassanus,Metazoa,Aves,Suliformes,Sulidae,Morus,Morus bassanus,NA,NA
+Motacilla citreola,Metazoa,Aves,Passeriformes,Motacillidae,Motacilla,Motacilla citreola,NA,NA
+Motacilla flava,Metazoa,Aves,Passeriformes,Motacillidae,Motacilla,Motacilla flava,0.0175,Tamburello_etal_2015
+Muscicapa striata,Metazoa,Aves,Passeriformes,Muscicapidae,Muscicapa,Muscicapa striata,0.0128,Tamburello_etal_2015
+Mya,Metazoa,Bivalvia,Myida,Myidae,Mya,NA,NA,NA
+Myodes glareolus,Metazoa,Mammalia,Rodentia,Cricetidae,Myodes,Myodes glareolus,NA,NA
+Myodes rufocanus,Metazoa,Mammalia,Rodentia,Cricetidae,Myodes,Myodes rufocanus,NA,NA
+Myodes rutilus,Metazoa,Mammalia,Rodentia,Cricetidae,Clethrionomys,Clethrionomys rutilus,NA,NA
+Myopus schisticolor,Metazoa,Mammalia,Rodentia,Cricetidae,Myopus,Myopus schisticolor,NA,NA
+Myoxocephalus,Metazoa,Actinopteri,Perciformes,Cottidae,Myoxocephalus,NA,NA,NA
+Mytilus,Metazoa,Bivalvia,Mytilida,Mytilidae,Mytilus,NA,NA,NA
+Nereididae,Metazoa,Polychaeta,Phyllodocida,Nereididae,NA,NA,NA,NA
+Nucifraga caryocatactes,Metazoa,Aves,Passeriformes,Corvidae,Nucifraga,Nucifraga caryocatactes,0.13,Mace_Harvey_1983
+Numenius arquata,Metazoa,Aves,Charadriiformes,Scolopacidae,Numenius,Numenius arquata,NA,NA
+Numenius phaeopus,Metazoa,Aves,Charadriiformes,Scolopacidae,Numenius,Numenius phaeopus,0.4,Jenkins_etal_2007
+Oceanodroma,Metazoa,Aves,Procellariiformes,NA,Oceanodroma,NA,NA,NA
+Oceanodroma leucorhoa,Metazoa,Aves,Procellariiformes,NA,Oceanodroma,Oceanodroma leucorhoa,NA,NA
+Oenanthe oenanthe,Metazoa,Aves,Passeriformes,Muscicapidae,Oenanthe,Oenanthe oenanthe,0.0252,Tamburello_etal_2015
+Pagophila eburnea,Metazoa,Aves,Charadriiformes,Laridae,Pagophila,Pagophila eburnea,NA,NA
+Parus major,Metazoa,Aves,Passeriformes,Paridae,Parus,Parus major,0.0197,armstrong_1965
+Passer domesticus,Metazoa,Aves,Passeriformes,Passeridae,Passer,Passer domesticus,0.029,Mace_Harvey_1983
+Perdix perdix,Metazoa,Aves,Galliformes,Phasianidae,Perdix,Perdix perdix,NA,NA
+Phalacrocorax auritus,Metazoa,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,Phalacrocorax auritus,NA,NA
+Phalacrocorax pelagicus,Metazoa,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,Phalacrocorax pelagicus,NA,NA
+Phalaropus fulicarius,Metazoa,Aves,Charadriiformes,Scolopacidae,Phalaropus,Phalaropus fulicarius,NA,NA
+Phalaropus lobatus,Metazoa,Aves,Charadriiformes,Scolopacidae,Tringa,Tringa tobata,NA,NA
+Phoca largha,Metazoa,Mammalia,Carnivora,Phocidae,Phoca,Phoca largha,NA,NA
+Pholis,Metazoa,Actinopteri,Perciformes,Pholidae,Pholis,NA,NA,NA
+Phylloscopus borealis,Metazoa,Aves,Passeriformes,Phylloscopidae,Phylloscopus,Phylloscopus borealis,NA,NA
+Phylloscopus collybita,Metazoa,Aves,Passeriformes,Phylloscopidae,Phylloscopus,Phylloscopus collybita,NA,NA
+Phylloscopus inornatus,Metazoa,Aves,Passeriformes,Phylloscopidae,Phylloscopus,Phylloscopus inornatus,NA,NA
+Phylloscopus trochiloides,Metazoa,Aves,Passeriformes,Phylloscopidae,Phylloscopus,Phylloscopus trochiloides,NA,NA
+Phylloscopus trochilus,Metazoa,Aves,Passeriformes,Phylloscopidae,Phylloscopus,Phylloscopus trochilus,0.0087,Hein_etal_2012
+Picus viridis,Metazoa,Aves,Piciformes,Picidae,Picus,Picus viridis,0.18667,Tamburello_etal_2015
+Pinicola enucleator,Metazoa,Aves,Passeriformes,Fringillidae,Pinicola,Pinicola enucleator,NA,NA
+Plectrophenax,Metazoa,Aves,Passeriformes,Fringillidae,Plectrophenax,NA,NA,NA
+Plectrophenax nivalis,Metazoa,Aves,Passeriformes,Fringillidae,Plectrophenax,Plectrophenax nivalis,NA,NA
+Pluvialis apricaria,Metazoa,Aves,Charadriiformes,Charadriidae,Pluvialis,Pluvialis apricaria,NA,NA
+Pluvialis squatarola,Metazoa,Aves,Charadriiformes,Charadriidae,Pluvialis,Pluvialis squatarola,NA,NA
+Polysticta stelleri,Metazoa,Aves,Anseriformes,Anatidae,Polysticta,Polysticta stelleri,NA,NA
+Porzana porzana,Metazoa,Aves,Gruiformes,Rallidae,Porzana,Porzana porzana,NA,NA
+Prunella modularis,Metazoa,Aves,Passeriformes,Prunellidae,Prunella,Prunella modularis,NA,NA
+Ptychoramphus aleuticus,Metazoa,Aves,Charadriiformes,Alcidae,Ptychoramphus,Ptychoramphus aleuticus,NA,NA
+Puffinus tenuirostris,Metazoa,Aves,Procellariiformes,Procellariidae,Ardenna,Ardenna tenuirostris,NA,NA
+Pyrrhula pyrrhula,Metazoa,Aves,Passeriformes,Fringillidae,Pyrrhula,Pyrrhula pyrrhula,NA,NA
+Rissa tridactyla,Metazoa,Aves,Charadriiformes,Laridae,Rissa,Rissa tridactyla,NA,NA
+Saxicola rubetra,Metazoa,Aves,Passeriformes,Muscicapidae,Saxicola,Saxicola rubetra,0.01648,Tamburello_etal_2015
+Saxicola torquatus,Metazoa,Aves,Passeriformes,Muscicapidae,Saxicola,Saxicola torquatus,NA,NA
+Scolopax rusticola,Metazoa,Aves,Charadriiformes,Scolopacidae,Scolopax,Scolopax rusticola,NA,NA
+Somateria mollissima,Metazoa,Aves,Anseriformes,Anatidae,Somateria,Somateria mollissima,NA,NA
+Somateria spectabilis,Metazoa,Aves,Anseriformes,Anatidae,Somateria,Somateria spectabilis,NA,NA
+Sorex araneus,Metazoa,Mammalia,Eulipotyphla,Soricidae,Sorex,Sorex araneus,NA,NA
+Sorex isodon,Metazoa,Mammalia,Eulipotyphla,Soricidae,Sorex,Sorex isodon,NA,NA
+Sorex minutissimus,Metazoa,Mammalia,Eulipotyphla,Soricidae,Sorex,Sorex minutissimus,NA,NA
+Sorex minutus,Metazoa,Mammalia,Eulipotyphla,Soricidae,Sorex,Sorex minutus,NA,NA
+Sorex tundrensis,Metazoa,Mammalia,Eulipotyphla,Soricidae,Sorex,Sorex tundrensis,NA,NA
+Spatula querquedula,Metazoa,Aves,Anseriformes,Anatidae,Spatula,Spatula querquedula,NA,NA
+Spinus spinus,Metazoa,Aves,Passeriformes,Fringillidae,Spinus,Spinus spinus,NA,NA
+Staphylinidae,Metazoa,Insecta,Coleoptera,Staphylinidae,NA,NA,NA,NA
+Stercorarius longicaudus,Metazoa,Aves,Charadriiformes,Stercorariidae,Stercorarius,Stercorarius longicaudus,NA,NA
+Stercorarius parasiticus,Metazoa,Aves,Charadriiformes,Stercorariidae,Stercorarius,Stercorarius parasiticus,NA,NA
+Stercorarius pomarinus,Metazoa,Aves,Charadriiformes,Stercorariidae,Stercorarius,Stercorarius pomarinus,0.75,Armstrong_1965
+Stercorarius skua,Metazoa,Aves,Charadriiformes,Stercorariidae,Stercorarius,Stercorarius skua,NA,NA
+Sterna,Metazoa,Aves,Charadriiformes,Laridae,Sterna,NA,NA,NA
+Sterna hirundo,Metazoa,Aves,Charadriiformes,Laridae,Sterna,Sterna hirundo,NA,NA
+Sterna paradisaea,Metazoa,Aves,Charadriiformes,Laridae,Sterna,Sterna paradisaea,NA,NA
+Sturnus vulgaris,Metazoa,Aves,Passeriformes,Sturnidae,Sturnus,Sturnus vulgaris,0.082,Hein_etal_2012
+Sylvia atricapilla,Metazoa,Aves,Passeriformes,Sylviidae,Sylvia,Sylvia atricapilla,0.0155,Moller_etal_2004
+Synthliboramphus antiquus,Metazoa,Aves,Charadriiformes,Alcidae,Synthliboramphus,Synthliboramphus antiquus,NA,NA
+Tadorna tadorna,Metazoa,Aves,Anseriformes,Anatidae,Tadorna,Tadorna tadorna,NA,NA
+Tarsiger cyanurus,Metazoa,Aves,Passeriformes,Turdidae,Tarsiger,Tarsiger cyanurus,NA,NA
+Tetrao urogallus,Metazoa,Aves,Galliformes,Phasianidae,Tetrao,Tetrao urogallus,NA,NA
+Tetrastes bonasia,Metazoa,Aves,Galliformes,Phasianidae,Tetrastes,Tetrastes bonasia,0.429,Jenkins_etal_2007
+Tringa erythropus,Metazoa,Aves,Charadriiformes,Scolopacidae,Tringa,Tringa erythropus,NA,NA
+Tringa glareola,Metazoa,Aves,Charadriiformes,Scolopacidae,Tringa,Tringa glareola,NA,NA
+Tringa nebularia,Metazoa,Aves,Charadriiformes,Scolopacidae,Tringa,Tringa nebularia,NA,NA
+Tringa ochropus,Metazoa,Aves,Charadriiformes,Scolopacidae,Tringa,Tringa ochropus,NA,NA
+Tringa totanus,Metazoa,Aves,Charadriiformes,Scolopacidae,Tringa,Tringa totanus,NA,NA
+Turdus iliacus,Metazoa,Aves,Passeriformes,Turdidae,Turdus,Turdus iliacus,NA,NA
+Turdus merula,Metazoa,Aves,Passeriformes,Turdidae,Turdus,Turdus merula,0.092,Schoener_1968
+Turdus philomelos,Metazoa,Aves,Passeriformes,Turdidae,Turdus,Turdus philomelos,NA,NA
+Turdus pilaris,Metazoa,Aves,Passeriformes,Turdidae,Turdus,Turdus pilaris,NA,NA
+Turdus torquatus,Metazoa,Aves,Passeriformes,Turdidae,Turdus,Turdus torquatus,NA,NA
+Uria aalge,Metazoa,Aves,Charadriiformes,Alcidae,Uria,Uria aalge,NA,NA
+Uria lomvia,Metazoa,Aves,Charadriiformes,Alcidae,Uria,Uria lomvia,NA,NA
+Vanellus vanellus,Metazoa,Aves,Charadriiformes,Charadriidae,Vanellus,Vanellus vanellus,NA,NA
+Vulpes,Metazoa,Mammalia,Carnivora,Canidae,Vulpes,NA,NA,NA
+Xema sabini,Metazoa,Aves,Charadriiformes,Laridae,Xema,Xema sabini,NA,NA
+Xenus cinereus,Metazoa,Aves,Charadriiformes,Scolopacidae,Xenus,Xenus cinereus,NA,NA
+Zootoca vivipara,Metazoa,Lepidosauria,Squamata,Lacertidae,Zootoca,Zootoca vivipara,0.0032,Perry_Garland_2002
+Arachnida,Metazoa,Arachnida,NA,NA,NA,NA,NA,NA
+Blattoidea,Metazoa,Insecta,Blattodea,NA,NA,NA,NA,NA
+Macroscelididae,Metazoa,Mammalia,Macroscelidea,Macroscelididae,NA,NA,NA,NA
+Acanthostracion quadricornis,Metazoa,Actinopteri,Tetraodontiformes,Ostraciidae,Acanthostracion,Acanthostracion quadricornis,NA,NA
+Aethia,Metazoa,Aves,Charadriiformes,Alcidae,Aethia,NA,NA,NA
+Alexandromys oeconomus,Metazoa,Mammalia,Rodentia,Cricetidae,Alexandromys,Alexandromys oeconomus,NA,NA
+Anser,Metazoa,Aves,Anseriformes,Anatidae,Anser,NA,NA,NA
+Anser albifrons,Metazoa,Aves,Anseriformes,Anatidae,Anser,Anser albifrons,NA,NA
+Anser caerulescens,Metazoa,Aves,Anseriformes,Anatidae,Anser,Anser caerulescens,NA,NA
+Anser caerulescens atlantica,Metazoa,Aves,Anseriformes,Anatidae,Anser,Anser caerulescens,NA,NA
+Anser rossii,Metazoa,Aves,Anseriformes,Anatidae,Anser,Anser rossii,NA,NA
+Anseriformes,Metazoa,Aves,Anseriformes,NA,NA,NA,NA,NA
+Arvicolinae,Metazoa,Mammalia,Rodentia,Cricetidae,NA,NA,NA,NA
+Calidris mauri,Metazoa,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris mauri,0.047,Hein_etal_2012
+Callorhinus ursinus,Metazoa,Mammalia,Carnivora,Otariidae,Callorhinus,Callorhinus ursinus,NA,NA
+Carduelis,Metazoa,Aves,Passeriformes,Fringillidae,Carduelis,NA,NA,NA
+Charadriiformes,Metazoa,Aves,Charadriiformes,NA,NA,NA,NA,NA
+Chordata,Metazoa,NA,NA,NA,NA,NA,NA,NA
+Dicrostonyx,Metazoa,Mammalia,Rodentia,Cricetidae,Dicrostonyx,NA,NA,NA
+Eschrichtius robustus,Metazoa,Mammalia,Artiodactyla,Eschrichtiidae,Eschrichtius,Eschrichtius robustus,NA,NA
+Galliformes,Metazoa,Aves,Galliformes,NA,NA,NA,NA,NA
+Gastropoda,Metazoa,Gastropoda,NA,NA,NA,NA,NA,NA
+Gnathostomata,Metazoa,NA,NA,NA,NA,NA,NA,NA
+Lagopus,Metazoa,Aves,Galliformes,Phasianidae,Lagopus,NA,NA,NA
+Laridae,Metazoa,Aves,Charadriiformes,Laridae,NA,NA,NA,NA
+Lemmus trimucronatus,Metazoa,Mammalia,Rodentia,Cricetidae,Lemmus,Lemmus trimucronatus,NA,NA
+Lepus arcticus,Metazoa,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus arcticus,NA,NA
+Microtus levis,Metazoa,Mammalia,Rodentia,Cricetidae,Microtus,Microtus levis,NA,NA
+Myodes,Metazoa,Mammalia,Rodentia,Cricetidae,Myodes,NA,NA,NA
+Ovibos moschatus,Metazoa,Mammalia,Artiodactyla,Bovidae,Ovibos,Ovibos moschatus,480,Hein_etal_2012
+Pusa hispida,Metazoa,Mammalia,Carnivora,Phocidae,Pusa,Pusa hispida,NA,NA
+Rangifer,Metazoa,Mammalia,Artiodactyla,Cervidae,Rangifer,NA,NA,NA
+Rangifer tarandus platyrhynchus,Metazoa,Mammalia,Artiodactyla,Cervidae,Rangifer,Rangifer tarandus,102.05869,Tamburello_etal_2015
+Sea,Metazoa,Insecta,Lepidoptera,Nymphalidae,Sea,NA,NA,NA
+Somateria,Metazoa,Aves,Anseriformes,Anatidae,Somateria,NA,NA,NA
+Stercorarius,Metazoa,Aves,Charadriiformes,Stercorariidae,Stercorarius,NA,NA,NA
+Dipodomys ingens,Metazoa,Mammalia,Rodentia,Heteromyidae,Dipodomys,Dipodomys ingens,0.15356,Tamburello_etal
+Perognathus inornatus,Metazoa,Mammalia,Rodentia,Heteromyidae,Perognathus,Perognathus inornatus,NA,NA
+Setophaga coronata,Metazoa,Aves,Passeriformes,Parulidae,Setophaga,Setophaga coronata,NA,NA
+Blarina hylophaga,Metazoa,Mammalia,Eulipotyphla,Soricidae,Blarina,Blarina hylophaga,NA,NA
+Chaetodipus hispidus,Metazoa,Mammalia,Rodentia,Heteromyidae,Chaetodipus,Chaetodipus hispidus,NA,NA
+Cynomys ludovicianus,Metazoa,Mammalia,Rodentia,Sciuridae,Cynomys,Cynomys ludovicianus,1.1,Swihart_etal_1988
+Dipodomys ordii,Metazoa,Mammalia,Rodentia,Heteromyidae,Dipodomys,Dipodomys ordii,NA,NA
+Geomys bursarius,Metazoa,Mammalia,Rodentia,Geomyidae,Geomys,Geomys bursarius,NA,NA
+Mephitis mephitis,Metazoa,Mammalia,Carnivora,Mephitidae,Mephitis,Mephitis mephitis,2.586,Harestad_ Bunnel_1979
+Onychomys leucogaster,Metazoa,Mammalia,Rodentia,Cricetidae,Onychomys,Onychomys leucogaster,0.031,Mace_Harvey_1983
+Sturnella,Metazoa,Aves,Passeriformes,Icteridae,Sturnella,NA,NA,NA
+Urocitellus richardsonii,Metazoa,Mammalia,Rodentia,Sciuridae,Urocitellus,Urocitellus richardsonii,NA,NA
+Jaculus jaculus,Metazoa,Mammalia,Rodentia,Dipodidae,Jaculus,Jaculus jaculus,NA,NA
+Jaculus orientalis,Metazoa,Mammalia,Rodentia,Dipodidae,Jaculus,Jaculus orientalis,NA,NA
+Meriones crassus,Metazoa,Mammalia,Rodentia,Muridae,Meriones,Meriones crassus,NA,NA

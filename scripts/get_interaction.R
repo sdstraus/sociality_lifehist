@@ -79,7 +79,7 @@ all_canids_filtered <- all_canids %>%
   filter(!is.na(decimalLatitude)) %>%
   filter(!is.na(decimalLongitude)) %>%
   select(sourceTaxonName, interactionTypeName, targetTaxonName,
-         targetTaxonPathNames, decimalLatitude, decimalLongitude)
+         targetTaxonPathNames, decimalLatitude, decimalLongitude, localityId, localityName, sourceCitation)
 
 table(all_canids_filtered$sourceTaxonName)
 
@@ -179,7 +179,7 @@ test <- metazoan_cleaned_names %>%
 meta_mass <- left_join(metazoan_cleaned_names, mps)
 
 
-## something to repeat at the bottom
+## 
 preyTaxa_perCanid <- diet_items_df %>% 
   group_by(source_taxon_name, finest_taxon) %>% 
   summarize(recordsPerTax = n()) %>% 
@@ -190,12 +190,103 @@ numPreyItems_perCanid <- preyTaxa_perCanid %>%
   summarise(nTax = n()) %>% 
   ungroup()
 
+## use taxize for diet_items_df
+temp <- gnr_resolve(preyTaxa_perCanid$finest_taxon)
+
+library(taxize)
+# t3 <- classification(preyTaxa_perCanid$finest_taxon, db = "ncbi")
+# saveRDS(t3, file = "data/preyPerTaxon_resolved.RDS")
+
+tax_data <- preyTaxa_perCanid %>%
+  select(finest_taxon) %>% 
+  distinct() %>% 
+  slice(1:5) %>% 
+  mutate(classification = map(finest_taxon, ~ classification(.x, db = "ncbi"))) %>%
+  unnest(classification)
+
+
+# Function to extract taxonomy and retain original input
+get_taxonomy <- function(name) {
+  result <- classification(name, db = "ncbi")
+  
+  # Check if the result exists and is not NULL
+  if (!is.null(result[[1]])) {
+    df <- as.data.frame(result[[1]])  # Extract taxonomy as data frame
+    df$original_name <- name          # Add original name column
+    return(df)
+  } else {
+    return(tibble(rank = NA, name = NA, id = NA, original_name = name)) 
+  }
+}
+
+# Apply function to each name in the dataset
+tax_data <- preyTaxa_perCanid %>%
+  select(finest_taxon) %>% 
+  distinct() %>% 
+  # slice(1:5) %>% 
+  mutate(taxonomy = map(finest_taxon, get_taxonomy)) %>%  # Get taxonomy as list-column
+  unnest(taxonomy)  # Expand into long format
+
+# saveRDS(tax_data, file = "data/preyPerTaxon_resolved.RDS")
+tax_data <- readRDS(file = "data/preyPerTaxon_resolved.RDS")
+tax_cats <- c("species", "genus", "family", "order", "class", "kingdom")
+
+tax_data_filtered <- tax_data %>% 
+  filter(rank %in% tax_cats) %>% 
+  select(-original_name, -`result[[1]]`)
+
+length(unique(tax_data_filtered$finest_taxon))
+
+## pivot wider
+tax_data_wide <- tax_data_filtered %>% 
+  select(-id) %>% 
+  pivot_wider(names_from = "rank", values_from = "name")
+
+
+metazoan_cleaned_names <- tax_data_wide %>% 
+  filter(kingdom == "Metazoa")
+
+
+#### read in movement profile data
+mps <- read_csv("data/raw_bodyMass.csv") %>% 
+  filter(!is.na(scientific_name.x)) %>% 
+  rename(species = scientific_name.x) %>% 
+  filter(!is.na(Mass_kg)) %>% 
+  filter(Mass_source != "")
+
+has_mass <- mps$species
+
+test <- metazoan_cleaned_names %>% 
+  filter(species %in% has_mass)
+
+meta_mass <- left_join(metazoan_cleaned_names, mps) %>% 
+  right_join(preyTaxa_perCanid)
+
+table(meta_mass$finest_taxon == meta_mass$species)
+
+write_csv(meta_mass, "data/canid_preyItems_mass.csv")
+
+canid_mass_sb <- read_csv("data/canid_preyItems_mass.csv")
+canid_mass_yhl <- read_csv("data/canid_preyItems_mass_YHL.csv")
+
+canid_mass_cleaned <- canid_mass_yhl %>% 
+  dplyr::rename(notes = `...10`) %>% 
+  filter(!is.na(species)) %>% 
+  filter(Mass_kg != "#N/A") %>% 
+  mutate(Mass_kg = as.numeric(Mass_kg))
+
+canid_full <- canid_mass_cleaned %>% 
+  rename(targetTaxonName = species) %>% 
+  left_join(all_canids_filtered, relationship = "many-to-many") %>% 
+  select(sourceTaxonName, interactionTypeName, targetTaxonName, Mass_kg, Mass_source, decimalLatitude, decimalLongitude, localityName, sourceCitation)
+
+write_csv(canid_full, "data/canid_interactions_mass_location.csv")
 
 #### functions ####
 
 extract_taxa <- function(input_df){
   cleaned_names <- tibble(species = as.character(), genus = as.character(),
-                          family = as.character(), order = as.character(), 
+                      family = as.character(), order = as.character(), 
                           class = as.character(), kingdom = as.character())
   
   for(i in 1:length(input_df)){
