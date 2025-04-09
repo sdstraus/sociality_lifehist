@@ -269,6 +269,8 @@ write_csv(meta_mass, "data/canid_preyItems_mass.csv")
 canid_mass_sb <- read_csv("data/canid_preyItems_mass.csv")
 canid_mass_yhl <- read_csv("data/canid_preyItems_mass_YHL.csv")
 
+all_canids_filtered <- read_csv(file = "data/canids_filteredGlobi.csv", quote = "none")
+
 canid_mass_cleaned <- canid_mass_yhl %>% 
   dplyr::rename(notes = `...10`) %>% 
   filter(!is.na(species)) %>% 
