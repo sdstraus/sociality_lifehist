@@ -5,12 +5,14 @@ library(tidyverse)
 
 metadata <- read_excel("data/Scenario4_carnivore_intraspecificComp.xlsx", 
                        sheet = "Paper_metadata") |> 
-  dplyr::rename(Paper = paper)
+  dplyr::rename(Paper = paper) |> 
+  mutate(Paper = str_remove(Paper, ".pdf"))
 
 wolf_dat <- read_excel("data/Scenario4_carnivore_intraspecificComp.xlsx", 
-                       sheet = "gray wolf")
+                       sheet = "gray wolf") |> 
+  mutate(Paper = str_remove(Paper, ".pdf"))
 
-combine_dat <- full_join(wolf_dat, metadata, by = "Paper")
+combine_dat <- left_join(wolf_dat, metadata, by = "Paper")
 
 ## There is some clean up in paper names that needs to happen! this is just proof of concept
 
