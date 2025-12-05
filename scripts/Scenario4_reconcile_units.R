@@ -21,3 +21,9 @@ combine_dat2 <- combine_dat |>
   mutate(wolves_p_km2 = TL_wolves / as.numeric(`study area (km^2)`))
 
 hist(combine_dat2$wolves_p_km2)
+names(combine_dat2)
+
+missing_studyarea <- combine_dat2 |> 
+  filter(is.na(`study area (km^2)`))
+
+unique(missing_studyarea$Paper)
